@@ -1,148 +1,84 @@
+# 4704 Medieföretagen Avtal för Tjänstemän i Public Serviceföretag
 
+2025-04-01 – 2027-03-31
 
-4704 Medieföretagen Avtal för Tjänstemän i Public Serviceföretag4704 Medieföretagen Avtal för Tjänstemän i Public Serviceföretag
-## 2025-04-01 – 2027-03-312025-04-01 – 2027-03-31
-Allmänna anställningsvillkorAllmänna anställningsvillkor
-Uppdaterad 2025-05-09Uppdaterad 2025-05-09
+Allmänna anställningsvillkor
+
+Uppdaterad 2025-05-09
 
 ## Innehållsförteckning
-Allmänna definitioner
-§ 1 Avtalets omfattning
-## § 2 Anställning
-§ 3 Allmänna förhållningsregler
-## § 4 Arbetstid
-§ 5 Resor i tjänsten
-## § 6 Lön
-## § 7 Semester
-§ 8 Sjukdom m.m.
-§ 9 Permission och tjänstledighet
-## § 10 Kompetensutveckling
-## § 11 Upphovsrätt
-## § 12 Uppsägning
-§ 13 Överenskommelse om avsättning till Flexpension i Tjänsteföretag
-och om deltid i pensioneringssye
-## § 14 Giltighetstid
 
-Enligt särskilda överenskommelser gäller även följande avtal mellan Medieföretagen och Unionen med i
-varje avtal angiven giltighetstid:
-Avtal om tjänstegrupplivförsäkring (TGL)
-Avtal om kompletterande pensionsförmåner (ITP)
-Användning av konkurrensklausuler i anställningsavtal
-Rätten till arbetstagares uppfinningar
-Avtal om skiljedomsregler för skiljenämnder i uppfinnar- och konkurrensklausultvister
-Huvudavtal om trygghet, omställning och anställningsskydd mellan Svenskt Näringsliv
-och PTK
-Utvecklingsavtalet med överenskommelse om förslagsverksamheten
-Avtalet om Trygghetsförsäkring (TFA) mellan Svenskt Näringsliv och PTK
-Avtal mellan arbetsgivarorganisationen inom Svenskt Näringsliv och
-arbetstagarorganisationen PTK angående visst informationsutbyte samt tydliggörande
-angående kollektivavtalsbundenhet för utträdd arbetsgivare och att tillsvidareavtal
-tidsbegränsas vid utträde
-Allmänna definitioner
+- Allmänna definitioner
+- § 1 Avtalets omfattning
+- § 2 Anställning
+- § 3 Allmänna förhållningsregler
+- § 4 Arbetstid
+- § 5 Resor i tjänsten
+- § 6 Lön
+- § 7 Semester
+- § 8 Sjukdom m.m.
+- § 9 Permission och tjänstledighet
+- § 10 Kompetensutveckling
+- § 11 Upphovsrätt
+- § 12 Uppsägning
+- § 13 Överenskommelse om avsättning till Flexpension i Tjänsteföretag och om deltid i pensioneringssye
+- § 14 Giltighetstid
+
+Enligt särskilda överenskommelser gäller även följande avtal mellan Medieföretagen och Unionen med i varje avtal angiven giltighetstid:
+
+- Avtal om tjänstegrupplivförsäkring (TGL)
+- Avtal om kompletterande pensionsförmåner (ITP)
+- Användning av konkurrensklausuler i anställningsavtal
+- Rätten till arbetstagares uppfinningar
+- Avtal om skiljedomsregler för skiljenämnder i uppfinnar- och konkurrensklausultvister
+- Huvudavtal om trygghet, omställning och anställningsskydd mellan Svenskt Näringsliv och PTK
+- Utvecklingsavtalet med överenskommelse om förslagsverksamheten
+- Avtalet om Trygghetsförsäkring (TFA) mellan Svenskt Näringsliv och PTK
+- Avtal mellan arbetsgivarorganisationen inom Svenskt Näringsliv och arbetstagarorganisationen PTK angående visst informationsutbyte samt tydliggörande angående kollektivavtalsbundenhet för utträdd arbetsgivare och att tillsvidareavtal tidsbegränsas vid utträde
+
+## Allmänna definitioner
+
 Med lokala parter avses i avtalet arbetsgivare och respektive lokal arbetstagarorganisation.
-BegreppDefinition
-## Månadslön
-Med månadslön avses den aktuella
-månadslönen inklusive fasta
-lönetillägg.
-Rörliga lönedelar
-Med rörliga lönedelar avses samtliga
-ersättningar som inte ingår i
-månadslönen såsom beredskaps- och
-ob-ersättning eller liknande rörlig
-lönedel
-## Daglön/-avdrag
-(Kalenderdaglön)
-Daglönen beräknas enligt följande
-formel
-månadslönen × 12
-## 365
-## Timlön
-Timlön beräknas enligt följande
-formel
 
-## Årsarbetstiden
-beräknad enligt principen om 28-
-årscykel
-## Månadslön
-## 163
-39 tim och 10 min
-veckoarbetstid
+| Begrepp | Definition |  |
+|-|-|-|
+| Månadslön | Med månadslön avses den aktuella månadslönen inklusive fasta lönetillägg. | |
+| Rörliga lönedelar | Med rörliga lönedelar avses samtliga ersättningar som inte ingår i månadslönen såsom beredskaps- och ob-ersättning eller liknande rörlig lönedel | |
+| Daglön/-avdrag | | |
+| (Kalenderdaglön) | Daglönen beräknas enligt följande formel: (månadslönen × 12) / 365 | |
+| Timlön | Timlön beräknas enligt följande formel | |
+| | (Månadslön / 163)<br />Årsarbetstiden beräknad enligt principen om 28- årscykel | 39 tim och 10 min veckoarbetstid |
+| | (Månadslön / 158) | 36,5 tim veckoarbetstid |
+| | (Månadslön / 150) | 34,5 tim veckoarbetstid |
+| | (Månadslön / 140) | 32,5 tim veckoarbetstid |
+| Veckoarbetstid | Den arbetstid per vecka som är fastställd för respektive arbetstidsform enligt § 4 i detta avtal. Om olika lång arbetstid gäller för olika delar av året räknas arbetstiden per vecka i genomsnitt per år. | |
+| Deltidslön |  Med deltidslön avses månadslön relaterad till sysselsättningsgrad. | |
+| Ordinarie arbetstid | Ordinarie arbetstid definieras i detta avtal såsom den schemalagda arbetstiden för den enskilde medarbetaren. | |
+| Obekväm arbetstid | Med obekväm arbetstid avses här sådan arbetstid som inryms i det ordinarie arbetstidsmåttet men som infaller före kl 07.00 respektive efter kl 18.00 helgfria måndagar – fredagar samt arbetstiden enligt tabell i § 4 mom 5 på lördagar, söndagar och helger. | |
+| Övertidsarbete | Med övertidsarbete avses i detta avtal arbete som medarbetaren har utfört utöver den för denne gällande ordinarie arbetstidens längd om - arbetet har beordrats i förväg eller, - där detta inte kunnat ske godkänts i efterhand av arbetsgivaren | |
+| Beredskap | Med beredskap avses tid då medarbetaren inte har arbetsskyldighet men åläggs vara anträffbar för att inom föreskriven tid efter varsel inställa sig på arbetsstället. | |
 
-månadslönen
-## 158
-36,5 tim
-veckoarbetstid
-## NYTT
+## § 1 Avtalets omfattning
 
-BegreppDefinition
+### Mom 1 Avtalets omfattning
 
-
-månadslönen
-## 150
-34,5 tim
-veckoarbetstid
-
-månadslönen
-## 140
-32,5 tim
-veckoarbetstid
-## Veckoarbetstid
-Den arbetstid per vecka som är
-fastställd för respektive
-arbetstidsform enligt § 4 i detta
-avtal.  Om olika lång arbetstid gäller
-för olika delar av året räknas
-arbetstiden per vecka i genomsnitt
-per år.
-## Deltidslön
-Med deltidslön avses månadslön
-relaterad till sysselsättningsgrad.
-Ordinarie arbetstid
-Ordinarie arbetstid definieras i detta
-avtal såsom den schemalagda
-arbetstiden för den enskilde
-medarbetaren.
-Obekväm  arbetstid
-Med obekväm arbetstid avses här
-sådan arbetstid som inryms i det
-ordinarie arbetstidsmåttet men som
-infaller före kl 07.00 respektive efter
-kl 18.00 helgfria måndagar – fredagar
-samt arbetstiden enligt tabell i § 4
-mom 5 på lördagar, söndagar och
-helger.
-## Övertidsarbete
-Med övertidsarbete avses i detta
-avtal arbete som medarbetaren har
-utfört utöver den för denne gällande
-ordinarie arbetstidens längd om
-- arbetet har beordrats i förväg eller, -
-där detta inte kunnat ske godkänts i
-efterhand av arbetsgivaren
-## Beredskap
-Med beredskap avses tid då
-medarbetaren inte har
-arbetsskyldighet men åläggs vara
-anträffbar för att inom föreskriven
-tid efter varsel inställa sig på
-arbetsstället.
-§ 1 Avtalets omfattning
-Mom 1 Avtalets omfattning
 Avtalet avser arbetstagare (i fortsättningen kallade medarbetare) anställda vid Public Serviceföretag
 medlemmar i Medieföretagen med i mom 2 angivna undantag.
-## Mom 2 Undantag
 
-Mom 2:1 Vissa medarbetare
+### Mom 2 Undantag
+
+#### Mom 2:1 Vissa medarbetare
+
 Avtalet gäller inte för
-företagsledare och personer i företagsledande ställning Innebörden av begreppet företagsledande
-ställning är densamma som i lagen om anställningsskydd.
-medarbetare som har en anställning som utgör bisyssla
-medarbetare som är musiker i Sveriges Radios Symfoniorkester eller korist i Radiokören
-visstidsanställda medarbetare som engageras för uppgier inom ramen för avtal mellan
-Medieföretagen och Svenska Musikerförbundet eller Teaterförbundet - fackförbundet för scen &
+
+- företagsledare och personer i företagsledande ställning Innebörden av begreppet företagsledande ställning är densamma som i lagen om anställningsskydd.
+- medarbetare som har en anställning som utgör bisyssla
+- medarbetare som är musiker i Sveriges Radios Symfoniorkester eller korist i Radiokören
+- visstidsanställda medarbetare som engageras för uppgier inom ramen för avtal mellan Medieföretagen och Svenska Musikerförbundet eller Teaterförbundet - fackförbundet för scen &
 media.
-## Mom 2:2 Pensionärer
+
+#### Mom 2:2 Pensionärer
+
 För medarbetare som står kvar i tjänst vid företaget eer 67 års ålder eller som anställs eer ordinarie
 uppnådd pensionsålder enligt ITP-planen gäller avtalet med följande inskränkningar. Den del av § 8 som
 avser sjuklön eer den 15:e kalenderdagen gäller endast om
