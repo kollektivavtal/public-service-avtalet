@@ -380,82 +380,82 @@ För deltidsanställda skall antalet kvälls- och nattjänstgöringar proportion
 
 Lokal överenskommelse om undantag kan träffas mellan arbetsgivaren och lokal facklig organisation.
 
---
+##### Rast/paus
 
-
-
-
-## Rast/paus
 Raster skall av arbetsledningen förläggas så att medarbetarna inte utför arbete mer än fem timmar i följd.
-Rast inräknas inte i medarbetarens arbetstid och innebär att medarbetaren inte är skyldig att stanna kvar
-på arbetsplatsen.
+
+Rast inräknas inte i medarbetarens arbetstid och innebär att medarbetaren inte är skyldig att stanna kvar på arbetsplatsen.
+
 Rast skall vara lägst en ½ timma och högst 1½ timma. Endast en rast får vara mindre än 1 timma.
-Arbetet skall av arbetsledningen ordnas så att medarbetarna kan ta de pauser som behövs utöver rasterna.
-Pauser inräknas i arbetstiden.
-Undantag från huvudregeln om maximalt fem timmars arbete mellan raster gäller dock för arbetspass som
-infaller kl 00-06 samt på lördag/söndag. Vid sådana tillfällen kan avgränsade arbetspass omfatta 6 timmar. I
-dessa fall skall en av pauserna uppgå till minst 15 minuter.
-## Måltidsuppehåll
-Rast får bytas mot måltidsuppehåll vid arbetsplatsen om det är nödvändigt med hänsyn till
-arbetsförhållandena. Sådant måltidsuppehåll inräknas i medarbetarens arbetstid.
-## Varsel
+
+Arbetet skall av arbetsledningen ordnas så att medarbetarna kan ta de pauser som behövs utöver rasterna. Pauser inräknas i arbetstiden.
+
+Undantag från huvudregeln om maximalt fem timmars arbete mellan raster gäller dock för arbetspass som infaller kl 00-06 samt på lördag/söndag. Vid sådana tillfällen kan avgränsade arbetspass omfatta 6 timmar. I dessa fall skall en av pauserna uppgå till minst 15 minuter.
+
+##### Måltidsuppehåll
+
+Rast får bytas mot måltidsuppehåll vid arbetsplatsen om det är nödvändigt med hänsyn till arbetsförhållandena. Sådant måltidsuppehåll inräknas i medarbetarens arbetstid.
+
+##### Varsel
+
 Veckovila och förläggning av arbetstid skall meddelas minst 28 dagar i förväg (se dock mom 2.2.1).
-## Överliggningsrum
+
+##### Överliggningsrum
+
 När arbetspass förläggs så att det slutar kl. 00.00-06.00 ordnas med överliggningsrum.
 
-Mom 2:3 Arbetstid vid kurs eller konferens
-Deltagande i kurs eller konferens medför inte rätt till kompensation i form av OB eller övertidsersättning.
-För deltidsanställd medarbetare som beordras övertidsarbete utgår dock övertidsersättning enligt mom.
-4:1:3 upp till heltid. För det fallet att schemalagd ledig dag infaller vid deltagande i kurs eller konferens har
-medarbetaren rätt att ta ut denna i nära anslutning till kursens eller konferensens avslut, efter
-överenskommelse med arbetsgivaren. Kurs eller konferens skall endast i undantagsfall förläggas till helger.
-## NYTT
-## NYTT
-## NYTT
+#### Mom 2:3 Arbetstid vid kurs eller konferens
 
-Mom 2:4 Uppgifter om arbetstid
-Medarbetare ska föra och lämna uppgifter om arbetstid varje månad, om inte rapportering av arbetstid sker
-på annat sätt.
+Deltagande i kurs eller konferens medför inte rätt till kompensation i form av OB eller övertidsersättning. För deltidsanställd medarbetare som beordras övertidsarbete utgår dock övertidsersättning enligt mom. 4:1:3 upp till heltid. För det fallet att schemalagd ledig dag infaller vid deltagande i kurs eller konferens har medarbetaren rätt att ta ut denna i nära anslutning till kursens eller konferensens avslut, efter överenskommelse med arbetsgivaren. Kurs eller konferens skall endast i undantagsfall förläggas till helger.
 
-## Mom 3 Övertid
-## Mom 3:1 Övertidsarbete
+#### Mom 2:4 Uppgifter om arbetstid
+
+Medarbetare ska föra och lämna uppgifter om arbetstid varje månad, om inte rapportering av arbetstid sker på annat sätt.
+
+### Mom 3 Övertid
+
+#### Mom 3:1 Övertidsarbete
+
 Varje påbörjad kvart tillgodoräknas som fullgjord övertid.
-Om övertidsarbetet har utförts såväl före som efter den ordinarie arbetstiden viss dag, skall de båda
-övertidsperioderna sammanräknas.
-## Anmärkning
-Övertidsarbete som deltidsanställd med normalarbetstid utför utöver deltidsanställningens ordinarie dagliga
-arbetstid ska avräknas från övertidsutrymmet enligt mom 3:2 nedan.
-Mom 3:2 Årligt allmänt övertidsuttag
-När särskilda skäl föreligger får allmän övertid tas ut med högst 150 timmar per kalenderår.
-Mom 3:3 Begränsningsmått av övertidsuttag
-Den sammanlagda totala arbetstiden (ordinarie arbetstid + övertid) får inte överskrida 48 timmar i
-genomsnitt per sjudagarsperiod under en beräkningsperiod om tre månader. Vid beräkning av den
-sammanlagda arbetstiden skall semester och sjukfrånvaro under tid då medarbetaren annars skulle ha
-arbetat likställas med fullgjord arbetstid.
-Mom 3:4 Avräkning av övertid
-Allmän övertid, oavsett kompensationsform, skall avräknas från övertidsutrymmet enligt mom 3:2 ovan.
-Om övertiden ersätts med ledig tid (kompensationsledighet) återförs det antal ”övertidstimmar” som har
-kompenserats genom ledigheten till övertidsutrymmet enligt mom 3:2 ovan. Under kalenderåret får högst
-75 timmar på detta sätt återföras till övertidsutrymmet, såvida inte arbetsgivaren och den lokala
-arbetstagarorganisationen enats om annat.
-Mom 3:5 Extra övertidsuttag
-Utöver vad ovan sagts kan, när synnerliga skäl föreligger, extra övertid tas ut under kalenderåret enligt
-följande:
-a. högst 75 timmar efter överenskommelse mellan arbetsgivaren och den
-lokala arbetstagarorganisationen
-b. ytterligare högst 75 timmar efter överenskommelse mellan
-förbundsparterna eller, om dessa enas därom, mellan arbetsgivaren och den
-lokala arbetstagarorganisationen.
-## Mom 3:6 Nödfallsövertid
-Har naturkatastrof eller olyckshändelse eller annan därmed jämförlig omständighet, som inte kunnat
-förutses, vållat avbrott i verksamheten eller medfört överhängande fara för sådant avbrott eller för skada på
-liv, hälsa eller egendom, skall övertid som fullgjorts med anledning därav inte beaktas vid beräkning av
-övertid enligt mom 3:2 ovan.
 
-Mom 3:7 Anteckning av övertid
+Om övertidsarbetet har utförts såväl före som efter den ordinarie arbetstiden viss dag, skall de båda övertidsperioderna sammanräknas.
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Övertidsarbete som deltidsanställd med normalarbetstid utför utöver deltidsanställningens ordinarie dagliga arbetstid ska avräknas från övertidsutrymmet enligt mom 3:2 nedan.
+
+#### Mom 3:2 Årligt allmänt övertidsuttag
+
+När särskilda skäl föreligger får allmän övertid tas ut med högst 150 timmar per kalenderår.
+
+#### Mom 3:3 Begränsningsmått av övertidsuttag
+
+Den sammanlagda totala arbetstiden (ordinarie arbetstid + övertid) får inte överskrida 48 timmar i genomsnitt per sjudagarsperiod under en beräkningsperiod om tre månader. Vid beräkning av den sammanlagda arbetstiden skall semester och sjukfrånvaro under tid då medarbetaren annars skulle ha arbetat likställas med fullgjord arbetstid.
+
+#### Mom 3:4 Avräkning av övertid
+
+Allmän övertid, oavsett kompensationsform, skall avräknas från övertidsutrymmet enligt mom 3:2 ovan.
+
+Om övertiden ersätts med ledig tid (kompensationsledighet) återförs det antal ”övertidstimmar” som har kompenserats genom ledigheten till övertidsutrymmet enligt mom 3:2 ovan. Under kalenderåret får högst 75 timmar på detta sätt återföras till övertidsutrymmet, såvida inte arbetsgivaren och den lokala arbetstagarorganisationen enats om annat.
+
+#### Mom 3:5 Extra övertidsuttag
+
+Utöver vad ovan sagts kan, när synnerliga skäl föreligger, extra övertid tas ut under kalenderåret enligt följande:
+
+- högst 75 timmar efter överenskommelse mellan arbetsgivaren och den lokala arbetstagarorganisationen
+- ytterligare högst 75 timmar efter överenskommelse mellan förbundsparterna eller, om dessa enas därom, mellan arbetsgivaren och den lokala arbetstagarorganisationen.
+
+#### Mom 3:6 Nödfallsövertid
+
+Har naturkatastrof eller olyckshändelse eller annan därmed jämförlig omständighet, som inte kunnat förutses, vållat avbrott i verksamheten eller medfört överhängande fara för sådant avbrott eller för skada på liv, hälsa eller egendom, skall övertid som fullgjorts med anledning därav inte beaktas vid beräkning av övertid enligt mom 3:2 ovan.
+
+#### Mom 3:7 Anteckning av övertid
+
 Arbetsgivaren skall föra de anteckningar som erfordras för beräkning av övertid enligt mom 3.
 Medarbetaren, den lokala arbetstagarorganisationen eller central facklig representant har rätt att ta del av
 dessa anteckningar.
+
 ## Mom 4 Övertidsersättning
 Mom 4:1 Övertidsersättningens storlek
 ## Mom 4:1:1 Ersättningsformer
