@@ -120,11 +120,11 @@ Om en medarbetare har varit anställd mer än fyra år på vikariat och allmän 
 
 ##### Anmärkning 2
 
-Medarbetare kan eer det att tidpunkten för omvandling till tillsvidareanställning inträtt träffa skrilig överenskommelse med arbetsgivaren om att avstå den aktualiserade omvandlingen. Sådan överenskommelse gäller i sex månader. Medarbetare kan häreer på nytt avstå från tillsvidareanställning enligt denna regel. För den som uppnått den ordinarie pensionsåldern enligt ITP-planen (f.n. 65 år) övergår inte en allmän visstidsanställning eller ett vikariat till en tillsvidareanställning.
+Medarbetare kan efter det att tidpunkten för omvandling till tillsvidareanställning inträtt träffa skriftlig överenskommelse med arbetsgivaren om att avstå den aktualiserade omvandlingen. Sådan överenskommelse gäller i sex månader. Medarbetare kan härefter på nytt avstå från tillsvidareanställning enligt denna regel. För den som uppnått den ordinarie pensionsåldern enligt ITP-planen (f.n. 65 år) övergår inte en allmän visstidsanställning eller ett vikariat till en tillsvidareanställning.
 
 ##### Anmärkning 3
 
-Vid omvandling av en allmän visstids- och/eller vikariatsanställning till en tillsvidareanställning gäller samma anställningsvillkor som vid senaste visstidsanställningen, om inte annan överenskommelse träffats mellan medarbetaren och arbetsgivare. Enas inte parterna om medarbetarens sysselsättningsgrad ska denna fastställas till att omfatta den genomsnittliga sysselsättningsgraden som medarbetaren ha under de senaste tolv anställningsmånaderna proportionellt.
+Vid omvandling av en allmän visstids- och/eller vikariatsanställning till en tillsvidareanställning gäller samma anställningsvillkor som vid senaste visstidsanställningen, om inte annan överenskommelse träffats mellan medarbetaren och arbetsgivare. Enas inte parterna om medarbetarens sysselsättningsgrad ska denna fastställas till att omfatta den genomsnittliga sysselsättningsgraden som medarbetaren haft under de senaste tolv anställningsmånaderna proportionellt.
 
 #### Mom 2:3 Programanställning
 
@@ -283,7 +283,7 @@ form av eventuell högre lön och extra semesterdagar, som utgetts som kompensat
 Information om träffade överenskommelser om undantag enligt detta mom skall lämnas till berörd lokal
 facklig organisation inom två veckor efter det att överenskommelse träffats.
 ## Anmärkning
-Vid nyanställning av medarbetare med ringa arbetslivserfarenhet bör detta mom inte tillämpas förrän eer ett
+Vid nyanställning av medarbetare med ringa arbetslivserfarenhet bör detta mom inte tillämpas förrän efter ett
 års anställning.
 ## NYTT
 
@@ -395,7 +395,7 @@ vecka.
 Parterna är överens om att lokal överenskommelse innebär att arbetsgivaren får utökade möjligheter till
 förläggning enligt ovan där verksamheten så kräver i utbyte mot lägre veckoarbetstid om 34,5 timmar i
 genomsnitt per vecka. Arbetsgivarens begäran om lokal förhandling ska hanteras skyndsamt.
-Om lokal överenskommelse inte kan träffas kan endera part begära central konsultation i sye att få de lokala
+Om lokal överenskommelse inte kan träffas kan endera part begära central konsultation i syfte att få de lokala
 parterna att träffa lokal överenskommelse enligt ovan.
 Mom 2:3 Arbetstid vid kurs eller konferens
 Deltagande i kurs eller konferens medför inte rätt till kompensation i form av OB eller övertidsersättning.
@@ -468,7 +468,7 @@ Mom 4:1:3 Ersättning och tidsgränser
 för övertidsarbete kl 06-20 helgfria måndagar – fredagar:
 för övertidsarbete på annan tid:
 ## Anmärkning
-Övertidsarbete på för den enskilde medarbetaren arbetsfria vardagar, samt midsommar-, jul- och nyårsaon
+Övertidsarbete på för den enskilde medarbetaren arbetsfria vardagar, samt midsommar-, jul- och nyårsafton
 jämställs med övertidsarbete på ”annan tid”.
 Kompensationsledighet för övertidsarbete som avses under a) utges med 1½ timme och för övertidsarbete
 som avses under b) med 2 timmar för varje övertidstimme.
@@ -689,10 +689,10 @@ utan till semesterersättning.
 Avvikelse från denna regel kan överenskommas mellan medarbetaren och arbetsgivaren vid
 anställningstillfället.
 ## Anmärkning
-Även om syet inledningsvis, i samband med anställningen eller de sammanlagda anställningarna, inte varit
+Även om syftet inledningsvis, i samband med anställningen eller de sammanlagda anställningarna, inte varit
 att anställningsförhållandet skulle bestå längre tid än tre månader, men att detta blivit en konsekvens av hur
-anställningsförhållandet/ anställningsförhållandena utvecklats eer hand, ska en ny anställning som följer
-häreer, omfatta rätt till semesterledighet enligt kollektivavtalet, som om den första anställningen syat att
+anställningsförhållandet/ anställningsförhållandena utvecklats efter hand, ska en ny anställning som följer
+härefter, omfatta rätt till semesterledighet enligt kollektivavtalet, som om den första anställningen syftat att
 vara längre än tre månader
 ## Mom 3.2 Garanti
 Medarbetare som i det individuella fallet på grund av kollektivavtal eller enskilt anställningsavtal har rätt
@@ -1258,7 +1258,7 @@ kompensation för detta. Detsamma gäller medarbetare som vid tidpunkten för le
 exempelvis på grund av sjukdom eller tjänstledighet. Den medarbetare som varit ledig men som slutar
 senare under kalenderåret blir inte återbetalningsskyldig.
 ## Anmärkning
-Ledighet enligt mom. 3.2 får inte förläggas på midsommaraon, julaon eller nyårsaon.
+Ledighet enligt mom. 3.2 får inte förläggas på midsommarafton, julafton eller nyårsafton.
 ## NYTT
 ## NYTT
 
@@ -1437,7 +1437,7 @@ arbetstagare vid uppsägning som sker inom tre månader därefter.
 Denna bestämmelse ersätter bestämmelsen i 22 § andra stycket anställningsskyddslagen, dvs. det s.k.
 tvåundantaget.
 Med avtalsområde avses i denna bestämmelse kategoriklyvningen mellan arbetare och tjänstemän.
-Vad som utgör drisenhet regleras inte i denna bestämmelse. Definitionen av vad som är en drisenhet finns i
+Vad som utgör driftsenhet regleras inte i denna bestämmelse. Definitionen av vad som är en driftsenhet finns i
 22 § tredje stycket anställningsskyddslagen, vilken bestämmelse är dispositiv.
 
 Med begreppet anställda som slutligen får avsluta sin anställning på grund av arbetsbristen avses samtliga
@@ -1448,17 +1448,17 @@ Avseende procentregeln ska avrundning ske matematiskt.
 De arbetstagare som undantas ska enligt arbetsgivaren ha särskild betydelse för den fortsatta verksamheten.
 Arbetsgivarens bedömning i denna fråga kan inte angripas rättsligt.
 Möjligheten att undanta arbetstagare från turordningen gäller enligt paragrafens femte stycke inte i fall där
-arbetsgivaren tidigare inom en tremånadersperiod vid berörd drisenhet och avtalsområde har sagt upp
+arbetsgivaren tidigare inom en tremånadersperiod vid berörd driftsenhet och avtalsområde har sagt upp
 arbetstagare på grund av arbetsbrist och då använt sig av undantagsmöjligheten. En arbetsgivare som har sagt
 upp en eller flera arbetstagare på grund av arbetsbrist och då undantagit arbetstagare från turordningen får
-alltså först eer att tre månader har passerat, från det att den första uppsägningen verkställts, undanta
-arbetstagare från turordningen vid uppsägning på grund av en ”ny” arbetsbrist vid en drisenhet och
+alltså först efter att tre månader har passerat, från det att den första uppsägningen verkställts, undanta
+arbetstagare från turordningen vid uppsägning på grund av en ”ny” arbetsbrist vid en driftsenhet och
 avtalsområde som varit berörd. Annars kan arbetsgivaren bli skadeståndsskyldig för brott mot
 turordningsreglerna. Det nu sagda gäller bara i fall där arbetsgivaren vid den tidigare arbetsbristuppsägningen
 faktiskt använt sig av möjligheten att undanta arbetstagare från turordningen. Med begreppet berörd
-drisenhet och avtalsområde avses i denna bestämmelse drisenhet och avtalsområde där någon arbetstagare
+driftsenhet och avtalsområde avses i denna bestämmelse driftsenhet och avtalsområde där någon arbetstagare
 sagts upp på grund av arbetsbrist. Vid sammanläggning innebär det att spärren i paragrafens femte stycke
-endast träffar drisenheter och avtalsområden där någon arbetstagare faktiskt sagts upp på grund av
+endast träffar driftsenheter och avtalsområden där någon arbetstagare faktiskt sagts upp på grund av
 arbetsbristen.
 Mom 3 Övriga bestämmelser vid uppsägning
 Mom 3:1 Överenskommelse om annan uppsägningstid
@@ -1951,7 +1951,7 @@ Steg 5 – Besked om ny lön
 Efter avslutad lönerevision meddelar chefen medarbetarens nya lön. Den nya lönen ska kunna motiveras av
 chefen.
 ## Anmärkning 1
-Då facklig företrädare för Unionen saknas meddelar arbetsgivaren eer genomförda lönesamtal nya löner
+Då facklig företrädare för Unionen saknas meddelar arbetsgivaren efter genomförda lönesamtal nya löner
 enligt punkt 5) ovan och i enlighet med avtalet. Unionen kan begära förhandling om sådan lönesättning, vilket
 beskrivs i 9. Lönerevision Radiohjälpen.
 ## Anmärkning 2
@@ -2421,7 +2421,7 @@ kontaktombudets uppgifter och befogenheter.
 ## Kommentar
 Parterna är överens om att det är betydelsefullt att det är de anställda och deras fackliga representanter i
 företaget som i första hand utövar medbestämmandet. LO och PTK samt deras förbund åtar sig att aktivt
-verka för att ombud utses i företag utan lokal arbetstagarorganisation och att kontaktombudet ges uppgier
+verka för att ombud utses i företag utan lokal arbetstagarorganisation och att kontaktombudet ges uppgifter
 och befogenheter att hantera frågor enligt detta avtal på det sätt lokal arbetstagarorganisation informerar
 arbetsgivaren om. SAF åtar sig att aktivt verka för att arbetsgivaren tillser att tid avsätts för ombudets
 utbildning och för fullgörande av det fackliga uppdraget.
