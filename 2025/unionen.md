@@ -21,7 +21,7 @@ Uppdaterad 2025-05-09
 - § 10 Kompetensutveckling
 - § 11 Upphovsrätt
 - § 12 Uppsägning
-- § 13 Överenskommelse om avsättning till Flexpension i Tjänsteföretag och om deltid i pensioneringssye
+- § 13 Överenskommelse om avsättning till Flexpension i Tjänsteföretag och om deltid i pensioneringssyfte
 - § 14 Giltighetstid
 
 Enligt särskilda överenskommelser gäller även följande avtal mellan Medieföretagen och Unionen med i varje avtal angiven giltighetstid:
@@ -74,12 +74,12 @@ Avtalet gäller inte för
 - företagsledare och personer i företagsledande ställning Innebörden av begreppet företagsledande ställning är densamma som i lagen om anställningsskydd.
 - medarbetare som har en anställning som utgör bisyssla
 - medarbetare som är musiker i Sveriges Radios Symfoniorkester eller korist i Radiokören
-- visstidsanställda medarbetare som engageras för uppgier inom ramen för avtal mellan Medieföretagen och Svenska Musikerförbundet eller Teaterförbundet - fackförbundet för scen &
+- visstidsanställda medarbetare som engageras för uppgifter inom ramen för avtal mellan Medieföretagen och Svenska Musikerförbundet eller Teaterförbundet - fackförbundet för scen &
 media.
 
 #### Mom 2:2 Pensionärer
 
-För medarbetare som står kvar i tjänst vid företaget eer 67 års ålder eller som anställs eer ordinarie uppnådd pensionsålder enligt ITP-planen gäller avtalet med följande inskränkningar. Den del av § 8 som avser sjuklön eer den 15:e kalenderdagen gäller endast om
+För medarbetare som står kvar i tjänst vid företaget efter 67 års ålder eller som anställs efter ordinarie uppnådd pensionsålder enligt ITP-planen gäller avtalet med följande inskränkningar. Den del av § 8 som avser sjuklön efter den 15:e kalenderdagen gäller endast om
 
 - särskild överenskommelse om detta träffats mellan arbetsgivaren och medarbetaren
 - uppsägningstiden är en månad för både arbetsgivaren och medarbetaren
@@ -88,7 +88,7 @@ Arbetsgivaren och sådan medarbetare som avses i detta moment kan komma överens
 
 #### Mom 2:3 Lokala avtal
 
-§ 4 Arbetstid och § 5 Resor i tjänsten i detta avtal tillämpas om de lokala parterna inte avtalat om andra lokalt anpassade lösningar. Sådana lokala avtal skall vara skriliga och innehålla omfattning, giltighetstid samt uppsägningsregler.
+§ 4 Arbetstid och § 5 Resor i tjänsten i detta avtal tillämpas om de lokala parterna inte avtalat om andra lokalt anpassade lösningar. Sådana lokala avtal skall vara skriftliga och innehålla omfattning, giltighetstid samt uppsägningsregler.
 
 Överenskommelse om annan omfattning av allmän övertid skall underställas förbundsparterna för godkännande.
 
@@ -104,11 +104,11 @@ Anställning gäller tills vidare om annat inte överenskommits enligt mom 2 ned
 
 #### Mom 2:1 Allmän visstidsanställning
 
-Arbetsgivare och medarbetare kan överenskomma om anställning för viss tid. Har medarbetaren ha allmän visstidsanställning längre än sammanlagt två år under en femårsperiod övergår anställningen till en tillsvidareanställning.
+Arbetsgivare och medarbetare kan överenskomma om anställning för viss tid. Har medarbetaren haft allmän visstidsanställning längre än sammanlagt två år under en femårsperiod övergår anställningen till en tillsvidareanställning.
 
 #### Mom 2:2 Vikariat
 
-Avtal om anställning för viss tid får träffas om anställningen avser vikariat vid frånvaro av anställd medarbetare. Har medarbetaren ha vikariatsanställning längre än sammanlagt tre år under en femårsperiod övergår anställningen till en tillsvidareanställning.
+Avtal om anställning för viss tid får träffas om anställningen avser vikariat vid frånvaro av anställd medarbetare. Har medarbetaren haft vikariatsanställning längre än sammanlagt tre år under en femårsperiod övergår anställningen till en tillsvidareanställning.
 
 Med vikariat avses att en medarbetare ersätter en annan medarbetare under dennes frånvaro. Med vikariat avses också när en medarbetare under högst sex månader, alternativt under den längre tid som fastställts i överenskommelse mellan arbetsgivaren och den lokala arbetstagarparten, uppehåller en befattning i avvaktan på att den återbesätts.
 
@@ -136,13 +136,13 @@ Närmare bestämmelser om programanställning finns i Bilaga A.
 
 Har medarbetaren varit frånvarande under den mellan företaget och medarbetaren avtalade perioden för programanställning får arbetsgivaren och medarbetaren, innan tiden för programanställning löper ut, träffa avtal om att förlänga anställningen i motsvarande mån.
 
-Har programanställningar träffats mellan arbetsgivaren och medarbetaren och som sammanlagt omfattar 48 månader får arbetsgivaren och medarbetaren träffa avtal om ytterligare programanställning såvida sådan anställning träffats inom ramen av 60 månader från första anställningstillfället. Sådan anställning får träffas eer att arbetsgivaren underrättat lokal arbetstagarpart härom.
+Har programanställningar träffats mellan arbetsgivaren och medarbetaren och som sammanlagt omfattar 48 månader får arbetsgivaren och medarbetaren träffa avtal om ytterligare programanställning såvida sådan anställning träffats inom ramen av 60 månader från första anställningstillfället. Sådan anställning får träffas efter att arbetsgivaren underrättat lokal arbetstagarpart härom.
 
 Om den begränsade tiden för programanställning överskridits får den senast ingångna anställningen, så länge anställningsförhållande föreligger, på arbetstagarpartens begäran, omvandlas till tillsvidareanställning.
 
 Företrädesrätt till återanställning gäller inte, vare sig till anställning eller som utökning av sysselsättningsgrad, medarbetare med programanställning. Inte heller åtnjuter en medarbetare med programanställning företrädesrätt till sådan anställning eller annan befattning i verksamheten.
 
-Ett avtal om programanställning får inte upphöra i nära anslutning före julhelgen, för att däreer förlängas/förnyas i nära anslutning eer trettonhelgen, i en ny programanställning. I fall en programanställning har avslutats och förlängts på ovan angivet sätt anses programanställningen i sådant
+Ett avtal om programanställning får inte upphöra i nära anslutning före julhelgen, för att därefter förlängas/förnyas i nära anslutning efter trettonhelgen, i en ny programanställning. I fall en programanställning har avslutats och förlängts på ovan angivet sätt anses programanställningen i sådant
 fall bestå under nämnda period.
 
 ##### Anmärkning 1
@@ -157,15 +157,15 @@ Skolungdom och studerande får i övrigt anställas för viss tid, viss säsong 
 
 #### Mom 2:5 Pensionär
 
-Medarbetare som står kvar i tjänst vid företaget eer 67 år ålder eller för denne gällande ordinarie pensionsåldern enligt ITP-planen får anställas för viss tid. Samma gäller om en medarbetare anställs eer det att denne har uppnått den pensionsålder som tillämpas vid företaget.
+Medarbetare som står kvar i tjänst vid företaget efter 67 år ålder eller för denne gällande ordinarie pensionsåldern enligt ITP-planen får anställas för viss tid. Samma gäller om en medarbetare anställs efter det att denne har uppnått den pensionsålder som tillämpas vid företaget.
 
 #### Mom 2:6 Provanställning
 
-Avtal om anställning för viss tid i form av provanställning kan träffas mellan arbetsgivaren och medarbetare om medarbetarens kvalifikationer inom befattningsområdet är oprövade eller det annars föreligger särskilda skäl att pröva medarbetarens kvalifikationer och arbetsförutsättningar mot bakgrund av arbetsuppgiernas speciella krav.
+Avtal om anställning för viss tid i form av provanställning kan träffas mellan arbetsgivaren och medarbetare om medarbetarens kvalifikationer inom befattningsområdet är oprövade eller det annars föreligger särskilda skäl att pröva medarbetarens kvalifikationer och arbetsförutsättningar mot bakgrund av arbetsuppgifternas speciella krav.
 
 Avtal om provanställning kan omfatta högst 6 månader.
 
-Om medarbetaren varit frånvarande under provperioden kan anställningen eer över enskommelse förlängas med motsvarande tid.
+Om medarbetaren varit frånvarande under provperioden kan anställningen efter över enskommelse förlängas med motsvarande tid.
 
 Om provanställningen inte övergår till en tillsvidareanställning, ska arbetsgivaren motivera sitt ställningstagande, om medarbetaren begär det.
 
@@ -179,7 +179,7 @@ Medarbetare som uppnått pensionsålder, 67 år, eller avgått med pension enlig
 
 Medarbetare som under pågående vikariatsanställning blir föräldraledig med föräldrapenning och som vid denna anställnings upphörande uppfyller förutsättningarna för företrädesrätt till återanställning har rätt att med åberopande av sin föräldraledighet under pågående företrädesrättsperiod tacka nej till anställningserbjudanden utan att därför förverka sin företrädesrätt.
 
-Nedanstående regel gäller för medarbetare som har gjort gällande sin företrädesrätt eer den 1 april 2017.
+Nedanstående regel gäller för medarbetare som har gjort gällande sin företrädesrätt efter den 1 april 2017.
 
 Företrädesrätt till återanställning gäller inte till ny anställning som bedöms få en varaktighet av högst en månad.
 
@@ -187,7 +187,7 @@ Utöver vad som anges i 25 § anställningsskyddslagen gäller att medarbetare m
 
 Med verksamhet/avdelning likställs redaktion, produktionsenhet eller administrativ avdelning.
 
-En anställd, eller f.d. anställd, med återanställningsrätt, som på grund av omorganisation mister den enhet som återanställningsrätten ska göras gällande emot, ska istället erhålla återanställningsrätt inom den större kvarvarande enhet inom drisenheten som den anställdes tidigare avdelning ingick i.
+En anställd, eller f.d. anställd, med återanställningsrätt, som på grund av omorganisation mister den enhet som återanställningsrätten ska göras gällande emot, ska istället erhålla återanställningsrätt inom den större kvarvarande enhet inom driftsenheten som den anställdes tidigare avdelning ingick i.
 
 #### Mom 2:8 Information till lokal arbetstagarorganisation
 
@@ -199,7 +199,7 @@ Har inte sådan överenskommelse träffats ska arbetsgivaren lämna en samlad in
 
 För anställningar, som avses ha en varaktighet längre än en månad, ska medarbetaren erhålla ett anställningsbevis med sådant innehåll som framgår av anställningsskyddslagens 6 c § i samband med att anställningen tillträds.
 
-Undantag från ovan anförda får tillåtas om arbetsgivaren, på grund av omständigheter som denne inte kunnat förutse, överlämnat anställningsbeviset senast 14 dagar eer att anställningen tillträtts.
+Undantag från ovan anförda får tillåtas om arbetsgivaren, på grund av omständigheter som denne inte kunnat förutse, överlämnat anställningsbeviset senast 14 dagar efter att anställningen tillträtts.
 
 För andra anställningar bör anställningsbevis upprättas.
 
@@ -216,7 +216,7 @@ Programmedarbetare får inte åläggas att utföra uppdrag som uppenbart står i
 ## Mom 2 Diskretionsskyldighet
 Medarbetare har rätt att delta i den allmänna debatten om radion och televisionen samt om företaget men
 är därvid skyldig att iaktta diskretion om både sin och andras verksamhet inom företaget.
-Diskretionsskyldigheten avser uppgier om medarbetare och medverkande i program samt om sådana
+Diskretionsskyldigheten avser uppgifter om medarbetare och medverkande i program samt om sådana
 företagsinterna förhållanden, vilkas offentliggörande vore till skada för företagets verksamhet eller
 integritet.
 Mom 3 Skyddande av företagets opartiskhet
@@ -236,7 +236,7 @@ Medarbetare kan dock utan arbetsgivarens medgivande inneha statligt, kommunalt e
 förtroendeuppdrag.
 
 Mom 5 Nyttjande av programuppslag utanför företaget
-Medarbetare får endast eer särskilt tillstånd i förvärvssye förse andra massmedieföretag med material
+Medarbetare får endast efter särskilt tillstånd i förvärvssyfte förse andra massmedieföretag med material
 angående program eller förhållanden inom företaget. Medarbetare får inte heller utan särskilt tillstånd
 utnyttja program eller programuppslag utanför företaget.
 Mom 6 Opartiskhet i tjänsten
@@ -245,7 +245,7 @@ tilltron till vederbörandes opartiskhet i tjänsten inte med fog kan ifrågasä
 
 Mom 7 Särskild nämnd
 Tvister mellan företaget och medarbetare angående tillämpningen av denna paragraf kan av endera parten
-hänskjutas till en nämnd. Nämndens yttrande, som skall lämnas skriligt, är rådgivande och inkräktar inte
+hänskjutas till en nämnd. Nämndens yttrande, som skall lämnas skriftligt, är rådgivande och inkräktar inte
 på gällande förhandlingsordning mellan parterna. Nämnden skall bestå av sex ledamöter. Av dessa utses tre
 av arbetsgivarparten och tre av berörd lokal facklig organisation inom företaget. Till sammanträde i
 nämnden kallas en representant från vardera Medieföretagen och central facklig organisation.
@@ -268,20 +268,20 @@ bedöma arbetstidsvolymen för dessa medarbetare.
 (80 600 kr år 2025). Medarbetaren har istället rätt till fem extra
 Mom 1:3 Överenskommelse om undantag från övertidsersättning
 Arbetsgivaren och medarbetare som har en tjänsteställning som medför rätt att självständigt beordra andra
-medarbetare att arbeta övertid eller med hänsyn till sina arbetsuppgier och/eller ställning naturligt sett
+medarbetare att arbeta övertid eller med hänsyn till sina arbetsuppgifter och/eller ställning naturligt sett
 har att själv avgöra behovet och förläggningen av egen övertid, kan träffa överenskommelse om att
 medarbetaren skall vara undantagen från tillämpningen av bestämmelserna i mom 4.
 I samband med en sådan överenskommelse kan medarbetare och arbetsgivaren även komma överens om
 att undantas från mom 5 och 6.
 Istället för ersättning för övertidsarbete skall medarbetaren erhålla fem dagars extra semester och/eller
 högre lön.
-Överenskommelse enligt detta moment skall vara skrilig och avse ett kalenderår om inte arbetsgivaren
+Överenskommelse enligt detta moment skall vara skriftlig och avse ett kalenderår om inte arbetsgivaren
 och medarbetaren kommer överens om annat. Uppsägning av överenskommelsen kan ske senast den sista
 november respektive år. Vid uppsägning av överenskommelsen sker en omprövning av de extra förmåner i
 form av eventuell högre lön och extra semesterdagar, som utgetts som kompensation och mom 4 skall
 återigen tillämpas på medarbetaren.
 Information om träffade överenskommelser om undantag enligt detta mom skall lämnas till berörd lokal
-facklig organisation inom två veckor eer det att överenskommelse träffats.
+facklig organisation inom två veckor efter det att överenskommelse träffats.
 ## Anmärkning
 Vid nyanställning av medarbetare med ringa arbetslivserfarenhet bör detta mom inte tillämpas förrän eer ett
 års anställning.
@@ -289,20 +289,20 @@ Vid nyanställning av medarbetare med ringa arbetslivserfarenhet bör detta mom 
 
 Mom 2 Ordinarie arbetstid
 ## Mom 2:1 Normalarbetstid
-Ordinarie arbetstid utgör 39 timmar och 10 minuter per helgfri vecka och den förläggs eer samråd mellan
+Ordinarie arbetstid utgör 39 timmar och 10 minuter per helgfri vecka och den förläggs efter samråd mellan
 arbetsgivare och lokal arbetstagarorganisation mellan klockan 07.00 och 18.00 och fördelas måndag till
 fredag.
 Lokala parter kan träffa avtal om flexibel förläggning av arbetstiden för de som omfattas av
 normalarbetstid.
-Olika lång ordinarie arbetstid kan eer lokal överenskommelse tillämpas under olika delar av året.
+Olika lång ordinarie arbetstid kan efter lokal överenskommelse tillämpas under olika delar av året.
 Det åligger arbetsgivaren att ange rastens längd och inom vilket tidsintervall rast ska förläggas. Byte av rast
 till måltidsuppehåll ska endast beviljas i undantagsfall av behörig chef.
 Ovan gäller inte när medarbetare själv, enligt överenskommelse med arbetsgivaren, förlägger sin arbetstid.
 ## Mom 2:2 Produktionsarbetstid
-För medarbetare som på grund av verksamhetens art har arbetsuppgier som helt eller delvis måste utföras
+För medarbetare som på grund av verksamhetens art har arbetsuppgifter som helt eller delvis måste utföras
 på andra tider än normalarbetstid utgör ordinarie arbetstid i genomsnitt 36,5 timmar per sjudagarsperiod
 oberoende av under perioden infallande helgdagar. För medarbetare i verksamhet där arbetet förläggs i
-form av kontinuerligt treski med storhelgsdri är arbetstiden i genomsnitt 32,5 timmar per
+form av kontinuerligt treskift med storhelgsdrift är arbetstiden i genomsnitt 32,5 timmar per
 sjudagarsperiod baserat på central överenskommelse från 21 oktober 1975.
 Förläggning av schemalagd tid kan ske över veckans alla dagar, dock skall arbetstiden där så är möjligt
 förläggas på vardagar.
@@ -313,7 +313,7 @@ regler skall beaktas vid upprättande av arbetstidsschema:
 Schemaläggningen av arbetstid görs, om inte överenskommelse lokalt träffas om annat, i olika etapper
 enligt följande:
 ## Etapp 1:
-Övergripande schema för visst kvartal, innehållande uppgier om produktionsprojekt, produktionsveckor
+Övergripande schema för visst kvartal, innehållande uppgifter om produktionsprojekt, produktionsveckor
 samt övriga kända produktionsförutsättningar, görs minst 28 dagar före respektive kvartal. Om så är
 möjligt, bör alla sådana preciseringar, som nämns under Etapp 2, ske redan under Etapp 1 av
 planeringsprocessen. Det förhållandet att Etapp 2-preciseringar gjorts under Etapp 1 medför dock ingen
@@ -325,7 +325,7 @@ arbetstidsförläggningen - skall, så långt möjligt, berörda medarbetare ber
 samråd förlägga sina arbetstider. En allmän utgångspunkt för denna möjlighet till förläggning av egen
 arbetstid är, om inte annat lokalt överenskommes, att samtliga arbetspass i aktuellt
 tjänstgöringsschema bemannas enligt fastställda verksamhetsförutsättningar.
-Arbetsledningen skall vid schemaläggningen eersträva att uppnå enighet med berörda medarbetare
+Arbetsledningen skall vid schemaläggningen eftersträva att uppnå enighet med berörda medarbetare
 och/eller facklig företrädare för dessa medarbetare.
 
 ## Etapp 2:
@@ -347,7 +347,7 @@ avräkning av eventuell övertidskompensation.
 ## Nattvila
 Alla medarbetare skall ha ledigt för nattvila. I ledigheten skall ingå tiden mellan klockan 24.00 och 05.00.
 Avvikelse från denna regel får göras, om arbetet med hänsyn till dess art, allmänhetens behov eller andra
-särskilda omständigheter måste fortgå även nattetid eller bedrivas före klockan 5 eller eer klockan 24.
+särskilda omständigheter måste fortgå även nattetid eller bedrivas före klockan 5 eller efter klockan 24.
 ## Veckovila
 Minst 58 timmar. Max 6 veckovilor per år får förläggas utanför hemorten om inte annat överenskommes
 mellan berörd medarbetare och arbetsgivare
@@ -387,7 +387,7 @@ arbetsförhållandena. Sådant måltidsuppehåll inräknas i medarbetarens arbet
 Veckovila och förläggning av arbetstid skall meddelas minst 28 dagar i förväg (se dock mom 2.2.1).
 ## Överliggningsrum
 När arbetspass förläggs så att det slutar kl. 00.00-06.00 ordnas med överliggningsrum.
-För vissa medarbetare där verksamheten så kräver får, eer lokal överenskommelse, kvälls- och/eller
+För vissa medarbetare där verksamheten så kräver får, efter lokal överenskommelse, kvälls- och/eller
 nattjänstgöring, som infaller mellan kl. 19.00 till 06.00, förläggas 14 till 16 gånger per fyraveckorsperiod.
 Medarbetare som omfattas av denna begränsningsregel har 34,5 timmars veckoarbetstid i genomsnitt per
 vecka.
@@ -401,20 +401,20 @@ Mom 2:3 Arbetstid vid kurs eller konferens
 Deltagande i kurs eller konferens medför inte rätt till kompensation i form av OB eller övertidsersättning.
 För deltidsanställd medarbetare som beordras övertidsarbete utgår dock övertidsersättning enligt mom.
 4:1:3 upp till heltid. För det fallet att schemalagd ledig dag infaller vid deltagande i kurs eller konferens har
-medarbetaren rätt att ta ut denna i nära anslutning till kursens eller konferensens avslut, eer
+medarbetaren rätt att ta ut denna i nära anslutning till kursens eller konferensens avslut, efter
 överenskommelse med arbetsgivaren. Kurs eller konferens skall endast i undantagsfall förläggas till helger.
 ## NYTT
 ## NYTT
 ## NYTT
 
 Mom 2:4 Uppgifter om arbetstid
-Medarbetare ska föra och lämna uppgier om arbetstid varje månad, om inte rapportering av arbetstid sker
+Medarbetare ska föra och lämna uppgifter om arbetstid varje månad, om inte rapportering av arbetstid sker
 på annat sätt.
 
 ## Mom 3 Övertid
 ## Mom 3:1 Övertidsarbete
 Varje påbörjad kvart tillgodoräknas som fullgjord övertid.
-Om övertidsarbetet har utförts såväl före som eer den ordinarie arbetstiden viss dag, skall de båda
+Om övertidsarbetet har utförts såväl före som efter den ordinarie arbetstiden viss dag, skall de båda
 övertidsperioderna sammanräknas.
 ## Anmärkning
 Övertidsarbete som deltidsanställd med normalarbetstid utför utöver deltidsanställningens ordinarie dagliga
@@ -435,9 +435,9 @@ arbetstagarorganisationen enats om annat.
 Mom 3:5 Extra övertidsuttag
 Utöver vad ovan sagts kan, när synnerliga skäl föreligger, extra övertid tas ut under kalenderåret enligt
 följande:
-a. högst 75 timmar eer överenskommelse mellan arbetsgivaren och den
+a. högst 75 timmar efter överenskommelse mellan arbetsgivaren och den
 lokala arbetstagarorganisationen
-b. ytterligare högst 75 timmar eer överenskommelse mellan
+b. ytterligare högst 75 timmar efter överenskommelse mellan
 förbundsparterna eller, om dessa enas därom, mellan arbetsgivaren och den
 lokala arbetstagarorganisationen.
 ## Mom 3:6 Nödfallsövertid
@@ -454,7 +454,7 @@ dessa anteckningar.
 Mom 4:1 Övertidsersättningens storlek
 ## Mom 4:1:1 Ersättningsformer
 Övertidsarbete ersätts i pengar (övertidsersättning) eller – om medarbetaren så önskar och arbetsgivaren
-eer samråd med medarbetaren finner att så kan ske utan olägenhet för verksamheten vid företaget – i
+efter samråd med medarbetaren finner att så kan ske utan olägenhet för verksamheten vid företaget – i
 form av ledig tid (kompensationsledighet).
 Vid samrådet mellan arbetsgivaren och medarbetaren bör, så långt det är möjligt, medarbetarens önskemål
 beaktas när kompensationsledigheten skall läggas ut.
@@ -517,7 +517,7 @@ Mom 5:2 Undantag från ersättningsreglerna
 Överenskommelse om undantag från ovanstående ersättningsregler kan träffas mellan arbetsgivare och
 enskild medarbetare i mer kvalificerad befattning där skälig ersättning utges i annan form t.ex. extra
 semester och/eller högre lön. Den berörda lokala fackliga organisationen skall informeras om sådan
-överenskommelse inom 2 veckor eer överenskommelse träffats.
+överenskommelse inom 2 veckor efter överenskommelse träffats.
 Mom 5:3 Övertidsersättning och ersättning för obekväm arbetstid
 Ersättning för obekväm arbetstid och övertidsersättning kan inte utges samtidigt.
 Mom 5:4 Sjuklön och ersättning för obekväm arbetstid
@@ -567,14 +567,14 @@ månadslönen
 ## 350
 ## Mom 7 Nationaldagen
 De år nationaldagen infaller på en lördag eller söndag skall medarbetare som den dagen har arbetstidsform
-normalarbetstid, erhålla en dags kompensationsledighet att uttas eer överenskommelse mellan den
+normalarbetstid, erhålla en dags kompensationsledighet att uttas efter överenskommelse mellan den
 enskilde medarbetaren och arbetsgivaren.
 
 § 5 Resor i tjänsten
 Mom 1 Arbetstid vid tjänsteresa
 Mom 1:1 Allmänna bestämmelser
 Med tjänsteresa avses resa som medarbetare företar inom ramen för sin anställning till annan plats och ort
-än sin ordinarie arbetsplats. Tjänsteresa ska vara beordrad i förväg eller godkänd i eerhand av
+än sin ordinarie arbetsplats. Tjänsteresa ska vara beordrad i förväg eller godkänd i efterhand av
 arbetsgivaren.
 För medarbetares tjänsteresa till någon av arbetsgivarens fasta arbetsplatser/ordinarie produktionslokaler
 gäller de vid arbetsplatsen/produktionslokalen för jämförbara medarbetare gällande arbetstidsreglerna.
@@ -597,7 +597,7 @@ hemkomsten, utan avräkning av eventuell övertidskompensation.
 Mom 1:3 Arbetstid m.m. vid utrikes tjänsteresa med övernattning
 Arbetstiden är i genomsnitt 7 timmar och 50 minuter per dag, dock högst 39 timmar och 10 minuter per
 sjudagarsperiod.
-För beordrat eller i eerhand godkänt arbete utöver ordinarie arbetstid vid utrikes tjänsteresa utges, om
+För beordrat eller i efterhand godkänt arbete utöver ordinarie arbetstid vid utrikes tjänsteresa utges, om
 avtal inte träffas om annat, utrikesersättning. Vid arbete utöver 7 timmar och 50 minuter per arbetsdag och
 för arbete utöver 39 timmar och 10 minuter per sjudagarsperiod ersätts varje timme med:
 Ersättning betalas för fullgjorda halvtimmar.
@@ -624,7 +624,7 @@ produktionsplatser, och vilka produktioner sträcker sig över minst 5 dygn.
 Medarbetare som normalt arbetar enligt annan arbetstidsform, skall underrättas om att förändrad
 arbetstidsförläggning kommer att ske enligt reglerna om varseltider. Medarbetaren äger rätt till
 kompensationsledighet timme för timme för den ordinarie arbetstid medarbetaren utför på tillfälliga
-produktionsplatser utöver sitt normala arbetstidsmått. Ledigheten förläggs eer överenskommelse mellan
+produktionsplatser utöver sitt normala arbetstidsmått. Ledigheten förläggs efter överenskommelse mellan
 arbetsgivaren och medarbetaren, normalt i anslutning till hemkomsten.
 Mom 2 Social trygghet
 Under utlandsvistelsen skall medarbetare tillförsäkras social trygghet motsvarande de avtals- och lagfästa
@@ -751,10 +751,10 @@ Semesterersättning får inte i någon form inkluderas i lönen.
 Vid tidsbegränsad anställning i högst en månad beräknas semesterersättning med 12 % på den uppburna
 ersättningen. Vid kortare anställningar inom programverksamheten kan beroende på anställningens
 särskilda karaktär, semesterersättning utgå med 12 % på den uppburna ersättningen utgå för en längre
-tidsperiod, dock högst omfattande 60 dagar, eer särskild överenskommelse med medarbetaren.
+tidsperiod, dock högst omfattande 60 dagar, efter särskild överenskommelse med medarbetaren.
 Medarbetare och arbetsgivaren kan överenskomma om att även semesterledighet utan semesterlön kan
 förläggas under del av semestern. Obetald semesterledighet som förläggs tillsammans med betald
-semesterledighet, i sye att få en sammanhängande semesterperiod, får högst uppgå till 25 dagar, om
+semesterledighet, i syfte att få en sammanhängande semesterperiod, får högst uppgå till 25 dagar, om
 anställningen ingåtts före den 1 augusti. I annat fall får sådan ledighet högst uppgå till 8 dagar.
 Vid beräkning av semesterns längd del av kalenderår ska ett brutet tal avrundas till närmast högre dagantal.
 ## Mom 4.4 Löneavdrag
@@ -762,7 +762,7 @@ För varje uttagen obetald semesterdag gör avdrag från medarbetarens aktuella 
 månadslönen.
 Definition av begreppet månadslön – se § 6 mom 1.
 Mom 4.5 Förändrad sysselsättningsgrad
-Om medarbetaren tidigare under intjänande-/semesteråret ha en annan sysselsättningsgrad än vid
+Om medarbetaren tidigare under intjänande-/semesteråret haft en annan sysselsättningsgrad än vid
 semestertillfället ska den vid semestertillfället aktuella månadslönen proportioneras i förhållande till
 medarbetarens andel av full ordinarie arbetstid under redan passerad del av intjänandeåret.
 Definition av begreppet månadslön – se § 6 mom 1.
@@ -771,10 +771,10 @@ Vid utbetalning av semesterlön gäller följande om inte lokal överenskommelse
 Om medarbetarens lön till väsentlig del består av rörlig lön har denne rätt att vid det ordinarie
 löneutbetalningstillfället i samband med semestern få ett av arbetsgivaren uppskattat semestertillägg
 avseende den rörliga lönedelen utbetalat à conto.
-Arbetsgivaren ska senast vid semesterårets utgång betala ut det semestertillägg som kan återstå eer
+Arbetsgivaren ska senast vid semesterårets utgång betala ut det semestertillägg som kan återstå efter
 beräkning enligt mom 4:2.
 Semestertillägget om 0,8 % betalas ut vid det ordinarie löneutbetalningstillfället i samband med eller
-närmast eer semestern.
+närmast efter semestern.
 Semestertillägget om 0,5 % betalas ut senast vid semesterårets slut.
 
 Mom 5 Sparande av semester
@@ -801,7 +801,7 @@ Semesterlönen för sparad semesterdag ska vidare anpassas till medarbetarens an
 arbetstid under det semesterår då dagen sparades.
 Beträffande beräkning av andel av full ordinarie arbetstid - se mom 4.5.
 Mom 6 Avräkning av semesterlön
-Om medarbetaren som eer egen uppsägning slutar sin anställning under löpande kalenderår
+Om medarbetaren som efter egen uppsägning slutar sin anställning under löpande kalenderår
 dessförinnan har fått ut för mycket semesterlön, görs avdrag på lönen eller semesterersättningen under
 uppsägningstiden.
 Avdrag ska inte heller göras om anställningen upphör på grund av:
@@ -817,7 +817,7 @@ Mom 8 Föräldraledighet i anslutning till semester
 Ansökan om föräldraledighet som avses infalla någon gång i perioden 1 juni till 31 augusti respektive år
 bör inges till arbetsgivaren i samband med semesteransökan, det vill säga normalt senast den 1 mars.
 Mom 9 Omvandling av semesterlönetillägg
-Medarbetaren kan eer skrilig överenskommelse med arbetsgivaren omvandla värdet av det
+Medarbetaren kan efter skriftlig överenskommelse med arbetsgivaren omvandla värdet av det
 sammanlagda semesterlönetillägget om 0,8 % för ett år till att förläggas som ledig tid. För sådan utlagd
 ledig tid görs inte löneavdrag.
 Överenskommelse av detta slag kan träffas med utgångspunkt att gälla för ett helt kalenderår i taget. Part
@@ -825,8 +825,8 @@ som vill att överenskommelsen ska upphöra nästkommande år ska underrätta pa
 december.
 Har sådan överenskommelse träffats utgår inte semestertillägg för avtalade semesterdagar som den
 anställde i annat fall har rätt till enligt gällande kollektiv- och anställningsavtal.
-Semestertillägg som omvandlats till ledig tid får tas ut eer att semesterdagar har förbrukats. I fall sådana
-dagar inte tagits ut ett semesterår får sådana dagar endast sparas till året eer. Däreer förfaller sådan dag
+Semestertillägg som omvandlats till ledig tid får tas ut efter att semesterdagar har förbrukats. I fall sådana
+dagar inte tagits ut ett semesterår får sådana dagar endast sparas till året efter. Därefter förfaller sådan dag
 till betalning, dock senast i samband med januari månads löneutbetalning.
 ## Anmärkning
 Av semesterlönen utgår 4,6 % lön och 0,8 % semestertillägg per dag. En omvandling av semestertillägget till
@@ -875,11 +875,11 @@ semestertillägg respektive utlagda semesterdagar.
 Mom 10.2 Semesterledighet som beräknas vara minst 19 dagar
 Vid semesterledighet som beräknas vara minst 19 dagar förläggs semesterdagarna till måndag–till fredag
 med medarbetarens genomsnittliga arbetstidsmått för varje semesterdag. Eventuellt arbetsskyldiga
-veckoslut omedelbart före och omedelbart eer semesterledigheten ska vara lediga utan att semesterdagar
+veckoslut omedelbart före och omedelbart efter semesterledigheten ska vara lediga utan att semesterdagar
 konsumeras
 
 Lördagar och söndagar om infaller under aktuell semesterledighet räknas inte som semesterdagar. Med
-söndag jämställs helgdag, påsk-, pingst-, midsommar-, jul- och nyårsaon. Semester enligt denna punkt
+söndag jämställs helgdag, påsk-, pingst-, midsommar-, jul- och nyårsafton. Semester enligt denna punkt
 ska i regel börja på en måndag.
 ## Avstämningsregler
 Målsättningen med reglerna i mom 10:1 och 10:2 är att i möjligaste mån uppnå samma semesterförmåner
@@ -908,7 +908,7 @@ lagen om sjuklön.
 Bestämmelserna i denna paragraf som avser sjuklön under de första 14 kalenderdagarna gäller även
 medarbetare som innehar en anställning som utgör bisyssla.
 ## Mom 1:1 Pensionärer
-Medarbetare som står kvar i tjänst eller anställs vid företaget eer 67 års ålder eller eer gällande ordinarie
+Medarbetare som står kvar i tjänst eller anställs vid företaget efter 67 års ålder eller efter gällande ordinarie
 pensionsålder enligt ITP-planen har inte rätt till sjuklön från och med den 15:e kalenderdagen om inte
 särskild överenskommelse träffats om detta vid anställningen och om uppsägningstiden är en månad från
 både arbetsgivaren och den anställdes sida.
@@ -923,11 +923,11 @@ enligt Socialförsäkringsbalken.
 Sjuklön skall som huvudregel inte utges för tid innan arbetsgivaren fått anmälan om sjukdomsfallet (8 §
 första stycket SjLL).
 ## Mom 2:2 Försäkran
-Medarbetaren skall lämna arbetsgivaren en skrilig försäkran om att han har varit sjuk, uppgier om i
+Medarbetaren skall lämna arbetsgivaren en skriftlig försäkran om att han har varit sjuk, uppgifter om i
 vilken omfattning hans arbetsförmåga varit nedsatt på grund av sjukdomen och under vilka dagar han
 skulle ha arbetat (9 § SjLL).
 ## Mom 2:3 Läkarintyg
-Arbetsgivaren är skyldig att utge sjuklön fr.o.m. den sjunde kalenderdagen eer dagen för sjukanmälan
+Arbetsgivaren är skyldig att utge sjuklön fr.o.m. den sjunde kalenderdagen efter dagen för sjukanmälan
 endast om medarbetaren styrker nedsättningen av arbetsförmågan och sjukperiodens längd med läkarintyg
 (8 § andra stycket SjLL).
 Om arbetsgivaren begär det skall medarbetaren styrka nedsättningen av arbetsförmågan med läkarintyg
@@ -940,8 +940,8 @@ enligt nedan. Arbetsgivaren skall därvid göra sjukavdrag från den aktuella m�
 Mom 3:2 Sjukdom t o m 14 kalenderdagar per sjukperiod
 För varje timme en medarbetare är frånvarande på grund av sjukdom görs sjukavdrag per timme med
 
-Om medarbetaren skulle ha utfört arbete på schemalagd förskjuten arbetstid utges dessutom sjuklön eer
-karenstid med 80 % av den ski- eller ob-ersättning som denne gått miste om.
+Om medarbetaren skulle ha utfört arbete på schemalagd förskjuten arbetstid utges dessutom sjuklön efter
+karenstid med 80 % av den skift- eller ob-ersättning som denne gått miste om.
 ## Anmärkning 1
 Av § 8 Mom 1 framgår att sjukperiod som börjar inom 5 kalenderdagar från att en tidigare sjukperiod
 upphört ska betraktas som en fortsättning på tidigare sjukperiod. Det innebär att fortsatt karensavdrag kan
@@ -1013,7 +1013,7 @@ eller
 till medarbetare i grupp 1: t o m 90:e kalenderdagen i sjukperioden
 till medarbetare i grupp 2: t o m 45:e kalenderdagen i sjukperioden
 om medarbetaren har varit anställd hos arbetsgivaren under minst ett år i följd
-om medarbetaren övergått direkt från en anställning i vilken han har ha rätt till sjuklön under minst
+om medarbetaren övergått direkt från en anställning i vilken han har haft rätt till sjuklön under minst
 90 dagar.
 
 Medarbetare tillhör grupp 2 i övriga fall.
@@ -1070,7 +1070,7 @@ Arbetsgivaren är inte skyldig att utge sjuklön fr.o.m. 15:e kalenderdagen i sj
 ## Anmärkningar
 om medarbetaren har undantagits från sjukförsäkringsförmåner enligt Socialförsäkringsbalken, eller
 om medarbetarens arbetsoförmåga är självförvållad, eller
-om medarbetare kvarstår i tjänst eller anställs eer 67 års ålder, eller eer ordinarie pensionsålder
+om medarbetare kvarstår i tjänst eller anställs efter 67 års ålder, eller efter ordinarie pensionsålder
 enligt ITP-planen, om inte särskild överenskommelse om detta träffats mellan arbetsgivaren och
 medarbetaren förutsatt att uppsägningstiden från båda parter är en månad
 om medarbetaren har skadats till följd av krigsåtgärder, om inte överenskommelse om annat träffas.
@@ -1089,7 +1089,7 @@ Tjänstledighet som berättigar till föräldratillägg ska äga rum inom 24 må
 från när barnets omhändertagits vid adoption.
 Kvalifikation för föräldratillägg tillkommer också visstidsanställd om senast ingångna anställningen varat
 minst sex månader. Den anställde kan då lägga samman tidigare anställningstid i företaget för att uppnå
-kvalifikationstiden om ett år, dock begränsat till anställningstid som denne ha i företaget de senaste 24
+kvalifikationstiden om ett år, dock begränsat till anställningstid som denne haft i företaget de senaste 24
 månaderna, före föräldraledigheten påbörjas.
 Medarbetare som är tjänstledig på grund av graviditet, i samband med barns födelse eller adoption har rätt
 till föräldratillägg från arbetsgivaren om medarbetaren varit anställd hos arbetsgivaren minst i ett år i följd
@@ -1098,7 +1098,7 @@ Tjänstledighet som berättigar till föräldratillägg ska äga rum inom 24 må
 från när barnets omhändertagits vid adoption.
 Kvalifikation för föräldratillägg tillkommer också visstidsanställd om senast ingångna anställningen varat
 minst sex månader. Den anställde kan då lägga samman tidigare anställningstid i företaget för att uppnå
-kvalifikationstiden om ett år, dock begränsat till anställningstid som denne ha i företaget de senaste 24
+kvalifikationstiden om ett år, dock begränsat till anställningstid som denne haft i företaget de senaste 24
 månaderna, före föräldraledigheten påbörjas.
 Mom 6:2 Föräldratilläggets storlek
 Föräldratillägget beräknas olika beroende på om medarbetarens månadslön över- eller understiger en viss
@@ -1166,7 +1166,7 @@ För medarbetare med månadslön över 7,5 x prisbasbeloppet/12 (36 750 2025):
 ## NYTT
 
 För varje arbetsdag en medarbetare är helt eller delvis ledig tas en av de 15 dagarna i anspråk.
-Vid ledighet med tillfällig föräldrapenning utöver 15 arbetsdagar gäller följande eersom tillfällig
+Vid ledighet med tillfällig föräldrapenning utöver 15 arbetsdagar gäller följande eftersom tillfällig
 föräldrapenning beräknas per timme oavsett ledighetens längd.
 Om en medarbetare är frånvarande utöver ovan nämnda 15 dagar, görs löneavdrag per frånvarotimme
 med:
@@ -1200,7 +1200,7 @@ månadslönen × 12
 Med permission avses en kort ledighet med bibehållen lön. Permission beviljas i regel endast för del av
 arbetsdag. I särskilda fall (t ex vid hastigt påkommande sjukdomsfall inom medarbetares familj eller nära
 anhörigs frånfälle) kan dock permission beviljas även för en eller flera dagar. När påsk-, midsommar- och
-julaon inte är sedvanliga fridagar bör permission beviljas under dessa dagar i den mån så kan ske utan
+julafton inte är sedvanliga fridagar bör permission beviljas under dessa dagar i den mån så kan ske utan
 olägenhet för verksamheten vid företaget.
 ## Mom 2 Tjänstledighet
 Mom 2:1 Allmänna bestämmelser
@@ -1243,11 +1243,11 @@ Mom 3.2 Förläggning av ledighet
 Arbetsgivaren beslutar om förläggning av en ledig dag. Alternativt kan arbetstidsförkortningen förläggas
 till två lediga halvdagar i anslutning till veckoslut eller helgdagar.
 Förläggningen ska gälla för samtliga medarbetare inom berörd arbetsgrupp.
-Arbetsgivaren ska senast före årsskiet underrätta medarbetarna inom berörd arbetsgrupp om
+Arbetsgivaren ska senast före årsskiftet underrätta medarbetarna inom berörd arbetsgrupp om
 förläggningen för det kommande kalenderåret. Vid förläggning av ledighet i januari ska arbetsgivaren
 underrätta medarbetarna senast en månad före ledigheten.
 Om arbetsgivaren inte har underrättat medarbetarna om förläggning enligt föregående stycke, får
-medarbetarna arbetstidsförkortning genom att fredagen eer Kristi himmelfärdsdag är ledig.
+medarbetarna arbetstidsförkortning genom att fredagen efter Kristi himmelfärdsdag är ledig.
 Lokala parter kan träffa annan överenskommelse om förläggning av ledigheten. Sådan överenskommelse
 kan t ex innebära förläggning av ledig tid som del av dag eller per timme.
 Om en medarbetare måste arbeta under den dag som ledighet har förlagts till, får arbetsgivaren förlägga
@@ -1284,7 +1284,7 @@ För vissa medarbetare råder ett upphovsrättsligt anställningsförhållande. 
 tjänsten framställer litterära och konstnärliga verk eller utför andra prestationer som skyddas av
 upphovsrättslagen.
 Rätten till sådana verk och prestationer tillkommer företaget för nyttjande i dess verksamhet såväl under
-anställningstiden som däreer. Vid utnyttjandet skall företaget iaktta medarbetarens ideella rätt enligt 3 §
+anställningstiden som därefter. Vid utnyttjandet skall företaget iaktta medarbetarens ideella rätt enligt 3 §
 upphovsrättslagen.
 De närmare förutsättningarna för företagets utnyttjande regleras i överenskommelse mellan de lokala
 parterna.
@@ -1364,12 +1364,12 @@ Hur anställningstidens längd enligt ovan beräknas anges i 3 § i lagen om ans
 Mom 2 Formen för uppsägning m.m.
 ## Mom 2:1 Uppsägning
 För att det inte skall uppstå tvist om huruvida uppsägning har skett eller inte, bör medarbetaren göra sin
-uppsägning skriligen. Om uppsägning ändå sker muntligen bör medarbetaren så snart som möjligt
-bekräa den skriligen till arbetsgivaren.
+uppsägning skriftligen. Om uppsägning ändå sker muntligen bör medarbetaren så snart som möjligt
+bekräfta den skriftligen till arbetsgivaren.
 ## Mom 2:2 Varsel
 Varsel som arbetsgivaren enligt lagen om anställningsskydd skall ge lokalt till arbetstagarorganisation skall
 anses ha skett, när arbetsgivaren har överlämnat varselskrivelse till den lokala arbetstagarparten eller två
-arbetsdagar eer det att arbetsgivaren har avsänt skrivelsen i rekommenderat brev under respektive
+arbetsdagar efter det att arbetsgivaren har avsänt skrivelsen i rekommenderat brev under respektive
 förbunds adress.
 Mom 2:3 Lön under uppsägningstid
 I anslutning till 12 § lagen om anställningsskydd gäller följande för medarbetare som inte kan beredas
@@ -1378,7 +1378,7 @@ För medarbetare som helt eller delvis avlönas med provision, vilken har direkt
 medarbetarens personliga arbetsinsats gäller följande. För varje kalenderdag då medarbetaren inte kan
 erbjudas arbete skall inkomsten av provisionen anses uppgå till 1/365 av provisionsinkomsten under
 närmast föregående tolvmånadersperiod.
-Om ersättning för förskjuten arbetstid, ski- eller beredskapstjänstgöring normalt skulle ha utgetts till
+Om ersättning för förskjuten arbetstid, skift- eller beredskapstjänstgöring normalt skulle ha utgetts till
 medarbetaren gäller följande. För varje kalenderdag, då medarbetaren inte kan erbjudas arbete skall sådan
 ersättning anses uppgå till 1/365 av den under närmast föregående tolvmånadersperioden erhållna
 ersättningen.
@@ -1392,7 +1392,7 @@ De lokala parterna ska vid aktualiserad personalinskränkning värdera arbetsgiv
 bemanningshänseende. Om dessa behov inte kan tillgodoses med tillämpning av lag ska fastställandet av
 turordning ske med avsteg från bestämmelserna i anställningsskyddslagen.
 De lokala parterna ska därvid göra ett urval av de anställda som ska sägas upp så att arbetsgivarens behov
-av kompetens särskilt beaktas liksom arbetsgivarens möjligheter att bedriva konkurrenskraig verksamhet
+av kompetens särskilt beaktas liksom arbetsgivarens möjligheter att bedriva konkurrenskraftig verksamhet
 och därmed bereda fortsatt anställning.
 Det förutsätts att de lokala parterna på endera partens begäran träffar överenskommelse om fastställande
 av turordning vid uppsägning med tillämpning av 22 § anställningsskyddslagen och de avsteg från lagen
@@ -1401,7 +1401,7 @@ De lokala parterna kan också med avvikelse från bestämmelserna i 25–27 §§
 överenskomma om turordning vid återanställning. Därvid ska de ovan nämnda kriterierna gälla.
 
 Det åligger de lokala parterna att på begäran föra förhandlingar som sägs i föregående stycken liksom att
-skriligen bekräa träffade överenskommelser.
+skriftligen bekräfta träffade överenskommelser.
 Enas inte de lokala parterna, äger förbundsparterna om endera begär det, träffa överenskommelse i
 enlighet med ovan angivna riktlinjer.
 Det förutsätts att företaget inför behandlingen av frågorna som berörts i denna paragraf tillhandahåller den
@@ -1418,21 +1418,21 @@ anses vara "den lokala arbetstagarparten" i de nämnda avtalen. PTK-L ska även 
 arbetstagarorganisationen" enligt anställningsskyddslagen.
 ## Mom 2:4:2
 Om avtal om turordning vid uppsägning på grund av arbetsbrist inte kan träffas får arbetsgivaren vid
-berörd drisenhet och avtalsområde undanta tre arbetstagare.  De sålunda undantagna har företräde till
+berörd driftsenhet och avtalsområde undanta tre arbetstagare.  De sålunda undantagna har företräde till
 fortsatt anställning.
-Arbetsgivare som endast har en drisenhet kan vid tillämpning av första stycket istället välja att undanta
+Arbetsgivare som endast har en driftsenhet kan vid tillämpning av första stycket istället välja att undanta
 totalt fyra arbetstagare för samtliga avtalsområden.
-Vad avser situationen att flera drisenheter sammanlagts till en gemensam turordning genom tillämpning
+Vad avser situationen att flera driftsenheter sammanlagts till en gemensam turordning genom tillämpning
 av 22 § tredje stycket anställningsskyddslagen, ska antal vid tillämpning av första stycket vara tre
-arbetstagare plus en arbetstagare per drisenhet som omfattas av sammanläggningen utöver den första
-drisenheten, per avtalsområde.
-Alternativt med regleringen i första, andra och tredje stycket får en arbetsgivare vid berörd drisenhet och
+arbetstagare plus en arbetstagare per driftsenhet som omfattas av sammanläggningen utöver den första
+driftsenheten, per avtalsområde.
+Alternativt med regleringen i första, andra och tredje stycket får en arbetsgivare vid berörd driftsenhet och
 avtalsområde undanta 15 procent av de anställda som slutligen får avsluta sin anställning på grund av
 arbetsbristen, innan lagturlistan fastställs. Undantag enligt detta stycke får högst omfatta tio procent av de
-anställda vid berörd drisenhet eller drisenheter, per avtalsområde.
+anställda vid berörd driftsenhet eller driftsenheter, per avtalsområde.
 En arbetsgivare som vid uppsägning på grund av arbetsbrist undantagit en eller flera arbetstagare enligt
-första, andra, tredje eller ärde stycket får inte vid berörd drisenhet och avtalsområde undanta ytterligare
-arbetstagare vid uppsägning som sker inom tre månader däreer.
+första, andra, tredje eller ärde stycket får inte vid berörd driftsenhet och avtalsområde undanta ytterligare
+arbetstagare vid uppsägning som sker inom tre månader därefter.
 ## Anmärkning
 Denna bestämmelse ersätter bestämmelsen i 22 § andra stycket anställningsskyddslagen, dvs. det s.k.
 tvåundantaget.
@@ -1464,33 +1464,33 @@ Mom 3 Övriga bestämmelser vid uppsägning
 Mom 3:1 Överenskommelse om annan uppsägningstid
 Arbetsgivaren och medarbetaren kan komma överens om att annan uppsägningstid skall gälla. Om så sker
 får emellertid uppsägningstiden från arbetsgivarens sida inte understiga
-om medarbetaren vid anställningstillfället är arbetslös och 55 år eller äldre: 2 månader. Eer 3 års
+om medarbetaren vid anställningstillfället är arbetslös och 55 år eller äldre: 2 månader. Efter 3 års
 anställning gäller dock uppsägningstid enligt tabellen i mom 1:2
 i övriga fall: den tid som anges i tabellen mom 1:2
 Mom 3:2 Anställning på prov
-Anställning på prov upphör 14 dagar eer det någondera parten lämnat skrilig underrättelse. Har sådan
-underrättelse inte lämnats inom sex månader eer tillträdande av anställningen gäller den fortsatta
+Anställning på prov upphör 14 dagar efter det någondera parten lämnat skriftlig underrättelse. Har sådan
+underrättelse inte lämnats inom sex månader efter tillträdande av anställningen gäller den fortsatta
 anställningen såsom tillsvidareanställning om inte avtal om visstidsanställning träffats.
 Vid frånvaro kan arbetsgivaren och medarbetaren komma överens om en förlängning av
 provanställningsperioden motsvarande frånvaroperioden.
 Sådan överenskommelse ska parterna ha träffat före utgången av sex månader från första anställningsdag.
 ## Mom 3:3 Pensionärer
-Om medarbetaren står kvar i tjänst vid företaget eer 67 års ålder eller eer det att han uppnått den för
+Om medarbetaren står kvar i tjänst vid företaget efter 67 års ålder eller efter det att han uppnått den för
 honom gällande ordinarie pensionsåldern enligt ITP-planen är uppsägningstiden en månad för både
 arbetsgivaren och medarbetaren.
-Samma sak gäller om en medarbetare anställs vid företaget eer det att han uppnått den ordinarie
+Samma sak gäller om en medarbetare anställs vid företaget efter det att han uppnått den ordinarie
 pensionsåldern som tillämpas vid detta.
 Mom 3:4 Medarbetare som fyllt 69 år
 
 Oberoende av tidigare avtalad uppsägningstid gäller följande för medarbetare som fyllt 69 år.
-Anställningen kan bringas att upphöra vid utgången av den månad medarbetaren fyllt 69 år genom skrilig
+Anställningen kan bringas att upphöra vid utgången av den månad medarbetaren fyllt 69 år genom skriftlig
 underrättelse två månader innan från arbetsgivaren eller medarbetaren.
-Anställningar som fortsätter eer att medarbetaren uppnått den ålder som anges i första stycket kan
-bringas att upphöra genom att arbetsgivaren eller medarbetaren lämnar skrilig underrättelse därom.
-Anställningen upphör då en månad eer det att någondera parten skriligen underrättat motparten om sin
+Anställningar som fortsätter efter att medarbetaren uppnått den ålder som anges i första stycket kan
+bringas att upphöra genom att arbetsgivaren eller medarbetaren lämnar skriftlig underrättelse därom.
+Anställningen upphör då en månad efter det att någondera parten skriftligen underrättat motparten om sin
 avsikt att avbryta anställningen.
 Varsel till facklig organisation behöver inte lämnas med anledning av avbrytandet.
-Det är möjligt att överenskomma om längre avbrytandetid än en månad eer det att medarbetaren uppnått
+Det är möjligt att överenskomma om längre avbrytandetid än en månad efter det att medarbetaren uppnått
 ålder som anges i första stycket. Det ska uttryckligen framgå av överenskommelsen.
 ## Anmärkning:
 Lagen om anställningsskydd ger för närvarande medarbetare rätten att kvarstanna i tjänst till 69 års ålder.
@@ -1508,7 +1508,7 @@ tjänstgöringsbetyg, vilket utvisar
 Arbetsgivaren skall lämna tjänstgöringsbetyget inom en vecka från det att medarbetaren har begärt att få
 betyget.
 den tid som medarbetaren har varit anställd och
-de arbetsuppgier som medarbetaren har ha att utföra samt om medarbetaren så begär, vitsord
+de arbetsuppgifter som medarbetaren har haft att utföra samt om medarbetaren så begär, vitsord
 beträffande det sätt på vilket han har utfört sitt arbete.
 Mom 3:8 Intyg om uttagen semester
 När medarbetarens anställning upphör har han rätt att erhålla intyg som utvisar hur många av de
@@ -1519,13 +1519,13 @@ anses ha tagits ut först.
 ## Mom 3:9 Arbetsgivarintyg
 Det åligger arbetsgivaren att, i enlighet med 47 § 2 st Lag om arbetslöshetsförsäkring, utfärda s.k.
 arbetsgivarintyg, på anmodan av medarbetare som slutar sin anställning. Om medarbetaren begärt sådant
-intyg ska denne senast tillställas detta 14 dagar eer att medarbetaren erhållit eller borde ha erhållit sin
+intyg ska denne senast tillställas detta 14 dagar efter att medarbetaren erhållit eller borde ha erhållit sin
 slutlön.
 Mom 3:10 Avbrytande av vikariat och allmän visstid
 
 Nedanstående regel gäller anställningar som träffas efter den 1 april 2017.
 Ett vikariat eller en allmän visstid kan bringas att upphöra genom att arbetsgivaren eller medarbetaren
-lämnar underrättelse därom. Anställningen upphör då en månad eer det att någondera parten skriligen
+lämnar underrättelse därom. Anställningen upphör då en månad efter det att någondera parten skriftligen
 underrättat motparten om sin avsikt att avbryta anställningen. Möjligheten att genom underrättelse bringa
 anställningen att upphöra gäller endast fram till den tidpunkt då medarbetaren har en sammanlagd
 anställningstid om sex månader vid företaget. När ett avtal om en allmän visstid eller ett vikariat har
@@ -1533,7 +1533,7 @@ föregåtts av en provanställning i liknande befattning i företaget minskas pr
 Om vikariatet eller den allmänna visstidsanställningen upphör att gälla genom underrättelse från
 arbetsgivaren, ska arbetsgivaren motivera sitt ställningstagande om medarbetaren begär det.
 ## Anmärkning
-Arbetsgivaren och medarbetaren kan skriligen överenskomma om att ett vikariat eller en allmän visstid
+Arbetsgivaren och medarbetaren kan skriftligen överenskomma om att ett vikariat eller en allmän visstid
 inte av någondera parten kan bringas att upphöra genom underrättelse.
 Mom 3:11 Uppsägning av tidsbegränsad anställning
 Om arbetsgivare och medarbetare kommer överens om att en tidsbegränsad anställning kan sägas upp i
@@ -1545,15 +1545,15 @@ Tjänsteföretag och om deltid i pensioneringssyfte
 Avtal om avsättning till Flexpension i Tjänsteföretag utgör del av detta avtal. Bestämmelserna i denna del
 finns i bilaga till avtal om allmänna villkor.
 ## Mom 2
-Överenskommelse om deltid i pensioneringssye utgör del av detta avtal. Bestämmelserna i denna del
+Överenskommelse om deltid i pensioneringssyfte utgör del av detta avtal. Bestämmelserna i denna del
 finns i bilaga till avtal om allmänna villkor.
 ## § 14 Giltighetstid
 ## Mom 1 Giltighetstid
 
-Detta avtal gäller från och med den 1 april 2025 till och med den 31 mars 2027 och däreer med sju dagars
+Detta avtal gäller från och med den 1 april 2025 till och med den 31 mars 2027 och därefter med sju dagars
 ömsesidig uppsägningstid.
 ## Mom 2 Uppsägning
-Uppsägning skall ske skriligt för att vara gällande.
+Uppsägning skall ske skriftligt för att vara gällande.
 
 
 ## NYTT
@@ -1578,8 +1578,8 @@ Enligt tilläggsöverenskommelse om avsättning till Flexpension 2025, 2026 och 
 överenskommelse om Flexpension i Tjänsteföretag ändrats under föregående avtalsperiod. Ändringen
 redigeras in i Bilaga B.
 ## § 2
-Den kompletterande premien ska inbetalas till Collectum från och med 1 november 2017 och däreer
-månatligen. Höjning av den kompletterande premien sker däreer i samband med kommande
+Den kompletterande premien ska inbetalas till Collectum från och med 1 november 2017 och därefter
+månatligen. Höjning av den kompletterande premien sker därefter i samband med kommande
 lönerevisionstidpunkter i branschavtalet och enligt de rutiner som gäller för kompletterande premier till
 ITP 1 respektive ITPK inom ITP 2. Premien ska komplettera den försäkring för ITP 1 eller ITPK som
 tjänstemannen har i anställningen hos arbetsgivaren.
@@ -1587,15 +1587,15 @@ tjänstemannen har i anställningen hos arbetsgivaren.
 Om branschavtalets lönerevisionsdatum under uppbyggnadsfasen är tidigare än de märkessättande
 avtalens lönerevisionsdatum, ska höjningen av den kompletterande premien ske vid tidpunkten för
 de märkessättande avtalens lönerevision.
-Collectum ska, så långt det är möjligt, bistås av parterna med uppgier om vilka arbetsgivare som ska göra
+Collectum ska, så långt det är möjligt, bistås av parterna med uppgifter om vilka arbetsgivare som ska göra
 avsättning till Flexpension i Tjänsteföretag.
 ## § 3
 Premien till Flexpension i Tjänsteföretag ska från och med 2017 års avtalsförhandlingar successivt byggas
-ut med ett års eersläpning i förhållande till märkessättande förbunds avtal inom Svenskt Näringsliv.
+ut med ett års eftersläpning i förhållande till märkessättande förbunds avtal inom Svenskt Näringsliv.
 Parterna är vidare överens om att Flexpension för tjänsteföretag byggs ut till samma nivå som gäller för
 märkessättande förbund inom Svenskt Näringsliv med tre års fördröjning, dock totalt max 2 %. Det betyder
 att när märkessättande förbund upphör med avsättningar, eller uppnått 2 %, till Flexpension ska ytterligare
-avsättningar göras till Flexpension i Tjänsteföretag under de tre eerföljande åren så att premienivåerna
+avsättningar göras till Flexpension i Tjänsteföretag under de tre efterföljande åren så att premienivåerna
 blir lika, dock högst till en premienivå om 2 procent. Parterna konstaterar att premieskillnaden vid
 införandet av Flexpension i Tjänsteföretag är 0,7 procent.
 Skulle löneökningsutrymmet framgent bli väsentligt lägre än det föregående årets löneökningsutrymme
@@ -1638,21 +1638,21 @@ aktuella kollektiva premienivån.
 
 Undantag från ovanstående punkter gäller för tjänsteman som ej fyllt 25 år då möjligheten att lämna
 besked om avstående från avsättning till Flexpension tidigast inträder då tjänstemannen fyller 25 år och
-senast två månader däreer.
+senast två månader därefter.
 Nyanställd tjänsteman vid företaget kan lämna besked om avstående tidigast vid tillträdesdagen i
-anställningen och senast två månader däreer.
+anställningen och senast två månader därefter.
 Tjänsteman anställd vid företag som genom verksamhetsöverlåtelse inträder i systemet för Flexpension
-i Tjänsteföretag kan lämna besked om avstående tidigast eer det att regleringen avseende avsättning
-börjar gälla och senast två månader däreer.
+i Tjänsteföretag kan lämna besked om avstående tidigast efter det att regleringen avseende avsättning
+börjar gälla och senast två månader därefter.
 Tjänsteman anställd vid företag som genom kollektivavtalsbundenhet inträder i systemet för
 Flexpension i Tjänsteföretag, enligt§ 7 första stycket, kan lämna besked om avstående senast två
-månader eer bundenheten.
+månader efter bundenheten.
 Tjänsteman anställd vid företag som genom kollektivavtalsbundenhet inträder i systemet för
-Flexpension i Tjänsteföretag, enligt § 7 andra stycket, kan lämna besked om avstående tidigast eer det
-att regleringen avseende avsättning börjar gälla och senast två månader däreer.
+Flexpension i Tjänsteföretag, enligt § 7 andra stycket, kan lämna besked om avstående tidigast efter det
+att regleringen avseende avsättning börjar gälla och senast två månader därefter.
 
 Arbetsgivaren ska dokumentera att tjänstemannen valt att avstå från avsättning till Flexpension i
-Tjänsteföretag i enlighet med dessa regler, samt däreer anmäla detta till Collectum. För det fall fråga
+Tjänsteföretag i enlighet med dessa regler, samt därefter anmäla detta till Collectum. För det fall fråga
 uppkommer har arbetsgivaren att visa att tjänstemannen valt att avstå.
 ## Anmärkning 4
 Arbetsgivaren kan ändra sitt ställningstagande enligt denna paragraf genom att fatta ett nytt beslut. Om så
@@ -1669,7 +1669,7 @@ Tjänsteman som har avstått från avsättning till Flexpension i Tjänsteföret
 avståendetidpunkten aktuella kollektiva premienivån till Flexpension i Tjänsteföretag som lön kan, om
 arbetsgivaren medger det, återta avståendet och få den aktuella kollektiva premienivån som
 pensionspremie istället. Huruvida pensionspremien enligt den kollektiva nivån ska avräknas mot lön
-bestäms eer överenskommelse mellan tjänstemannen och arbetsgivaren.
+bestäms efter överenskommelse mellan tjänstemannen och arbetsgivaren.
 ## § 6
 Tjänsteman som valt att inte avstå avsättning till Flexpension i Tjänsteföretag kan träffa individuell
 överenskommelse med arbetsgivaren om ytterligare avsättningar än vad som anges i avtalet för Flexpension
@@ -1711,15 +1711,15 @@ sådan verksamhetsövergång som avses i 6b § anställningsskyddslagen gäller
 bunden av kollektivavtal om Flexpension i Tjänsteföretag och överlåtare och förvärvare har byggt ut respektive
 premienivå olika: När förvärvarens kollektivavtal blir tillämpligt på de övertagna tjänstemännen gäller
 den premienivå till Flexpension i Tjänsteföretag som framgår av förvärvarens kollektivavtal.
-12 månader eer att företaget anslutits till kollektivavtalet ska företaget betala 10 % av den premienivå
+12 månader efter att företaget anslutits till kollektivavtalet ska företaget betala 10 % av den premienivå
 som var aktuell vid anslutningstillfället.
-24 månader eer att företaget anslutits till kollektivavtalet ska företaget betala ytterligare 20 %, totalt
+24 månader efter att företaget anslutits till kollektivavtalet ska företaget betala ytterligare 20 %, totalt
 30%, av den premienivå som var aktuell vid anslutningstillfället.
-36 månader eer att företaget anslutits till kollektivavtalet ska företaget betala ytterligare 20 %, totalt
+36 månader efter att företaget anslutits till kollektivavtalet ska företaget betala ytterligare 20 %, totalt
 50%, av den premienivå som var aktuell vid anslutningstillfället.
-48 månader eer att företaget anslutits till kollektivavtalet ska företaget betala ytterligare 25 %, totalt 75
+48 månader efter att företaget anslutits till kollektivavtalet ska företaget betala ytterligare 25 %, totalt 75
 %, av den premienivå som var aktuell vid anslutningstillfället.
-60 månader eer att företaget anslutits till kollektivavtalet ska företaget betala ytterligare 25 %, totalt
+60 månader efter att företaget anslutits till kollektivavtalet ska företaget betala ytterligare 25 %, totalt
 100 %, av den premienivå som var aktuell vid anslutningstillfället.
 Kompletterande premier till lTP 1
 ## § 8
@@ -1740,7 +1740,7 @@ månaden före den under vilken tjänstemannen uppnår 65 års ålder.
 ## § 11
 Den kompletterande premien ska beräknas på den pensionsmedförande lönen för pensionsförmåner enligt
 ITP 2, punkten 3.
-För tjänsteman som beviljats deltid i pensioneringssye ska arbetsgivaren även under sådan tid fortsatt
+För tjänsteman som beviljats deltid i pensioneringssyfte ska arbetsgivaren även under sådan tid fortsatt
 anmäla inkomst utifrån tidigare sysselsättningsgrad.
 ## Anmärkning
 Avseende rörliga lönedelar förutsätts att överenskommelse träffas hur dessa ska anmälas. Överenskommelse
@@ -1779,14 +1779,14 @@ Tjänsteman har en förstärkt möjlighet att hos arbetsgivaren ansöka om att g
 ålder (tjänsteman som omfattas av ITP 2) respektive 63 års ålder (tjänsteman som omfattas av ITP 1) för att
 möjliggöra Flexpension. En förutsättning för att överenskommelse ska kunna träffas är att så kan ske med
 skäligt hänsynstagande till verksamhetens krav och behov.
-Tjänsteman som vill utnyttja rätten att ansöka ska göra detta skriligen. Arbetsgivaren ska skyndsamt
+Tjänsteman som vill utnyttja rätten att ansöka ska göra detta skriftligen. Arbetsgivaren ska skyndsamt
 pröva ansökan och göra en bedömning av möjligheterna att träffa överenskommelse om deltid.
 Kommer arbetsgivare och tjänstemannen överens om att tjänstemannen ska går ner i arbetstid är
 anställningen från det att överenskommelsen börjar gälla en deltidstjänst med den sysselsättningsgrad som
 följer av överenskommelsen.
 Träffas inte överenskommelse om nedgång i arbetstid ska arbetsgivaren underrätta tjänstemannen och
 dennes fackliga organisation (om det finns en lokal klubb/förening vid företaget) därom och om skälen till
-varför överenskommelse inte kan träffas. Såväl lokal som central förhandling i intressefrågan kan däreer
+varför överenskommelse inte kan träffas. Såväl lokal som central förhandling i intressefrågan kan därefter
 påkallas av den fackliga organisationen kring ansökan och förutsättningarna för denna. Vid förhandling
 anses tjänstemannens ansökan om att gå ned i tid avse en minskning till 80%.
 Träffas inte överenskommelse i förhandlingen gäller företagets bedömning även fortsättningsvis. Det
@@ -1797,7 +1797,7 @@ arbetsgivaren fortsatt till Collectum anmäla inkomst utifrån tjänstemannens t
 Denna skyldighet upphör dock om tjänstemannen tar anställning hos annat företag eller på annat sätt
 bedriver verksamhet av ekonomisk natur som kan ge tjänstemannen inkomst.
 Företrädesrätt till anställning med högre sysselsättningsgrad enligt 25 a § anställningsskyddslagen gäller
-inte för tjänstemän som har gått ner i arbetstid i pensioneringssye.
+inte för tjänstemän som har gått ner i arbetstid i pensioneringssyfte.
 ## Anmärkning 1
 Parterna är överens om att avtalet ska anpassas till vid var tid gällande författningsregler rörande pension.
 ## Anmärkning 2
@@ -1808,7 +1808,7 @@ ny sysselsättningsgrad och eventuellt förändrat lönesystem.
 ## 4704
 ## Programanställning
 ## 1.
-Programanställning syar till att berika public service företagens utbud. Berikningen sker genom att
+Programanställning syftar till att berika public service företagens utbud. Berikningen sker genom att
 bereda utomstående möjlighet att under begränsad tid arbeta i public service företagens
 programverksamhet och innehållsproduktion.
 Med programanställning förstås en utomståendes medverkan i identifierbar innehållsproduktion, program
@@ -1832,13 +1832,13 @@ Avtal om löner 2025-2026
 Avtalet gäller för medlemmar i Unionen som är anställda i företag inom Public Service, och vars lön ej är
 fastställd i 2025 respektive 2026 års löneläge.
 - Övergripande mål för lönebildningen
-Lönebildningen är en viktig drivkra för goda arbetsinsatser, individuell utveckling och bra resultat.
-Därigenom bidrar lönebildningen till måluppfyllelse, ökad effektivitet, produktivitet och utvecklingskra i
+Lönebildningen är en viktig drivkraft för goda arbetsinsatser, individuell utveckling och bra resultat.
+Därigenom bidrar lönebildningen till måluppfyllelse, ökad effektivitet, produktivitet och utvecklingskraft i
 företaget, vilket skapar förutsättningar för bra löneutveckling och anställningstrygghet.
 Lönebildningen kopplas till företagets övergripande mål och sker mot bakgrund av företagets ekonomiska
 och marknadsmässiga förutsättningar och medarbetarnas arbete, prestationer och utveckling samt
 relevanta omvärldsfaktorer.
-Arbetsgivaren ska årligen erbjuda mål- och utvecklingssamtal. Syet är att, i dialog med medarbetaren,
+Arbetsgivaren ska årligen erbjuda mål- och utvecklingssamtal. Syftet är att, i dialog med medarbetaren,
 fastställa individuella mål och utvecklingsbehov. Utvecklingssamtalet ska dokumenteras.
 Genom kompetensutveckling förbättras förutsättningarna för de anställda att bidra till att verksamhetens
 mål uppnås. Avtalets inriktning är att skapa en process där tjänstemannens uppnådda resultat, kompetens
@@ -1851,11 +1851,11 @@ Lönesättningen ska vara individuell och differentierad samt kopplad till före
 Detta förutsätter att lönen sätts på ett konsekvent och medvetet sätt utifrån lönepolicy samt framtagna och
 kända kriterier för lönesättning i företaget.
 Den individuella lönen och löneutvecklingen bestäms av
-Marknadskraerna och de lokala parternas önskemål om lönestrukturen i företaget påverkar också
+Marknadskrafterna och de lokala parternas önskemål om lönestrukturen i företaget påverkar också
 lönerna.
 En bra löneprocess förutsätter att det finns en lönepolicy. Där tydliggörs hur lönesättningen sker på ett sätt
 som följer principerna i detta avtal och som stödjer företagets verksamhetsidé, övergripande mål och
-arbetsuppgiernas innehåll, svårighetsgrad och ansvar
+arbetsuppgifternas innehåll, svårighetsgrad och ansvar
 prestation och resultat i förhållande till uppsatta mål
 individuell kompetens samt engagemang och förmåga att utveckla verksamheten
 
@@ -1868,7 +1868,7 @@ personliga kvalifikationer samt arbetsresultat som bygger på att mål och resul
 diskuteras på individnivå utgör exempel på goda grunder för bedömningen.
 Vid nyanställning ska lönen sättas i enlighet med detta avtal och företagets lönepolicy och lönestruktur
 samt medarbetarens kompetens.
-Medarbetare som erhåller helt eller delvis nya arbetsuppgier som utgör en befordran erhåller normalt
+Medarbetare som erhåller helt eller delvis nya arbetsuppgifter som utgör en befordran erhåller normalt
 löneökning i samband med förändringen.
 Lönesättningen ska vara sakligt motiverad med utgångspunkt från företagets lönepolicy.  Enligt
 Diskrimineringslagen får lönesättningen inte vara diskriminerande. Detta innebär att osakliga
@@ -1882,16 +1882,16 @@ förutsätts samverka på ett ändamålsenligt sätt i arbetet med att ta fram o
 fastställa kriterier för lönesättning och åstadkomma en löneprocess som bl.a. leder till jämställda löner.
 - Utvecklings- och målsamtal
 Företagets chefer har ett särskilt ansvar för att mål sätts och att uppföljning av resultatet sker samt att de
-anställda utvecklas för aktuella och framtida arbetsuppgier.
-Chef och medarbetare ska varje år hålla ett framåtsyande utvecklingssamtal. Samtalen genomförs på
-arbetsgivarens initiativ. Syet är att, i dialog med medarbetaren, fastställa utvecklingsbehov, förväntat
+anställda utvecklas för aktuella och framtida arbetsuppgifter.
+Chef och medarbetare ska varje år hålla ett framåtsyftande utvecklingssamtal. Samtalen genomförs på
+arbetsgivarens initiativ. Syftet är att, i dialog med medarbetaren, fastställa utvecklingsbehov, förväntat
 arbetsresultat och individuella mål, kompletterat med frågor kopplade till den egna arbetsmiljön och
 individens kompetensutveckling på kort och lång sikt, samt uppföljning från tidigare samtal.
 Resultatet av samtalet, inklusive kompetensplanering, dokumenteras på lämpligt sätt av arbetsgivaren och
 medarbetaren.
 ## 4. Löneprocessen
 Det förutsätts att företaget och lokal facklig organisation samverkar i löneprocessen. Parterna ska sträva
-eer att finna samarbetsformer som stödjer lönearbetet på ett sätt som passar in i företagets övriga
+efter att finna samarbetsformer som stödjer lönearbetet på ett sätt som passar in i företagets övriga
 verksamhet.
 Om de lokala parterna inte enas om annat ska en löneprocess i följande steg tillämpas:
 
@@ -1904,7 +1904,7 @@ lönepolicy.
 Övergripande samtal runt företagets lönestruktur, där företaget redovisar hur man vill att strukturen ska
 utvecklas över tid och de framtida kompetensbehov som identifierats.
 Dialog kring de lönekriterier som ska ligga till grund för lönesättningen. Kriterier ska vara kända och
-spegla de kvalifikationer som gäller för arbetsuppgierna.
+spegla de kvalifikationer som gäller för arbetsuppgifterna.
 Samtala om hur löneprocessen ska kunna identifiera förekomsten av osakliga löneskillnader på grund av
 kön.
 Tydliggörande av formerna för den lokala löneprocessen, t ex hur lönesamtalen ska utformas.
@@ -1915,12 +1915,12 @@ de framtida behov av förändring som identifieras, lönekriterier för den komm
 principerna för lönesättning. Chefsutbildning och andra åtgärder kan behöva genomföras för att
 löneprocessen ska genomföras på ett ändamålsenligt sätt.
 Fastställa lönerevisionens omfattning genom att Unionenklubben lämnar över en lista över sina
-medlemmar och att arbetsgivaren i god tid innan lönesamtalen påbörjas lämnar över uppgier om
+medlemmar och att arbetsgivaren i god tid innan lönesamtalen påbörjas lämnar över uppgifter om
 medlemmarnas löner till Unionenklubben.
 Steg 2 – Information till chefer och medarbetare
 Chefer och medarbetare ska informeras om löneprocessen och dess tidsplan. En viktig beståndsdel för att
 hög kvalitet i lönesättningsprocessen ska upprätthållas är att lönesättande chefers ansvar och roll blir
-tydliggjorda och att dessa involveras tidigt i processen i sye att de ska kunna få tillräcklig förberedelsetid
+tydliggjorda och att dessa involveras tidigt i processen i syfte att de ska kunna få tillräcklig förberedelsetid
 och tid att genomföra samtalen.
 För att löneprocessen ska fungera är det angeläget att varje medarbetare vet på vilka grunder lönen sätts
 och vilken lönepolicy som gäller.
@@ -1942,13 +1942,13 @@ lönepolicy, kriterier för lönesättning m m
 ## Steg 4 – Löneförhandling/lönerevision
 
 Om lokala parter inte enats om annat lämnar arbetsgivaren ett förslag till Unionens företrädare med nya
-löner för Unionens medlemmar eer att lönesamtalen genomförts. De nya individuella lönerna fastställs då
+löner för Unionens medlemmar efter att lönesamtalen genomförts. De nya individuella lönerna fastställs då
 i förhandling mellan arbetsgivaren och Unionen-klubben, eller där sådan saknas, den Unionen-funktionär
 som företräder medlemmarna i enlighet med förhandlingsordningen, se punkt 11. Lokal och central
 förhandling.
 
 Steg 5 – Besked om ny lön
-Eer avslutad lönerevision meddelar chefen medarbetarens nya lön. Den nya lönen ska kunna motiveras av
+Efter avslutad lönerevision meddelar chefen medarbetarens nya lön. Den nya lönen ska kunna motiveras av
 chefen.
 ## Anmärkning 1
 Då facklig företrädare för Unionen saknas meddelar arbetsgivaren eer genomförda lönesamtal nya löner
@@ -1961,9 +1961,9 @@ hanteras skyndsamt med hänsyn till försäkringssystemets nuvarande regelverk.
 Arbetsgivaren ska till den lokala fackliga organisationen redovisa eventuella medlemmar som inte lever
 upp till förväntningarna och därför ska ha en åtgärdsplan samt skälen härför.
 Om en tjänsteman inte får någon löneökning, eller får en märkbart låg löneökning, ska ett samtal föras om
-tjänstemannens förutsättningar för arbetsuppgierna, behov av kompetenshöjande åtgärder eller andra
+tjänstemannens förutsättningar för arbetsuppgifterna, behov av kompetenshöjande åtgärder eller andra
 ändamålsenliga åtgärder. Om tjänstemannen önskar kan även facklig representant delta vid samtalet.
-Samtalet dokumenteras skriligt genom att en åtgärdsplan upprättas.  Planen ska innehålla åtgärder som
+Samtalet dokumenteras skriftligt genom att en åtgärdsplan upprättas.  Planen ska innehålla åtgärder som
 avses leda till att tjänstemannen får en mer positiv löneutveckling i framtiden samt tidsplan för
 utvärdering, vilken ska ske i god tid innan nästa lönerevision. Åtgärdsplanen ska följas löpande under året
 av chef och medarbetare.
@@ -1977,7 +1977,7 @@ Lönerevision per 1 april 2025 och 1 april 2026.
 De lokala parterna kan komma överens om annat än ovan.
 - Lägsta löner
 Den lägsta månadslönen ska per den 1 april 2025 uppgå till 21 810 kronor och per den 1 april 2026 uppgå
-till 22 356 kronor. För den som saknar arbetslivserfarenhet kan eer lokal överenskommelse lägre lön
+till 22 356 kronor. För den som saknar arbetslivserfarenhet kan efter lokal överenskommelse lägre lön
 tillämpas under 12 månader.
 ## NYTT
 
@@ -1995,10 +1995,10 @@ Lönerevisionen sker i första hand i dialog mellan chef och medarbetaren. Löne
 medarbetare ska följa avtalets intentioner och motsvara processen inom Sveriges Television. Om
 medarbetaren och lönesättande chef inte kan komma överens om lönen i samtalet kan medarbetaren
 kontakta Unionen-klubben inom SVT som kan begära förhandling. Begäran om förhandling ska i så fall
-göras senast 14 dagar eer att medarbetaren fått förslag till ny lön.
+göras senast 14 dagar efter att medarbetaren fått förslag till ny lön.
 ## 10. Lönekonsultation
 De centrala parterna erbjuder lönekonsultationer för att stödja tillämpningen av löneavtalet och för att lösa
-eventuella problem. Lönekonsultationen syar till att underlätta att komma vidare i det lokala arbetet.
+eventuella problem. Lönekonsultationen syftar till att underlätta att komma vidare i det lokala arbetet.
 Lönekonsultation kan aktualiseras i löneprocessens alla skeenden.
 
 - Lokal och central förhandling
@@ -2010,7 +2010,7 @@ beträffande övertidsersättning, sjuklön och tjänstledighetsavdrag ska omrä
 
 ## 13. Giltighetstid
 Avtalet mellan Medieföretagen och Unionen gäller från och med den 1 april 2025 till och med den 31 mars
-- Eer giltighetstidens utgång gäller avtalet med en veckas ömsesidig uppsägningstid.
+- Efter giltighetstidens utgång gäller avtalet med en veckas ömsesidig uppsägningstid.
 ## NYTT
 ## NYTT
 ## NYTT
@@ -2023,12 +2023,12 @@ rättstvister
 ## Omfattning
 Förhandlingsordningen omfattar samtliga medarbetare som är anställda i företag som är bundna av
 kollektivavtal om allmänna anställningsvillkor med undantag för medarbetare som med hänsyn till
-arbetsuppgier och anställningsvillkor får anses ha företagsledande eller därmed jämförlig ställning.
+arbetsuppgifter och anställningsvillkor får anses ha företagsledande eller därmed jämförlig ställning.
 ## Förhandlingspreskription
 Om en part vill yrka skadestånd eller annan fullgörelse enligt lag, kollektivavtal eller enligt enskilt avtal, ska
 parten, om inte annan ordning anges i det aktuella avtalet, begära förhandling inom fyra månader från det
 parten fått kännedom om den omständighet som kravet grundas på. Förhandlingen måste dock begäras
-senast två år eer det att denna omständlighet inträffat.
+senast två år efter det att denna omständlighet inträffat.
 Om en part inte begär förhandling inom föreskriven tid, förlorar parten rätten till förhandling.
 ## Anmärkning
 Parterna är överens om att samtliga tvister där anställningsförhållandet ingår som en nödvändig förutsättning
@@ -2045,20 +2045,20 @@ Lokal förhandling
 En förhandling ska i första hand fullgöras mellan de lokala parterna (arbetsgivaren och den lokala fackliga
 organisationen).
 Förhandlingen ska påbörjas snarast möjligt och senast inom två veckor från den dag då
-förhandlingsbegäran bekräats, om inte parterna har kommit överens om annat.
+förhandlingsbegäran bekräftats, om inte parterna har kommit överens om annat.
 Central förhandling
-Eer avslutad lokal förhandling ska den part som påkallat den lokala förhandlingen och som vill fullfölja
+Efter avslutad lokal förhandling ska den part som påkallat den lokala förhandlingen och som vill fullfölja
 ärendet hänskjuta frågan till central förhandling.
-Begäran om central förhandling ska vara skrilig och göras hos motpartens organisation inom följande
+Begäran om central förhandling ska vara skriftlig och göras hos motpartens organisation inom följande
 tider från den dag då den lokala förhandlingen avslutats:
 
 Försummas detta förlorar parten rätten till förhandling.
 Central förhandling ska påbörjas snarast möjligt och senast inom två veckor från den dag då
-förhandlingsbegäran har bekräats, om inte parterna har kommit överens om annat.
+förhandlingsbegäran har bekräftats, om inte parterna har kommit överens om annat.
 ## Anmärkning
 Förhandlingen är i normalfallet avslutad samtidigt med sammanträdet för förhandlingen. Om det ska ske vid
 senare tidpunkt ska det uttryckligen vara överenskommet mellan parterna. Ytterst kan förhandling avslutas
-genom att part skriligen frånträder förhandlingen.
+genom att part skriftligen frånträder förhandlingen.
 
 
 - 1) inom två veckor vid tvisteförhandling som gäller rättstvist om
@@ -2131,7 +2131,7 @@ Förbunden å ömse sidor rekommenderas att följa och främja avtalstillämpnin
 Avtalet gäller på förbundsplanet sedan såväl berört LO-förbund som PTK-förbund antagit det om inte
 annat överenskommes mellan arbetsgivareförbundet och berörda arbetstagarförbund.
 Parterna är överens om att § 4 i detta förhandlingsprotokoll blir gällande som kollektivavtal på respektive
-förbundsområde samtidigt som utvecklingsavtalet träder i kra på förbundsplanet.
+förbundsområde samtidigt som utvecklingsavtalet träder i kraft på förbundsplanet.
 ## Protokollsanteckning:
 Om PTK-förbund som representerar minst två tredjedelar av sammanlagda antalet PTK-medlemmar på
 avtalsområdet ifråga antar avtalet i oförändrat skick blir detta gällande även för övriga PTK-förbund.
@@ -2159,7 +2159,7 @@ verksamhetens mål och inriktning. Detta gäller bl a kooperativa företag. Frå
 medbestämmandelagen är undantagna lagens tillämpning omfattas ej av utvecklingsavtalet.
 § 5 Fortsatta förhandlingar angående förslagsverksamhet
 Parterna är ense om vikten av en vidgad och förnyad förslagsverksamhet. Parterna fortsätter
-förhandlingarna i sye att nå avtal i denna fråga. Förhandlingarna skall bedrivas skyndsamt.
+förhandlingarna i syfte att nå avtal i denna fråga. Förhandlingarna skall bedrivas skyndsamt.
 ## Anmärkning 1985-09-09
 Förhandlingarna i ovanstående fråga har sedermera slutförts och avtal träffats i enlighet med § 18 samt bilaga
 ## 1.
@@ -2189,7 +2189,7 @@ Utvecklingsavtal SAF-LO/PTK
 Gemensamma värderingar
 Utveckling och effektivisering av företagen är jämte tryggad sysselsättning frågor av gemensamt intresse för
 företag och anställda. SAF, LO och PTK vill med detta ramavtal ge uttryck för den viljeinriktning som
-parterna är ense om när det gäller att utveckla företagens effektivitet, lönsamhet och konkurrenskra och
+parterna är ense om när det gäller att utveckla företagens effektivitet, lönsamhet och konkurrenskraft och
 skapa förutsättningar för sysselsättning, trygghet och utveckling i arbetet.
 
 Parterna vill vidare ge uttryck för att en utveckling av medbestämmandet i företaget medför att de
@@ -2197,14 +2197,14 @@ anställdas kunnande och yrkeserfarenheter bättre tillvaratas. Genom detta rama
 för medbestämmande både i frågor som rör företagets utveckling i stort och de dagliga och näraliggande
 frågorna i företagen.
 Effektivitet, lönsamhet och konkurrenskraft
-SAF, LO och PTK är ense om att effektivitet, lönsamhet och konkurrenskra förutsätter en ständig
+SAF, LO och PTK är ense om att effektivitet, lönsamhet och konkurrenskraft förutsätter en ständig
 utveckling inom alla funktioner och på alla nivåer i företaget (produktion, administration, inköp,
 försäljning, marknadsföring osv). Effektiviseringsprocessen kräver en aktiv medverkan från alla som
 arbetar i företagen, dvs ledning, anställda och deras fackliga företrädare. Detta är av stor betydelse för
 sysselsättnings- och anställningstrygghet.
 Den tekniska utvecklingen och förändringsarbetet kan medföra att arbetsorganisation och
-arbetsuppgierna på en arbetsplats förändras, att vissa arbetsuppgier försvinner och nya tillkommer. Det
-är angeläget att arbetsgivaren medverkar till att de anställda utbildas för de nya arbetsuppgier som
+arbetsuppgifterna på en arbetsplats förändras, att vissa arbetsuppgifter försvinner och nya tillkommer. Det
+är angeläget att arbetsgivaren medverkar till att de anställda utbildas för de nya arbetsuppgifter som
 aktualiseras av förändringar på arbetsplatsen.
 Utveckling av medbestämmande i företagen i praktiska och smidiga former
 Ett förtroendefullt samarbete mellan de anställdas fackliga företrädare och arbetsgivarens representanter är
@@ -2212,7 +2212,7 @@ avgörande för utveckling av arbete och medbestämmande.
 SAF, LO och PTK är ense om att decentralisering och delegering av ansvar och beslutsfattande skapar
 förutsättningar för att beslut kan fattas så långt ned i organisationen som möjligt. Parterna är vidare
 överens om att detta ökar möjligheterna att uppnå målen enligt detta avtal.
-Med medbestämmandelagen, andra lagar, detta ramavtal och andra avtal som grund eersträvas ett
+Med medbestämmandelagen, andra lagar, detta ramavtal och andra avtal som grund eftersträvas ett
 praktiskt och smidigt samarbete och korta kontaktvägar. Detta är en nödvändig förutsättning för ett
 naturligt och förtroendefullt samarbete.
 Utformningen av de lokala avtal som följer av detta ramavtal är beroende av företagets storlek, bransch och
@@ -2241,7 +2241,7 @@ Företagets utveckling
 Mom 1 Flera mål
 Utveckling och effektivisering av företagen är jämte tryggad sysselsättning frågor av gemensamt intresse för
 företag och anställda. Utvecklingsverksamheten i ett företag har flera mål. Hög effektivitet inom alla
-arbetsenheter och på alla nivåer i företagen är avgörande för konkurrenskra, anställningstrygghet och
+arbetsenheter och på alla nivåer i företagen är avgörande för konkurrenskraft, anställningstrygghet och
 sysselsättning. Vidare skall arbetet och arbetsmiljön utformas med utgångspunkt från de krav som lag och
 avtal ställer på en god arbetsmiljö. Arbetsorganisationen och den enskildes arbete utformas så att de
 anställda ges en så engagerande och stimulerande arbetssituation som möjligt. Jämställdhet mellan män
@@ -2260,13 +2260,13 @@ Mom 1 Allmän inriktning
 Arbetsorganisationerna måste fortlöpande utvecklas på alla nivåer för att öka företagets styrka och
 kompetens och därigenom bidra till trygghet och sysselsättning. Utveckling av arbetsorganisationen skapar
 också möjligheter att bättre tillvarata de anställdas erfarenheter och kunskaper. Arbeten, ledningsformer
-och styrsystem som är stimulerande och engagerande för de anställda skall därvid eersträvas.
+och styrsystem som är stimulerande och engagerande för de anställda skall därvid eftersträvas.
 ## Kommentar
 Om de lokala fackliga organisationerna så begär redovisas och diskuteras den befintliga arbetsorganisationens
 uppbyggnad i företaget.
 Mom 2 Utvecklande arbetsformer
 Arbetsgivaren och de fackliga organisationerna samverkar kring utveckling av arbetsorganisationen enligt
-§ 2 mom 2. Därvid skall eersträvas att medbestämmandet utformas så att det innebär ökat inflytande och
+§ 2 mom 2. Därvid skall eftersträvas att medbestämmandet utformas så att det innebär ökat inflytande och
 ansvar för de anställda i arbetet.
 Detta kommer i de flesta fall att kräva förändring och utveckling av arbetsorganisation och arbetsformer.
 Decentralisering och delegering är därvid av avgörande betydelse.
@@ -2278,7 +2278,7 @@ och beslutsfattande kan inom en organisatorisk enhet och inom väl preciserade a
 anställda, som själva lägger upp det gemensamma arbetet.
 Mom 3 Förändring av arbetsorganisationen
 Arbetsgivaren och de fackliga organisationerna samverkar kring utveckling av arbetsorganisationen enligt
-§ 2 mom 2. Därvid skall eersträvas att medbestämmandet utformas så att det innebär ökat inflytande och
+§ 2 mom 2. Därvid skall eftersträvas att medbestämmandet utformas så att det innebär ökat inflytande och
 ansvar för de anställda i arbetet.
 Detta kommer i de flesta fall att kräva förändring och utveckling av arbetsorganisation och arbetsformer.
 Decentralisering och delegering är därvid av avgörande betydelse.
@@ -2309,9 +2309,9 @@ Parterna är överens om att såväl fortlöpande som mer omfattande teknisk fö
 möjligheter som måste tillvaratas för att företagen skall överleva, vinna framgång och därmed också trygga
 arbete och anställning. Investeringar möjliggör produktivitetsutveckling och skapar också möjligheter att
 introducera nya produktionssystem, utnyttja modern teknik, utveckla de anställdas kunskaper och därmed
-att öka företagets konkurrenskra.
+att öka företagets konkurrenskraft.
 Mom 2 Engagerande arbete
-Vid teknisk förändring skall ett gott arbetsinnehåll eersträvas liksom de anställdas möjligheter till ökad
+Vid teknisk förändring skall ett gott arbetsinnehåll eftersträvas liksom de anställdas möjligheter till ökad
 kompetens och till att ta ansvar i arbetet. De anställdas kunskaper bör tas tillvara och deras möjligheter till
 samarbete och kontakt med arbetskamrater främjas.
 Mom 3 Viktigare förändring
@@ -2322,7 +2322,7 @@ arbetsmiljö- och sysselsättningsmässiga konsekvenser som kan överblickas sam
 tillsätta projektgrupper.
 Mom 4 Utbildning och information
 Det är viktigt att de anställda ges möjligheter till vidare utveckling av sina yrkeskunskaper. Företaget
-tillhandahåller i så god tid som möjligt utbildning för de nya arbetsuppgier som tekniken medför. Sådan
+tillhandahåller i så god tid som möjligt utbildning för de nya arbetsuppgifter som tekniken medför. Sådan
 utbildning sker på företagets bekostnad och med oförändrade anställnings- och löneförmåner.
 ## Kommentar
 Om information se § 3 mom 5.
@@ -2332,7 +2332,7 @@ Mom 1 Allmän inriktning
 Information och insyn i företagets ekonomiska situation är en betydelsefull utgångspunkt för samverkan,
 inflytande och utvecklingsinsatser. De anställdas erfarenheter och kunskaper exempelvis rörande
 produktionsutrustning, kvalitet, arbetsmetoder och inköpsfrågor kan därigenom nyttiggöras. Detta bidrar
-till stärkt konkurrenskra för företaget.
+till stärkt konkurrenskraft för företaget.
 För att företaget skall kunna utvecklas krävs investeringar. Omfattningen och inriktningen av företagets
 investeringar beror bl a av storlek och bransch. De kan t ex omfatta produktionsutrustning,
 produktutveckling, marknadsföring och forskning.
@@ -2360,7 +2360,7 @@ härtill överlägger parterna, centralt eller förbundsvis, om vilken omfattnin
 ske på betald tid.
 ## Mom 5 Energihushållning
 En fråga av särskild vikt i många företag är energiförbrukningen. Arbetsgivaren och de fackliga
-organisationerna kan samverka med sye att uppnå god energihushållning.
+organisationerna kan samverka med syfte att uppnå god energihushållning.
 § 6 Anpassning till lokala förhållanden
 Medbestämmandets former
 Mom 1 Lokalt ansvar
@@ -2377,7 +2377,7 @@ Medbestämmandefrågorna behandlas genom förhandlingar mellan parterna och/elle
 detta avtal.
 § 8 Medbestämmandeformer efter lokal överenskommelse
 Mom 1 Lokal överenskommelse
-Eer framställan från lokal part bör arbetsgivaren och den lokala arbetstagarorganisationen träffa
+Efter framställan från lokal part bör arbetsgivaren och den lokala arbetstagarorganisationen träffa
 överenskommelse om hur medbestämmande skall utövas. Därvid kan följande former komma ifråga:
 MBL-förhandling
 Förhandlingar mellan företaget och facklig organisation enligt MBL.
@@ -2417,7 +2417,7 @@ organisation som ej deltagit i arbetet.
 § 9 Mindre företag
 Arbetstagarorganisation kan utse kontaktombud/ arbetsplatsombud eller motsvarande på arbetsplats där
 lokal facklig organisation saknas. Arbetstagarorganisationen informerar arbetsgivaren om
-kontaktombudets uppgier och befogenheter.
+kontaktombudets uppgifter och befogenheter.
 ## Kommentar
 Parterna är överens om att det är betydelsefullt att det är de anställda och deras fackliga representanter i
 företaget som i första hand utövar medbestämmandet. LO och PTK samt deras förbund åtar sig att aktivt
@@ -2444,7 +2444,7 @@ bestämmelse skall överenskommas mellan arbetsgivaren och den lokala arbetstaga
 skall beaktas att möte förläggs så att det medför minsta möjliga störningar för produktionen eller arbetets
 
 behöriga gång. I normalfallet förläggs mötet utanför ordinarie arbetstid, varvid övertidsersättning utges.
-Eer lokal överenskommelse kan mötet förläggas på ordinarie arbetstid. Då skall i den betalda tiden
+Efter lokal överenskommelse kan mötet förläggas på ordinarie arbetstid. Då skall i den betalda tiden
 inräknas tid som åtgår för förflyttningen till och från mötet.
 § 11 Koncerner och företag med flera driftsenheter
 ## Mom 1 Information
@@ -2476,7 +2476,7 @@ verksamhet som arbetsgivarens resurser och förhållanden i övrigt. Därvid ska
 företagets storlek, organisation, struktur och beslutsordning samt den fackliga strukturen.
 Kommentar till § 11
 Reglerna i § 11 avser verksamhet inom landet.
-Reglerna ovan gäller i tillämpliga delar även för företag med flera självständiga drisenheter.
+Reglerna ovan gäller i tillämpliga delar även för företag med flera självständiga driftsenheter.
 
 ## § 12 Arbetstagarkonsult
 Mom 1 Erfarenheter och kompetens
@@ -2488,7 +2488,7 @@ organisationerna att behandla föreliggande problem.
 ## Mom 2 Arbetstagarkonsult
 De lokala arbetstagarorganisationerna har rätt att anlita arbetstagarkonsult för särskilt uppdrag inför
 förestående förändringar som har väsentlig betydelse för företagets ekonomi och för de anställdas
-sysselsättning. Syet med detta är att ge de fackliga organisationerna möjligheter att analysera föreliggande
+sysselsättning. Syftet med detta är att ge de fackliga organisationerna möjligheter att analysera föreliggande
 faktaunderlag och att ta ställning till de frågor som förändringen aktualiserar. Konsulter kan ej i denna
 egenskap ges förhandlingsuppdrag.
 Arbetstagarkonsult kan vara utomstående expert (extern konsult) eller anställd i företaget (intern konsult).
@@ -2501,7 +2501,7 @@ framförts från alla dem som är engagerade i projektarbetet.
 Mom 3 Beslut om konsult
 Företaget svarar för skäliga kostnader för konsult. Beslut att utse konsult skall föregås av förhandlingar med
 arbetsgivaren. Uppdragets omfattning, innehåll och kostnad skall preciseras och förslag till personval
-framläggas. Överenskommelse skall eersträvas.
+framläggas. Överenskommelse skall eftersträvas.
 ## Mom 4 Kompetens
 Extern konsult skall vara auktoriserad eller godkänd revisor eller enligt arbetstagarorganisationerna på
 annat sätt ha erforderlig teoretisk och praktisk kompetens
@@ -2555,13 +2555,13 @@ sådant utvecklingsarbete som är jämförbart med arbetslivsforskning.
 § 14 Rådet för utvecklingsfrågor
 SAF, LO och PTK inrättar Rådet för utvecklingsfrågor”.
 
-Rådets uppgi är:
+Rådets uppgift är:
 Rådet består av 12 ledamöter varav 6 från arbetsgivarsidan och 6 från arbetstagarsidan jämte lika antal
 suppleanter.
 Rådet utser inom sig ordförande och en eller flera vice ordförande.
 Rådets ledamöter utses för en tid av tre år.
 SAF, LO och PTK skall förse rådet med nödvändiga resurser och utse en mindre grupp för beredning av
-ärenden och för handläggning av brådskande uppgier.
+ärenden och för handläggning av brådskande uppgifter.
 att följa och främja tillämpningen av den fortsatta utvecklingen av avtalet
 att överlägga om frågor som har anknytning till detta avtal
 att ge rekommendationer till parterna i frågor som hänskjuts till rådet
@@ -2569,7 +2569,7 @@ att vara forum för information om betydelsen av systematiskt utvecklingsarbete 
 att följa svensk och internationell utveckling på området
 att stimulera vetenskaplig forskning inom området, bl a allsidig arbetslivsforskning
 § 15 Skiljenämnden för utvecklingsavtalet
-Ski1jenämnden har till uppgi att tjänstgöra som skiljenämnd enligt vad som anges i utvecklingsavtalet.
+Ski1jenämnden har till uppgift att tjänstgöra som skiljenämnd enligt vad som anges i utvecklingsavtalet.
 Nämnden består av två ledamöter från SAF, från vardera LO och PTK och lika antal suppleanter. Vid förfall
 för ledamot eller suppleant kan SAF, LO och PTK utse ytterligare personer.
 SAF, LO och PTK utser för en tid av tre år en opartisk ordförande för nämnden och vid behov en ersättare
@@ -2579,20 +2579,20 @@ Förhandlingsordning m m
 ## Mom 1 Medbestämmandeförhandling
 Förhandlingar i företaget som part påkallar enligt 11 eller 12 § MBL eller enligt § 8 mom 4 i detta avtal
 skall upptas utan onödigt dröjsmål och i övrigt med den särskilda skyndsamhet som omständigheterna
-kräver. Detta gäller även sådan lokal förhandling som påkallas eer det att en förhandlingsfråga enligt § 9 i
+kräver. Detta gäller även sådan lokal förhandling som påkallas efter det att en förhandlingsfråga enligt § 9 i
 detta avtal handlagts av kontaktombud utan att frågan därvid lösts.
 Önskar arbetstagarparten enligt 14 § MBL påkalla central förhandling och att arbetsgivaren skall avvakta
 med beslut eller åtgärd till dess sådan förhandling genomförts skall meddelande därom lämnas
-arbetsgivaren så snart som möjligt och senast sju dagar eer det den lokala förhandlingen avslutats. Om
+arbetsgivaren så snart som möjligt och senast sju dagar efter det den lokala förhandlingen avslutats. Om
 annat ej överenskommes gäller att den centrala förhandlingen skall ske under medverkan av förbunden å
 ömse sidor samt att förhandlingen upptages skyndsamt.
-I fråga om sättet att förhandla gäller föreskrierna i 15 § samt 16 § första och tredje styckena MBL.
+I fråga om sättet att förhandla gäller föreskrifterna i 15 § samt 16 § första och tredje styckena MBL.
 Mom 2 Tvister om avtalet
 Tvist om tolkning eller tillämpning av detta avtal skall snarast hänskjutas till förhandling mellan de lokala
 parterna.
 
 Uppnår de lokala parterna ej enighet skall tvisten på begäran av endera parten hänskjutas till central
-förhandling. Sådant hänskjutande skall ske skyndsamt eer de lokala förhandlingarnas avslutande.
+förhandling. Sådant hänskjutande skall ske skyndsamt efter de lokala förhandlingarnas avslutande.
 Framställan om lokal eller central förhandling skall dock senast göras inom de tidsfrister som anges i 64 §
 ## MBL.
 ## Mom 3
