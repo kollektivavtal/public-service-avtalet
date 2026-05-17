@@ -207,169 +207,178 @@ För andra anställningar bör anställningsbevis upprättas.
 
 Medarbetare med tillsvidareanställning i Public Serviceföretag, som anställs för viss tid i annat Public Serviceföretag, erhåller inte företrädesrätt till ny anställning i det sistnämnda företaget under förutsättning att tillsvidareanställningen består vid visstidsanställningens upphörande.
 
-§ 3 Allmänna förhållningsregler
-## Mom 1 Arbetsskyldighet
-Medarbetare är skyldig att fullgöra de åligganden som meddelas i instruktion, arbetsordning eller av
-vederbörande chef.
-Programmedarbetare får inte åläggas att utföra uppdrag som uppenbart står i strid mot medarbetarens
-övertygelse eller som är förödmjukande. Ömsesidig hänsyn och respekt skall prägla arbetsplatsen.
-## Mom 2 Diskretionsskyldighet
-Medarbetare har rätt att delta i den allmänna debatten om radion och televisionen samt om företaget men
-är därvid skyldig att iaktta diskretion om både sin och andras verksamhet inom företaget.
-Diskretionsskyldigheten avser uppgifter om medarbetare och medverkande i program samt om sådana
-företagsinterna förhållanden, vilkas offentliggörande vore till skada för företagets verksamhet eller
-integritet.
-Mom 3 Skyddande av företagets opartiskhet
-Medarbetare är skyldig att i offentliga sammanhang avhålla sig från sådana uttalanden och åtgärder som
-kan medföra att företagets opartiskhet, särskilt på det politiska området, med fog kan ifrågasättas.
-Medarbetare är i övrigt oförhindrad att framföra sin mening i sociala, ekonomiska, politiska och kulturella
-frågor.
-Mom 4 Innehav av annan befattning mm
-Medarbetare får inte utan arbetsgivarens medgivande inneha konkurrerande befattning hos eller därmed
-jämförligt uppdrag i annat företag. Särskilt tillstånd krävs för att medverka i film, teater eller inom det
-kommersiella nöjeslivet eller för arbete i sådana företag som ägnar sig åt radio- och/eller TV-produktion.
-Medarbetare får inte utan arbetsgivarens medgivande medverka i sådan reklam, där vederbörandes namn
-och ställning i företaget kan anses ha väsentlig betydelse.
-Arbetsgivaren kan förbjuda innehav av bisyssla eller annan befattning om den uppenbarligen menligt
-påverkar medarbetarens arbete.
-Medarbetare kan dock utan arbetsgivarens medgivande inneha statligt, kommunalt eller fackligt
-förtroendeuppdrag.
+## § 3 Allmänna förhållningsregler
 
-Mom 5 Nyttjande av programuppslag utanför företaget
-Medarbetare får endast efter särskilt tillstånd i förvärvssyfte förse andra massmedieföretag med material
-angående program eller förhållanden inom företaget. Medarbetare får inte heller utan särskilt tillstånd
-utnyttja program eller programuppslag utanför företaget.
-Mom 6 Opartiskhet i tjänsten
-Medarbetare skall i alla frågor som rör relationer till personer, företag eller institutioner alltid handla så, att
-tilltron till vederbörandes opartiskhet i tjänsten inte med fog kan ifrågasättas.
+### Mom 1 Arbetsskyldighet
 
-Mom 7 Särskild nämnd
-Tvister mellan företaget och medarbetare angående tillämpningen av denna paragraf kan av endera parten
-hänskjutas till en nämnd. Nämndens yttrande, som skall lämnas skriftligt, är rådgivande och inkräktar inte
-på gällande förhandlingsordning mellan parterna. Nämnden skall bestå av sex ledamöter. Av dessa utses tre
-av arbetsgivarparten och tre av berörd lokal facklig organisation inom företaget. Till sammanträde i
-nämnden kallas en representant från vardera Medieföretagen och central facklig organisation.
+Medarbetare är skyldig att fullgöra de åligganden som meddelas i instruktion, arbetsordning eller av vederbörande chef.
+
+Programmedarbetare får inte åläggas att utföra uppdrag som uppenbart står i strid mot medarbetarens övertygelse eller som är förödmjukande. Ömsesidig hänsyn och respekt skall prägla arbetsplatsen.
+
+### Mom 2 Diskretionsskyldighet
+
+Medarbetare har rätt att delta i den allmänna debatten om radion och televisionen samt om företaget men är därvid skyldig att iaktta diskretion om både sin och andras verksamhet inom företaget. Diskretionsskyldigheten avser uppgifter om medarbetare och medverkande i program samt om sådana företagsinterna förhållanden, vilkas offentliggörande vore till skada för företagets verksamhet eller integritet.
+
+### Mom 3 Skyddande av företagets opartiskhet
+
+Medarbetare är skyldig att i offentliga sammanhang avhålla sig från sådana uttalanden och åtgärder som kan medföra att företagets opartiskhet, särskilt på det politiska området, med fog kan ifrågasättas. Medarbetare är i övrigt oförhindrad att framföra sin mening i sociala, ekonomiska, politiska och kulturella frågor.
+
+### Mom 4 Innehav av annan befattning mm
+
+Medarbetare får inte utan arbetsgivarens medgivande inneha konkurrerande befattning hos eller därmed jämförligt uppdrag i annat företag. Särskilt tillstånd krävs för att medverka i film, teater eller inom det kommersiella nöjeslivet eller för arbete i sådana företag som ägnar sig åt radio- och/eller TV-produktion.
+
+Medarbetare får inte utan arbetsgivarens medgivande medverka i sådan reklam, där vederbörandes namn och ställning i företaget kan anses ha väsentlig betydelse.
+
+Arbetsgivaren kan förbjuda innehav av bisyssla eller annan befattning om den uppenbarligen menligt påverkar medarbetarens arbete.
+
+Medarbetare kan dock utan arbetsgivarens medgivande inneha statligt, kommunalt eller fackligt förtroendeuppdrag.
+
+### Mom 5 Nyttjande av programuppslag utanför företaget
+
+Medarbetare får endast efter särskilt tillstånd i förvärvssyfte förse andra massmedieföretag med material angående program eller förhållanden inom företaget. Medarbetare får inte heller utan särskilt tillstånd utnyttja program eller programuppslag utanför företaget.
+
+### Mom 6 Opartiskhet i tjänsten
+
+Medarbetare skall i alla frågor som rör relationer till personer, företag eller institutioner alltid handla så, att tilltron till vederbörandes opartiskhet i tjänsten inte med fog kan ifrågasättas.
+
+### Mom 7 Särskild nämnd
+
+Tvister mellan företaget och medarbetare angående tillämpningen av denna paragraf kan av endera parten hänskjutas till en nämnd. Nämndens yttrande, som skall lämnas skriftligt, är rådgivande och inkräktar inte på gällande förhandlingsordning mellan parterna. Nämnden skall bestå av sex ledamöter. Av dessa utses tre av arbetsgivarparten och tre av berörd lokal facklig organisation inom företaget. Till sammanträde i nämnden kallas en representant från vardera Medieföretagen och central facklig organisation.
 
 ## § 4 Arbetstid
-## Mom 1 Omfattning
-## Mom 1:1 Omfattning
-Medarbetare enligt detta avtal undantas från arbetstidslagen (1982:673).
-Mom 1:2 Undantag från vissa bestämmelser
-Medarbetare skall vara undantagen från bestämmelserna i mom 2-6 nedan om medarbetaren har en
-månadslön som överstiger ett inkomstbasbelopp
-semesterdagar per år. Dock skall mom 3:3 samt begränsningsreglerna avseende veckovila och nattvila
-tillämpas.
-## Anmärkning
-Enligt mom 1:2. omfattas vissa medarbetare inte av bestämmelserna i mom 2-6. Det är dock ett ömsesidigt
-intresse för arbetsgivaren och den lokala arbetstagarorganisationen att kunna få en uppfattning om den totala
-arbetstidens omfattning för dessa medarbetare. Om den berörda lokala arbetstagarorganisationen så begär
-skall arbetsgivaren och den lokala arbetstagarorganisationen gemensamt utforma lämpligt underlag för att
-bedöma arbetstidsvolymen för dessa medarbetare.
-(80 600 kr år 2025). Medarbetaren har istället rätt till fem extra
-Mom 1:3 Överenskommelse om undantag från övertidsersättning
-Arbetsgivaren och medarbetare som har en tjänsteställning som medför rätt att självständigt beordra andra
-medarbetare att arbeta övertid eller med hänsyn till sina arbetsuppgifter och/eller ställning naturligt sett
-har att själv avgöra behovet och förläggningen av egen övertid, kan träffa överenskommelse om att
-medarbetaren skall vara undantagen från tillämpningen av bestämmelserna i mom 4.
-I samband med en sådan överenskommelse kan medarbetare och arbetsgivaren även komma överens om
-att undantas från mom 5 och 6.
-Istället för ersättning för övertidsarbete skall medarbetaren erhålla fem dagars extra semester och/eller
-högre lön.
-Överenskommelse enligt detta moment skall vara skriftlig och avse ett kalenderår om inte arbetsgivaren
-och medarbetaren kommer överens om annat. Uppsägning av överenskommelsen kan ske senast den sista
-november respektive år. Vid uppsägning av överenskommelsen sker en omprövning av de extra förmåner i
-form av eventuell högre lön och extra semesterdagar, som utgetts som kompensation och mom 4 skall
-återigen tillämpas på medarbetaren.
-Information om träffade överenskommelser om undantag enligt detta mom skall lämnas till berörd lokal
-facklig organisation inom två veckor efter det att överenskommelse träffats.
-## Anmärkning
-Vid nyanställning av medarbetare med ringa arbetslivserfarenhet bör detta mom inte tillämpas förrän efter ett
-års anställning.
-## NYTT
 
-Mom 2 Ordinarie arbetstid
-## Mom 2:1 Normalarbetstid
-Ordinarie arbetstid utgör 39 timmar och 10 minuter per helgfri vecka och den förläggs efter samråd mellan
-arbetsgivare och lokal arbetstagarorganisation mellan klockan 07.00 och 18.00 och fördelas måndag till
-fredag.
-Lokala parter kan träffa avtal om flexibel förläggning av arbetstiden för de som omfattas av
-normalarbetstid.
+### Mom 1 Omfattning
+
+#### Mom 1:1 Omfattning
+
+Medarbetare enligt detta avtal undantas från arbetstidslagen (1982:673).
+
+#### Mom 1:2 Undantag från vissa bestämmelser
+
+Medarbetare skall vara undantagen från bestämmelserna i mom 2-6 nedan om medarbetaren har en månadslön som överstiger ett inkomstbasbelopp (80 600 kr år 2025). Medarbetaren har istället rätt till fem extra semesterdagar per år. Dock skall mom 3:3 samt begränsningsreglerna avseende veckovila och nattvila tillämpas.
+
+##### Anmärkning
+
+Enligt mom 1:2. omfattas vissa medarbetare inte av bestämmelserna i mom 2-6. Det är dock ett ömsesidigt intresse för arbetsgivaren och den lokala arbetstagarorganisationen att kunna få en uppfattning om den totala arbetstidens omfattning för dessa medarbetare. Om den berörda lokala arbetstagarorganisationen så begär skall arbetsgivaren och den lokala arbetstagarorganisationen gemensamt utforma lämpligt underlag för att bedöma arbetstidsvolymen för dessa medarbetare.
+
+#### Mom 1:3 Överenskommelse om undantag från övertidsersättning
+
+Arbetsgivaren och medarbetare som har en tjänsteställning som medför rätt att självständigt beordra andra medarbetare att arbeta övertid eller med hänsyn till sina arbetsuppgifter och/eller ställning naturligt sett har att själv avgöra behovet och förläggningen av egen övertid, kan träffa överenskommelse om att medarbetaren skall vara undantagen från tillämpningen av bestämmelserna i mom 4.
+
+I samband med en sådan överenskommelse kan medarbetare och arbetsgivaren även komma överens om att undantas från mom 5 och 6.
+
+Istället för ersättning för övertidsarbete skall medarbetaren erhålla fem dagars extra semester och/eller högre lön.
+
+Överenskommelse enligt detta moment skall vara skriftlig och avse ett kalenderår om inte arbetsgivaren och medarbetaren kommer överens om annat. Uppsägning av överenskommelsen kan ske senast den sista november respektive år. Vid uppsägning av överenskommelsen sker en omprövning av de extra förmåner i form av eventuell högre lön och extra semesterdagar, som utgetts som kompensation och mom 4 skall återigen tillämpas på medarbetaren.
+
+Information om träffade överenskommelser om undantag enligt detta mom skall lämnas till berörd lokal facklig organisation inom två veckor efter det att överenskommelse träffats.
+
+##### Anmärkning
+
+Vid nyanställning av medarbetare med ringa arbetslivserfarenhet bör detta mom inte tillämpas förrän efter ett års anställning.
+
+### Mom 2 Ordinarie arbetstid
+
+#### Mom 2:1 Normalarbetstid
+
+Ordinarie arbetstid utgör 39 timmar och 10 minuter per helgfri vecka och den förläggs efter samråd mellan arbetsgivare och lokal arbetstagarorganisation mellan klockan 07.00 och 18.00 och fördelas måndag till fredag.
+
+Lokala parter kan träffa avtal om flexibel förläggning av arbetstiden för de som omfattas av normalarbetstid.
+
 Olika lång ordinarie arbetstid kan efter lokal överenskommelse tillämpas under olika delar av året.
-Det åligger arbetsgivaren att ange rastens längd och inom vilket tidsintervall rast ska förläggas. Byte av rast
-till måltidsuppehåll ska endast beviljas i undantagsfall av behörig chef.
+
+Det åligger arbetsgivaren att ange rastens längd och inom vilket tidsintervall rast ska förläggas. Byte av rast till måltidsuppehåll ska endast beviljas i undantagsfall av behörig chef.
+
 Ovan gäller inte när medarbetare själv, enligt överenskommelse med arbetsgivaren, förlägger sin arbetstid.
-## Mom 2:2 Produktionsarbetstid
-För medarbetare som på grund av verksamhetens art har arbetsuppgifter som helt eller delvis måste utföras
-på andra tider än normalarbetstid utgör ordinarie arbetstid i genomsnitt 36,5 timmar per sjudagarsperiod
-oberoende av under perioden infallande helgdagar. För medarbetare i verksamhet där arbetet förläggs i
-form av kontinuerligt treskift med storhelgsdrift är arbetstiden i genomsnitt 32,5 timmar per
-sjudagarsperiod baserat på central överenskommelse från 21 oktober 1975.
-Förläggning av schemalagd tid kan ske över veckans alla dagar, dock skall arbetstiden där så är möjligt
-förläggas på vardagar.
-## Mom 2:2:1 Schemaläggningsregler
+
+#### Mom 2:2 Produktionsarbetstid
+
+För medarbetare som på grund av verksamhetens art har arbetsuppgifter som helt eller delvis måste utföras på andra tider än normalarbetstid utgör ordinarie arbetstid i genomsnitt 36,5 timmar per sjudagarsperiod oberoende av under perioden infallande helgdagar. För medarbetare i verksamhet där arbetet förläggs i form av kontinuerligt treskift med storhelgsdrift är arbetstiden i genomsnitt 32,5 timmar per sjudagarsperiod baserat på central överenskommelse från 21 oktober 1975.
+
+Förläggning av schemalagd tid kan ske över veckans alla dagar, dock skall arbetstiden där så är möjligt förläggas på vardagar.
+
+#### Mom 2:2:1 Schemaläggningsregler
+
 Ordinarie arbetstid skall vara schemalagd. Arbetstidsschema skall, utöver att svara mot fastställda
 verksamhetsförutsättningar, så långt möjligt även tillgodose berörda medarbetares behov/intresse. Följande
 regler skall beaktas vid upprättande av arbetstidsschema:
-Schemaläggningen av arbetstid görs, om inte överenskommelse lokalt träffas om annat, i olika etapper
-enligt följande:
-## Etapp 1:
-Övergripande schema för visst kvartal, innehållande uppgifter om produktionsprojekt, produktionsveckor
-samt övriga kända produktionsförutsättningar, görs minst 28 dagar före respektive kvartal. Om så är
-möjligt, bör alla sådana preciseringar, som nämns under Etapp 2, ske redan under Etapp 1 av
-planeringsprocessen. Det förhållandet att Etapp 2-preciseringar gjorts under Etapp 1 medför dock ingen
-inskränkning i möjligheterna att, när situationen så kräver, inom ramen för Etapp 2 vidta erforderliga
-justeringar i den detaljerade schemaläggningen.
-För att vid schemaläggning av produktionsarbetstid söka tillgodose individuella förläggningsönskemål
-- och därmed optimalt beakta enskilda medarbetares behov av regelbundenhet i
-arbetstidsförläggningen - skall, så långt möjligt, berörda medarbetare beredas tillfälle att i inbördes
-samråd förlägga sina arbetstider. En allmän utgångspunkt för denna möjlighet till förläggning av egen
-arbetstid är, om inte annat lokalt överenskommes, att samtliga arbetspass i aktuellt
-tjänstgöringsschema bemannas enligt fastställda verksamhetsförutsättningar.
-Arbetsledningen skall vid schemaläggningen eftersträva att uppnå enighet med berörda medarbetare
-och/eller facklig företrädare för dessa medarbetare.
 
-## Etapp 2:
-Schemaläggningen av arbetstider och veckoviloperioder sker löpande genom lägst 28-dagarsperioder.
-Ändringar av arbetstidens förläggning kan göras med 21 dagars varseltid. Utlagd veckovila enligt schema
-kan inte ändras med kortare framförhållning än 28 dagar.
-## Mom 2:2:2 Begränsningsregler
+- För att vid schemaläggning av produktionsarbetstid söka tillgodose individuella förläggningsönskemål - och därmed optimalt beakta enskilda medarbetares behov av regelbundenhet i arbetstidsförläggningen - skall, så långt möjligt, berörda medarbetare beredas tillfälle att i inbördes samråd förlägga sina arbetstider. En allmän utgångspunkt för denna möjlighet till förläggning av egen arbetstid är, om inte annat lokalt överenskommes, att samtliga arbetspass i aktuellt tjänstgöringsschema bemannas enligt fastställda verksamhetsförutsättningar.
+- Arbetsledningen skall vid schemaläggningen eftersträva att uppnå enighet med berörda medarbetare och/eller facklig företrädare för dessa medarbetare.
+
+Schemaläggningen av arbetstid görs, om inte överenskommelse lokalt träffas om annat, i olika etapper enligt följande:
+
+##### Etapp 1:
+
+Övergripande schema för visst kvartal, innehållande uppgifter om produktionsprojekt, produktionsveckor samt övriga kända produktionsförutsättningar, görs minst 28 dagar före respektive kvartal. Om så är möjligt, bör alla sådana preciseringar, som nämns under Etapp 2, ske redan under Etapp 1 av planeringsprocessen. Det förhållandet att Etapp 2-preciseringar gjorts under Etapp 1 medför dock ingen inskränkning i möjligheterna att, när situationen så kräver, inom ramen för Etapp 2 vidta erforderliga justeringar i den detaljerade schemaläggningen.
+
+##### Etapp 2:
+
+Schemaläggningen av arbetstider och veckoviloperioder sker löpande genom lägst 28-dagarsperioder. Ändringar av arbetstidens förläggning kan göras med 21 dagars varseltid. Utlagd veckovila enligt schema kan inte ändras med kortare framförhållning än 28 dagar.
+
+#### Mom 2:2:2 Begränsningsregler
+
 Vid all schemaläggning skall följande begränsningsregler iakttas:
-## Avräkningsperiod
+
+##### Avräkningsperiod
+
+Den i avtalet angivna genomsnittliga veckoarbetstiden avräknas per 6-månadersperiod.
+
 Dagligt ordinarie arbetspass
+
 Minst 5 och maximalt 12 timmar.
-## Restid
-Restid skall inte – även om den räknas som arbetstid – ingå i beräkning av längd på dagligt ordinarie
-arbetspass.
-Viloperiod mellan ordinarie arbetspass
-Minst 11 timmar. Har viloperioden brutits av övertid har medarbetaren rätt till motsvarande ledighet i
-direkt anslutning till viloperioden eller snarast möjligt i anslutning därtill. Ledighet ska utgå utan
-avräkning av eventuell övertidskompensation.
-## Nattvila
-Alla medarbetare skall ha ledigt för nattvila. I ledigheten skall ingå tiden mellan klockan 24.00 och 05.00.
-Avvikelse från denna regel får göras, om arbetet med hänsyn till dess art, allmänhetens behov eller andra
-särskilda omständigheter måste fortgå även nattetid eller bedrivas före klockan 5 eller efter klockan 24.
-## Veckovila
+
+##### Restid
+
+Restid skall inte – även om den räknas som arbetstid – ingå i beräkning av längd på dagligt ordinarie arbetspass.
+
+##### Viloperiod mellan ordinarie arbetspass
+
+Minst 11 timmar. Har viloperioden brutits av övertid har medarbetaren rätt till motsvarande ledighet i direkt anslutning till viloperioden eller snarast möjligt i anslutning därtill. Ledighet ska utgå utan avräkning av eventuell övertidskompensation.
+
+##### Nattvila
+
+Alla medarbetare skall ha ledigt för nattvila. I ledigheten skall ingå tiden mellan klockan 24.00 och 05.00. Avvikelse från denna regel får göras, om arbetet med hänsyn till dess art, allmänhetens behov eller andra särskilda omständigheter måste fortgå även nattetid eller bedrivas före klockan 5 eller efter klockan 24.
+
+##### Veckovila
+
 Minst 58 timmar. Max 6 veckovilor per år får förläggas utanför hemorten om inte annat överenskommes
 mellan berörd medarbetare och arbetsgivare
+
 För medarbetare med produktionsarbetstid får två veckoviloperioder sammanläggas.
+
 Vid sammanläggning av två veckoviloperioder omfattar den sammanlagda ledigheten minst 96 timmar. I
 dessa 96 timmar skall alltid ingå tiden från 00.00 dag ett till 24.00 dag fyra.
-## Veckoslut
-Minst två veckoslut (lördag-söndag) per fyraveckorsperiod skall i medeltal (räknat per år) vara arbetsfria.
-Medarbetaren är skyldig att arbeta högst 24 veckoslut per år.
-Kvälls- och/eller nattjänst
-Kvälls- och/eller nattjänstgöring (tid som infaller kl 18.00 till 06.00) få förläggas för medarbetare upp till 11
-gånger per fyraveckorsperiod.
-Den i avtalet angivna genomsnittliga veckoarbetstiden avräknas per 6-månadersperiod.
-Om arbetsgivaren förlägger kvälls- och nattjänstgöring (tid som infaller kl. 19.00 till 06.00) 12 eller 13
-gånger per fyraveckorsperiod för en medarbetare erhåller medarbetaren 34,5 timmars veckoarbetstid i
-genomsnitt per vecka.
-## NYTT
-## NYTT
 
-För deltidsanställda skall antalet kvälls- och nattjänstgöringar proportioneras i förhållande till
-sysselsättningsgraden.
+##### Veckoslut
+
+Minst två veckoslut (lördag-söndag) per fyraveckorsperiod skall i medeltal (räknat per år) vara arbetsfria. Medarbetaren är skyldig att arbeta högst 24 veckoslut per år.
+
+##### Kvälls- och/eller nattjänst
+
+Kvälls- och/eller nattjänstgöring (tid som infaller kl 18.00 till 06.00) få förläggas för medarbetare upp till 11 gånger per fyraveckorsperiod.
+
+Om arbetsgivaren förlägger kvälls- och nattjänstgöring (tid som infaller kl. 19.00 till 06.00) 12 eller 13 gånger per fyraveckorsperiod för en medarbetare erhåller medarbetaren 34,5 timmars veckoarbetstid i genomsnitt per vecka.
+
+För vissa medarbetare där verksamheten så kräver får, efter lokal överenskommelse, kvälls- och/eller nattjänstgöring, som infaller mellan kl. 19.00 till 06.00, förläggas 14 till 16 gånger per fyraveckorsperiod. Medarbetare som omfattas av denna begränsningsregel har 34,5 timmars veckoarbetstid i genomsnitt per vecka.
+
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Parterna är överens om att lokal överenskommelse innebär att arbetsgivaren får utökade möjligheter till förläggning enligt ovan där verksamheten så kräver i utbyte mot lägre veckoarbetstid om 34,5 timmar i genomsnitt per vecka. Arbetsgivarens begäran om lokal förhandling ska hanteras skyndsamt.
+>
+> Om lokal överenskommelse inte kan träffas kan endera part begära central konsultation i syfte att få de lokala parterna att träffa lokal överenskommelse enligt ovan.
+
+För deltidsanställda skall antalet kvälls- och nattjänstgöringar proportioneras i förhållande till sysselsättningsgraden.
+
 Lokal överenskommelse om undantag kan träffas mellan arbetsgivaren och lokal facklig organisation.
+
+--
+
+
+
+
 ## Rast/paus
 Raster skall av arbetsledningen förläggas så att medarbetarna inte utför arbete mer än fem timmar i följd.
 Rast inräknas inte i medarbetarens arbetstid och innebär att medarbetaren inte är skyldig att stanna kvar
@@ -387,16 +396,7 @@ arbetsförhållandena. Sådant måltidsuppehåll inräknas i medarbetarens arbet
 Veckovila och förläggning av arbetstid skall meddelas minst 28 dagar i förväg (se dock mom 2.2.1).
 ## Överliggningsrum
 När arbetspass förläggs så att det slutar kl. 00.00-06.00 ordnas med överliggningsrum.
-För vissa medarbetare där verksamheten så kräver får, efter lokal överenskommelse, kvälls- och/eller
-nattjänstgöring, som infaller mellan kl. 19.00 till 06.00, förläggas 14 till 16 gånger per fyraveckorsperiod.
-Medarbetare som omfattas av denna begränsningsregel har 34,5 timmars veckoarbetstid i genomsnitt per
-vecka.
-## Anmärkning
-Parterna är överens om att lokal överenskommelse innebär att arbetsgivaren får utökade möjligheter till
-förläggning enligt ovan där verksamheten så kräver i utbyte mot lägre veckoarbetstid om 34,5 timmar i
-genomsnitt per vecka. Arbetsgivarens begäran om lokal förhandling ska hanteras skyndsamt.
-Om lokal överenskommelse inte kan träffas kan endera part begära central konsultation i syfte att få de lokala
-parterna att träffa lokal överenskommelse enligt ovan.
+
 Mom 2:3 Arbetstid vid kurs eller konferens
 Deltagande i kurs eller konferens medför inte rätt till kompensation i form av OB eller övertidsersättning.
 För deltidsanställd medarbetare som beordras övertidsarbete utgår dock övertidsersättning enligt mom.
