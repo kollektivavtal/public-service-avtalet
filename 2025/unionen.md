@@ -368,7 +368,6 @@ Om arbetsgivaren förlägger kvälls- och nattjänstgöring (tid som infaller kl
 
 För vissa medarbetare där verksamheten så kräver får, efter lokal överenskommelse, kvälls- och/eller nattjänstgöring, som infaller mellan kl. 19.00 till 06.00, förläggas 14 till 16 gånger per fyraveckorsperiod. Medarbetare som omfattas av denna begränsningsregel har 34,5 timmars veckoarbetstid i genomsnitt per vecka.
 
-
 > [!NOTE]
 > **Anmärkning**
 >
@@ -452,169 +451,146 @@ Har naturkatastrof eller olyckshändelse eller annan därmed jämförlig omstän
 
 #### Mom 3:7 Anteckning av övertid
 
-Arbetsgivaren skall föra de anteckningar som erfordras för beräkning av övertid enligt mom 3.
-Medarbetaren, den lokala arbetstagarorganisationen eller central facklig representant har rätt att ta del av
-dessa anteckningar.
+Arbetsgivaren skall föra de anteckningar som erfordras för beräkning av övertid enligt mom 3. Medarbetaren, den lokala arbetstagarorganisationen eller central facklig representant har rätt att ta del av dessa anteckningar.
 
-## Mom 4 Övertidsersättning
-Mom 4:1 Övertidsersättningens storlek
-## Mom 4:1:1 Ersättningsformer
-Övertidsarbete ersätts i pengar (övertidsersättning) eller – om medarbetaren så önskar och arbetsgivaren
-efter samråd med medarbetaren finner att så kan ske utan olägenhet för verksamheten vid företaget – i
-form av ledig tid (kompensationsledighet).
-Vid samrådet mellan arbetsgivaren och medarbetaren bör, så långt det är möjligt, medarbetarens önskemål
-beaktas när kompensationsledigheten skall läggas ut.
-Mom 4:1:2 Övertidsarbete ej anslutet till ordinarie arbetstid
-Om en medarbetare beordras att utföra övertidsarbete på tid som inte utgör en direkt fortsättning på den
-ordinarie arbetstiden, utges övertidskompensation som om övertidsarbete skulle ha utförts under minst 3
-timmar. Detta gäller dock inte om övertidsarbetet är åtskilt från den ordinarie arbetstiden av endast
-måltidsuppehåll eller rast.
-Mom 4:1:3 Ersättning och tidsgränser
+### Mom 4 Övertidsersättning
+
+#### Mom 4:1 Övertidsersättningens storlek
+
+#### Mom 4:1:1 Ersättningsformer
+
+Övertidsarbete ersätts i pengar (övertidsersättning) eller – om medarbetaren så önskar och arbetsgivaren efter samråd med medarbetaren finner att så kan ske utan olägenhet för verksamheten vid företaget – i form av ledig tid (kompensationsledighet).
+
+Vid samrådet mellan arbetsgivaren och medarbetaren bör, så långt det är möjligt, medarbetarens önskemål beaktas när kompensationsledigheten skall läggas ut.
+
+#### Mom 4:1:2 Övertidsarbete ej anslutet till ordinarie arbetstid
+
+Om en medarbetare beordras att utföra övertidsarbete på tid som inte utgör en direkt fortsättning på den ordinarie arbetstiden, utges övertidskompensation som om övertidsarbete skulle ha utförts under minst 3 timmar. Detta gäller dock inte om övertidsarbetet är åtskilt från den ordinarie arbetstiden av endast måltidsuppehåll eller rast.
+
+#### Mom 4:1:3 Ersättning och tidsgränser
+
 Övertidsersättning per timme utges enligt följande och inkluderar semestertillägg:
-för övertidsarbete kl 06-20 helgfria måndagar – fredagar:
-för övertidsarbete på annan tid:
-## Anmärkning
-Övertidsarbete på för den enskilde medarbetaren arbetsfria vardagar, samt midsommar-, jul- och nyårsafton
-jämställs med övertidsarbete på ”annan tid”.
-Kompensationsledighet för övertidsarbete som avses under a) utges med 1½ timme och för övertidsarbete
-som avses under b) med 2 timmar för varje övertidstimme.
-månadslönen
-## 94
-månadslönen
-## 72
-För deltidsanställd vars arbetstid utlagts på genomsnittligt färre arbetsdagar per vecka än för motsvarande
-heltidsanställd, ska i arbetstidsschemat fastställas vilka veckodagar som ska anses utgöra ordinarie
-ledighetsdagar. Med ordinarie ledighetsdagar avses i detta sammanhang de dagar som avses motsvara
-lördag och söndag.
-Vid tillämpning av divisorerna ska medarbetares lön uppräknas till lön motsvarande heltidslön.
-## NYTT
-## NYTT
 
-Mom 5 Ersättning för arbete på obekväm tid
-Mom 5:1 Ersättning för obekväm arbetstid
+- för övertidsarbete kl 06-20 helgfria måndagar – fredagar: `månadslönen / 94`
+- för övertidsarbete på annan tid: `månadslönen / 72`
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Övertidsarbete på för den enskilde medarbetaren arbetsfria vardagar, samt midsommar-, jul- och nyårsafton jämställs med övertidsarbete på ”annan tid”.
+
+Kompensationsledighet för övertidsarbete som avses under a) utges med 1½ timme och för övertidsarbete som avses under b) med 2 timmar för varje övertidstimme.
+
+För deltidsanställd vars arbetstid utlagts på genomsnittligt färre arbetsdagar per vecka än för motsvarande heltidsanställd, ska i arbetstidsschemat fastställas vilka veckodagar som ska anses utgöra ordinarie ledighetsdagar. Med ordinarie ledighetsdagar avses i detta sammanhang de dagar som avses motsvara lördag och söndag.
+
+Vid tillämpning av divisorerna ska medarbetares lön uppräknas till lön motsvarande heltidslön.
+
+### Mom 5 Ersättning för arbete på obekväm tid
+
+#### Mom 5:1 Ersättning för obekväm arbetstid
+
 Obekväm arbetstid ersätts per timme enligt följande:
 
-## Ob-ersättning
-Måndag – fredag
-från kl. 18.00 till kl. 23.00
-månadslönen
-## 545
-från kl. 23.00 till kl. 03.00
-månadslönen
-## 364
-från kl. 03.00 till kl. 07.00
-månadslönen
-## 273
-Lördag – söndag
-från lördag kl. 00.00 till söndag kl. 24.00
-månadslönen
-## 273
-Vid helger gäller dock följande:
-från kl. 07.00 trettondagen, 1 maj, Kristi himmelsfärdsdag och alla
-helgons dag till kl. 00.00 första vardagen efter respektive helg
-månadslönen
-## 273
-från kl. 18.00 på skärtorsdagen och samt från 07.00 på nationaldagen,
-pingst, midsommar-, jul- och nyårsafton till kl. 00.00 första vardagen
-efter respektive helg
-månadslönen
-## 136
-Mom 5:2 Undantag från ersättningsreglerna
-Överenskommelse om undantag från ovanstående ersättningsregler kan träffas mellan arbetsgivare och
-enskild medarbetare i mer kvalificerad befattning där skälig ersättning utges i annan form t.ex. extra
-semester och/eller högre lön. Den berörda lokala fackliga organisationen skall informeras om sådan
-överenskommelse inom 2 veckor efter överenskommelse träffats.
-Mom 5:3 Övertidsersättning och ersättning för obekväm arbetstid
+| | Ob-ersättning |
+|-|-|
+| **Måndag – fredag** | |
+| från kl. 18.00 till kl. 23.00 | `månadslönen / 545` |
+| från kl. 23.00 till kl. 03.00 | `månadslönen / 364` |
+| från kl. 03.00 till kl. 07.00 | `månadslönen / 273` |
+| **Lördag – söndag** | |
+| från lördag kl. 00.00 till söndag kl. 24.00 | `månadslönen / 273` |
+| **Vid helger gäller dock följande:** | |
+| från kl. 07.00 trettondagen, 1 maj, Kristi himmelsfärdsdag och alla helgons dag till kl. 00.00 första vardagen efter respektive helg | `månadslönen / 273` |
+| från kl. 18.00 på skärtorsdagen och samt från 07.00 på nationaldagen, pingst, midsommar-, jul- och nyårsafton till kl. 00.00 första vardagen efter respektive helg | `månadslönen / 136` |
+
+### Mom 5:2 Undantag från ersättningsreglerna
+
+Överenskommelse om undantag från ovanstående ersättningsregler kan träffas mellan arbetsgivare och enskild medarbetare i mer kvalificerad befattning där skälig ersättning utges i annan form t.ex. extra semester och/eller högre lön. Den berörda lokala fackliga organisationen skall informeras om sådan överenskommelse inom 2 veckor efter överenskommelse träffats.
+
+#### Mom 5:3 Övertidsersättning och ersättning för obekväm arbetstid
+
 Ersättning för obekväm arbetstid och övertidsersättning kan inte utges samtidigt.
-Mom 5:4 Sjuklön och ersättning för obekväm arbetstid
-Kompensation för arbete på obekväm arbetstid ingår inte i underlaget för beräkning av sjuklön från 15:e
-dagen samt för övertidsersättning. Däremot ingår kompensation för arbete på obekväm arbetstid i
-pensionsunderlaget.
-Mom 5:5 Förutsättning för ersättning
+
+#### Mom 5:4 Sjuklön och ersättning för obekväm arbetstid
+
+Kompensation för arbete på obekväm arbetstid ingår inte i underlaget för beräkning av sjuklön från 15:e dagen samt för övertidsersättning. Däremot ingår kompensation för arbete på obekväm arbetstid i pensionsunderlaget.
+
+#### Mom 5:5 Förutsättning för ersättning
+
 Bestämmelsen gäller endast arbete på obekväm tid som beordrats eller godkänts av arbetsgivaren.
 
-## Mom 6 Beredskap
-Mom 6:1 Ersättning för beredskap
+### Mom 6 Beredskap
+
+| | |
+|-|-|
+| Beredskap ersätts per beredskapstimme med månadslönen | `månadslönen / 1400` |
+| Dock gäller följande: | |
+| Fredag – söndag | |
+| från fredag kl. 18.00 till lördag kl. 07.00 | `månadslönen / 900` |
+| från lördag kl. 07.00 till söndag kl. 24.00 | `månadslönen / 600` |
+| Vid helger | |
+| från kl. 18.00 dagen före till kl. 07.00  trettondagen, 1 maj, Kristi himmelsfärdsdag och alla helgons dag samt nationaldagen | `månadslönen / 900` |
+| från kl. 07.00 trettondagen, 1 maj, Kristi himmelsfärdsdag och alla helgons dag samt nationaldagen till kl. 00.00 första vardagen efter respektive helg | `månadslönen / 600` |
+| från kl. 18.00 på skärtorsdagen samt från kl. 07.00 på pingst-, midsommar- jul- och nyårsafton till kl. 00.00 första vardagen efter respektive helg | `månadslönen / 350` |
+
+#### Mom 6:1 Ersättning för beredskap
+
 Beredskapsersättning utges per pass för lägst 8 timmar.
-Vid påkallad inställelse på arbetsstället utges övertidsersättning för arbetad tid, dock minst för 3 timmar.
-Ersättning för resekostnad i anslutning till sådan inställelse betalas ut. Vid påkallad inställelse till annan
-plats än arbetsstället, t.ex. i hemmet, så skall ersättningen regleras i lokal överenskommelse mellan
-arbetsgivaren och den lokala fackliga organisationen. Finns inte sådan överenskommelse utges
-övertidsersättning för arbetad tid dock minst för en timme. För arbete mellan kl. 22.00 och 06.00 ersätts
-medarbetaren för minst tre timmar.
-Beredskap ersätts per beredskapstimme med
-månadslönen
-## 1400
-Dock gäller följande:
-Fredag – söndag
-från fredag kl. 18.00 till lördag kl. 07.00
-månadslönen
-## 900
-från lördag kl. 07.00 till söndag kl. 24.00
-månadslönen
-## 600
-Vid helger
-från kl. 18.00 dagen före till kl. 07.00
-trettondagen, 1 maj, Kristi himmelsfärdsdag
-och alla helgons dag samt nationaldagen
-månadslönen
-## 900
-från kl. 07.00 trettondagen, 1 maj, Kristi
-himmelsfärdsdag och alla helgons dag samt
-nationaldagen till kl. 00.00 första vardagen
-efter respektive helg
-månadslönen
-## 600
-från kl. 18.00 på skärtorsdagen samt från kl.
-07.00 på pingst-, midsommar- jul- och
-nyårsafton till kl. 00.00 första vardagen efter
-respektive helg
-månadslönen
-## 350
-## Mom 7 Nationaldagen
-De år nationaldagen infaller på en lördag eller söndag skall medarbetare som den dagen har arbetstidsform
-normalarbetstid, erhålla en dags kompensationsledighet att uttas efter överenskommelse mellan den
-enskilde medarbetaren och arbetsgivaren.
 
-§ 5 Resor i tjänsten
-Mom 1 Arbetstid vid tjänsteresa
-Mom 1:1 Allmänna bestämmelser
-Med tjänsteresa avses resa som medarbetare företar inom ramen för sin anställning till annan plats och ort
-än sin ordinarie arbetsplats. Tjänsteresa ska vara beordrad i förväg eller godkänd i efterhand av
-arbetsgivaren.
-För medarbetares tjänsteresa till någon av arbetsgivarens fasta arbetsplatser/ordinarie produktionslokaler
-gäller de vid arbetsplatsen/produktionslokalen för jämförbara medarbetare gällande arbetstidsreglerna.
-För medarbetare som stationeras utomlands skall anställningsvillkoren regleras genom särskilt
-utlandsreglemente.
-Mom 1:2 Arbetstid m.m. vid inrikes tjänsteresa
-Mom 1:2:1 Inrikes tjänsteresa
-Vid annan tjänstgöring inom Sverige är den ordinarie arbetstiden i genomsnitt 39 timmar och 10 minuter
-per helgfri sjudagarsperiod. Vid annan tjänstgöring inom Sverige som varar kortare tid än sju dagar är
-arbetstiden
+Vid påkallad inställelse på arbetsstället utges övertidsersättning för arbetad tid, dock minst för 3 timmar. Ersättning för resekostnad i anslutning till sådan inställelse betalas ut. Vid påkallad inställelse till annan plats än arbetsstället, t.ex. i hemmet, så skall ersättningen regleras i lokal överenskommelse mellan arbetsgivaren och den lokala fackliga organisationen. Finns inte sådan överenskommelse utges övertidsersättning för arbetad tid dock minst för en timme. För arbete mellan kl. 22.00 och 06.00 ersätts medarbetaren för minst tre timmar.
 
-För medarbetare med normalarbetstid i genomsnitt 7 timmar och 50 minuter per dag, dock högst 39
-timmar och 10 minuter totalt.
-För medarbetare med produktionsarbetstid enligt gällande arbetstidsschema.
-Mom 1:2:2 Ledighet under inrikes tjänsteresa
-Medarbetare har under tjänsteresa rätt till en sammanhängande ledighet om 48 timmar för varje
-sjudagarsperiod.
-Medarbetare som inte kan få ut ledigheten under tjänsteresan har rätt att få ut ledigheten i anslutning till
-hemkomsten, utan avräkning av eventuell övertidskompensation.
-Mom 1:3 Arbetstid m.m. vid utrikes tjänsteresa med övernattning
-Arbetstiden är i genomsnitt 7 timmar och 50 minuter per dag, dock högst 39 timmar och 10 minuter per
-sjudagarsperiod.
+### Mom 7 Nationaldagen
+
+De år nationaldagen infaller på en lördag eller söndag skall medarbetare som den dagen har arbetstidsform normalarbetstid, erhålla en dags kompensationsledighet att uttas efter överenskommelse mellan den enskilde medarbetaren och arbetsgivaren.
+
+## 5 Resor i tjänsten
+
+### Mom 1 Arbetstid vid tjänsteresa
+
+#### Mom 1:1 Allmänna bestämmelser
+
+Med tjänsteresa avses resa som medarbetare företar inom ramen för sin anställning till annan plats och ort än sin ordinarie arbetsplats. Tjänsteresa ska vara beordrad i förväg eller godkänd i efterhand av arbetsgivaren.
+
+För medarbetares tjänsteresa till någon av arbetsgivarens fasta arbetsplatser/ordinarie produktionslokaler gäller de vid arbetsplatsen/produktionslokalen för jämförbara medarbetare gällande arbetstidsreglerna.
+
+För medarbetare som stationeras utomlands skall anställningsvillkoren regleras genom särskilt utlandsreglemente.
+
+#### Mom 1:2 Arbetstid m.m. vid inrikes tjänsteresa
+
+#### Mom 1:2:1 Inrikes tjänsteresa
+
+Vid annan tjänstgöring inom Sverige är den ordinarie arbetstiden i genomsnitt 39 timmar och 10 minuter per helgfri sjudagarsperiod. Vid annan tjänstgöring inom Sverige som varar kortare tid än sju dagar är arbetstiden
+
+- För medarbetare med normalarbetstid i genomsnitt 7 timmar och 50 minuter per dag, dock högst 39 timmar och 10 minuter totalt.
+- För medarbetare med produktionsarbetstid enligt gällande arbetstidsschema.
+
+#### Mom 1:2:2 Ledighet under inrikes tjänsteresa
+
+Medarbetare har under tjänsteresa rätt till en sammanhängande ledighet om 48 timmar för varje sjudagarsperiod.
+
+Medarbetare som inte kan få ut ledigheten under tjänsteresan har rätt att få ut ledigheten i anslutning till hemkomsten, utan avräkning av eventuell övertidskompensation.
+
+#### Mom 1:3 Arbetstid m.m. vid utrikes tjänsteresa med övernattning
+
+Arbetstiden är i genomsnitt 7 timmar och 50 minuter per dag, dock högst 39 timmar och 10 minuter per sjudagarsperiod.
+
 För beordrat eller i efterhand godkänt arbete utöver ordinarie arbetstid vid utrikes tjänsteresa utges, om
 avtal inte träffas om annat, utrikesersättning. Vid arbete utöver 7 timmar och 50 minuter per arbetsdag och
 för arbete utöver 39 timmar och 10 minuter per sjudagarsperiod ersätts varje timme med:
+
+```
+månadslönen / 87
+```
+
 Ersättning betalas för fullgjorda halvtimmar.
-Medarbetare som inte har rätt till övertids- och/eller OB-ersättning vid arbete i Sverige erhåller inte
-utrikesersättning.
-månadslönen
-## 87
+
+Medarbetare som inte har rätt till övertids- och/eller OB-ersättning vid arbete i Sverige erhåller inte utrikesersättning.
 
 Vid utrikes tjänsteresa utges traktamente.
-Tjänsteresa ska anses påbörjad och avslutad i enlighet med de bestämmelser som gäller för
-traktamentsberäkning eller motsvarande inom respektive företag.
+
+Tjänsteresa ska anses påbörjad och avslutad i enlighet med de bestämmelser som gäller för traktamentsberäkning eller motsvarande inom respektive företag.
+
+--
 
 För deltidsanställd medarbetare utgår utrikesersättning enligt ovan för arbete utöver deltidsanställningens
 ordinarie dagliga arbetstid.
