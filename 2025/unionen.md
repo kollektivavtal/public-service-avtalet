@@ -114,17 +114,20 @@ Med vikariat avses att en medarbetare ersätter en annan medarbetare under denne
 
 Parterna är överens om att vikarie i normalfallet ska anställas för hela den period ordinarie befattningshavare är frånvarande.
 
-##### Anmärkning 1
+> [!NOTE]
+> **Anmärkning 1**
+>
+> Om en medarbetare har varit anställd mer än fyra år på vikariat och allmän visstidsanställning under en femårsperiod övergår anställningen till en tillsvidareanställning.
 
-Om en medarbetare har varit anställd mer än fyra år på vikariat och allmän visstidsanställning under en femårsperiod övergår anställningen till en tillsvidareanställning.
+> [!NOTE]
+> **Anmärkning 2**
+>
+> Medarbetare kan efter det att tidpunkten för omvandling till tillsvidareanställning inträtt träffa skriftlig överenskommelse med arbetsgivaren om att avstå den aktualiserade omvandlingen. Sådan överenskommelse gäller i sex månader. Medarbetare kan härefter på nytt avstå från tillsvidareanställning enligt denna regel. För den som uppnått den ordinarie pensionsåldern enligt ITP-planen (f.n. 65 år) övergår inte en allmän visstidsanställning eller ett vikariat till en tillsvidareanställning.
 
-##### Anmärkning 2
-
-Medarbetare kan efter det att tidpunkten för omvandling till tillsvidareanställning inträtt träffa skriftlig överenskommelse med arbetsgivaren om att avstå den aktualiserade omvandlingen. Sådan överenskommelse gäller i sex månader. Medarbetare kan härefter på nytt avstå från tillsvidareanställning enligt denna regel. För den som uppnått den ordinarie pensionsåldern enligt ITP-planen (f.n. 65 år) övergår inte en allmän visstidsanställning eller ett vikariat till en tillsvidareanställning.
-
-##### Anmärkning 3
-
-Vid omvandling av en allmän visstids- och/eller vikariatsanställning till en tillsvidareanställning gäller samma anställningsvillkor som vid senaste visstidsanställningen, om inte annan överenskommelse träffats mellan medarbetaren och arbetsgivare. Enas inte parterna om medarbetarens sysselsättningsgrad ska denna fastställas till att omfatta den genomsnittliga sysselsättningsgraden som medarbetaren haft under de senaste tolv anställningsmånaderna proportionellt.
+> [!NOTE]
+> **Anmärkning 3**
+>
+> Vid omvandling av en allmän visstids- och/eller vikariatsanställning till en tillsvidareanställning gäller samma anställningsvillkor som vid senaste visstidsanställningen, om inte annan överenskommelse träffats mellan medarbetaren och arbetsgivare. Enas inte parterna om medarbetarens sysselsättningsgrad ska denna fastställas till att omfatta den genomsnittliga sysselsättningsgraden som medarbetaren haft under de senaste tolv anställningsmånaderna proportionellt.
 
 #### Mom 2:3 Programanställning
 
@@ -145,9 +148,10 @@ Företrädesrätt till återanställning gäller inte, vare sig till anställnin
 Ett avtal om programanställning får inte upphöra i nära anslutning före julhelgen, för att därefter förlängas/förnyas i nära anslutning efter trettonhelgen, i en ny programanställning. I fall en programanställning har avslutats och förlängts på ovan angivet sätt anses programanställningen i sådant
 fall bestå under nämnda period.
 
-##### Anmärkning 1
-
-Parterna i detta avtal kan säga upp § 2 och mom 2.3 med en uppsägningstid om tre månader. Sådan uppsägning kan begränsas till att avse visst företag. Om arbetsgivarparten önskar att momentet skall ha fortsatt giltighet skall förhandlingar skyndsamt begäras och föras under uppsägningstiden. Parterna kan härvid enas om att förlänga uppsägningstiden för att möjliggöra att förhandlingar enligt förhandlingsordningen hinner slutföras innan uppsägningstiden löper ut.
+> [!NOTE]
+> **Anmärkning 1**
+>
+> Parterna i detta avtal kan säga upp § 2 och mom 2.3 med en uppsägningstid om tre månader. Sådan uppsägning kan begränsas till att avse visst företag. Om arbetsgivarparten önskar att momentet skall ha fortsatt giltighet skall förhandlingar skyndsamt begäras och föras under uppsägningstiden. Parterna kan härvid enas om att förlänga uppsägningstiden för att möjliggöra att förhandlingar enligt förhandlingsordningen hinner slutföras innan uppsägningstiden löper ut.
 
 #### Mom 2:4 Arbetsplatsförlagd praktik och feriearbete
 
@@ -257,9 +261,10 @@ Medarbetare enligt detta avtal undantas från arbetstidslagen (1982:673).
 
 Medarbetare skall vara undantagen från bestämmelserna i mom 2-6 nedan om medarbetaren har en månadslön som överstiger ett inkomstbasbelopp (80 600 kr år 2025). Medarbetaren har istället rätt till fem extra semesterdagar per år. Dock skall mom 3:3 samt begränsningsreglerna avseende veckovila och nattvila tillämpas.
 
-##### Anmärkning
-
-Enligt mom 1:2. omfattas vissa medarbetare inte av bestämmelserna i mom 2-6. Det är dock ett ömsesidigt intresse för arbetsgivaren och den lokala arbetstagarorganisationen att kunna få en uppfattning om den totala arbetstidens omfattning för dessa medarbetare. Om den berörda lokala arbetstagarorganisationen så begär skall arbetsgivaren och den lokala arbetstagarorganisationen gemensamt utforma lämpligt underlag för att bedöma arbetstidsvolymen för dessa medarbetare.
+> [!NOTE]
+> **Anmärkning**
+>
+> Enligt mom 1:2. omfattas vissa medarbetare inte av bestämmelserna i mom 2-6. Det är dock ett ömsesidigt intresse för arbetsgivaren och den lokala arbetstagarorganisationen att kunna få en uppfattning om den totala arbetstidens omfattning för dessa medarbetare. Om den berörda lokala arbetstagarorganisationen så begär skall arbetsgivaren och den lokala arbetstagarorganisationen gemensamt utforma lämpligt underlag för att bedöma arbetstidsvolymen för dessa medarbetare.
 
 #### Mom 1:3 Överenskommelse om undantag från övertidsersättning
 
@@ -273,9 +278,10 @@ Istället för ersättning för övertidsarbete skall medarbetaren erhålla fem 
 
 Information om träffade överenskommelser om undantag enligt detta mom skall lämnas till berörd lokal facklig organisation inom två veckor efter det att överenskommelse träffats.
 
-##### Anmärkning
-
-Vid nyanställning av medarbetare med ringa arbetslivserfarenhet bör detta mom inte tillämpas förrän efter ett års anställning.
+> [!NOTE]
+> **Anmärkning**
+>
+> Vid nyanställning av medarbetare med ringa arbetslivserfarenhet bör detta mom inte tillämpas förrän efter ett års anställning.
 
 ### Mom 2 Ordinarie arbetstid
 
