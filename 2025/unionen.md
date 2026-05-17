@@ -79,140 +79,133 @@ media.
 
 #### Mom 2:2 Pensionärer
 
-För medarbetare som står kvar i tjänst vid företaget eer 67 års ålder eller som anställs eer ordinarie
-uppnådd pensionsålder enligt ITP-planen gäller avtalet med följande inskränkningar. Den del av § 8 som
-avser sjuklön eer den 15:e kalenderdagen gäller endast om
-Arbetsgivaren och sådan medarbetare som avses i detta moment kan komma överens om att även andra
-villkor skall regleras på annat sätt än avtalet stadgar.
-särskild överenskommelse om detta träffats mellan arbetsgivaren och medarbetaren
-uppsägningstiden är en månad för både arbetsgivaren och medarbetaren
-Mom 2:3 Lokala avtal
-§ 4 Arbetstid och § 5 Resor i tjänsten i detta avtal tillämpas om de lokala parterna inte avtalat om andra
-lokalt anpassade lösningar. Sådana lokala avtal skall vara skriliga och innehålla omfattning, giltighetstid
-samt uppsägningsregler.
-Överenskommelse om annan omfattning av allmän övertid skall underställas förbundsparterna för
-godkännande.
-Ett lokalt avtal är ogiltigt i den utsträckning det innebär att mindre förmånliga villkor skall tillämpas för
-medarbetarna än vad som följer av minimireglerna i Europaparlamentets och rådets direktiv (2003/88/EG)
-enligt arbetstidslagen 3 § 4 st.
+För medarbetare som står kvar i tjänst vid företaget eer 67 års ålder eller som anställs eer ordinarie uppnådd pensionsålder enligt ITP-planen gäller avtalet med följande inskränkningar. Den del av § 8 som avser sjuklön eer den 15:e kalenderdagen gäller endast om
 
-## § 2 Anställning
-Mom 1 Anställning tills vidare
+- särskild överenskommelse om detta träffats mellan arbetsgivaren och medarbetaren
+- uppsägningstiden är en månad för både arbetsgivaren och medarbetaren
+
+Arbetsgivaren och sådan medarbetare som avses i detta moment kan komma överens om att även andra villkor skall regleras på annat sätt än avtalet stadgar.
+
+#### Mom 2:3 Lokala avtal
+
+§ 4 Arbetstid och § 5 Resor i tjänsten i detta avtal tillämpas om de lokala parterna inte avtalat om andra lokalt anpassade lösningar. Sådana lokala avtal skall vara skriliga och innehålla omfattning, giltighetstid samt uppsägningsregler.
+
+Överenskommelse om annan omfattning av allmän övertid skall underställas förbundsparterna för godkännande.
+
+Ett lokalt avtal är ogiltigt i den utsträckning det innebär att mindre förmånliga villkor skall tillämpas för medarbetarna än vad som följer av minimireglerna i Europaparlamentets och rådets direktiv (2003/88/EG) enligt arbetstidslagen 3 § 4 st.
+
+### § 2 Anställning
+
+### Mom 1 Anställning tills vidare
+
 Anställning gäller tills vidare om annat inte överenskommits enligt mom 2 nedan.
-Mom 2 Anställning för viss tid
-Mom 2:1 Allmän visstidsanställning
-Arbetsgivare och medarbetare kan överenskomma om anställning för viss tid. Har medarbetaren ha
-allmän visstidsanställning längre än sammanlagt två år under en femårsperiod övergår anställningen till en
-tillsvidareanställning.
-## Mom 2:2 Vikariat
-Avtal om anställning för viss tid får träffas om anställningen avser vikariat vid frånvaro av anställd
-medarbetare. Har medarbetaren ha vikariatsanställning längre än sammanlagt tre år under en
-femårsperiod övergår anställningen till en tillsvidareanställning.
-Med vikariat avses att en medarbetare ersätter en annan medarbetare under dennes frånvaro. Med vikariat
-avses också när en medarbetare under högst sex månader, alternativt under den längre tid som fastställts i
-överenskommelse mellan arbetsgivaren och den lokala arbetstagarparten, uppehåller en befattning i
-avvaktan på att den återbesätts.
-Parterna är överens om att vikarie i normalfallet ska anställas för hela den period ordinarie
-befattningshavare är frånvarande.
-## Anmärkning 1
-Om en medarbetare har varit anställd mer än fyra år på vikariat och allmän visstidsanställning under en
-femårsperiod övergår anställningen till en tillsvidareanställning.
-## Anmärkning 2
-Medarbetare kan eer det att tidpunkten för omvandling till tillsvidareanställning inträtt träffa skrilig
-överenskommelse med arbetsgivaren om att avstå den aktualiserade omvandlingen. Sådan överenskommelse
-gäller i sex månader. Medarbetare kan häreer på nytt avstå från tillsvidareanställning enligt denna regel. För
-den som uppnått den ordinarie pensionsåldern enligt ITP-planen (f.n. 65 år) övergår inte en allmän
-visstidsanställning eller ett vikariat till en tillsvidareanställning.
-## Anmärkning 3
-Vid omvandling av en allmän visstids- och/eller vikariatsanställning till en tillsvidareanställning gäller samma
-anställningsvillkor som vid senaste visstidsanställningen, om inte annan överenskommelse träffats mellan
-medarbetaren och arbetsgivare. Enas inte parterna om medarbetarens sysselsättningsgrad ska denna
-fastställas till att omfatta den genomsnittliga sysselsättningsgraden som medarbetaren ha under de senaste
-tolv anställningsmånaderna proportionellt.
-## Mom 2:3 Programanställning
+
+### Mom 2 Anställning för viss tid
+
+#### Mom 2:1 Allmän visstidsanställning
+
+Arbetsgivare och medarbetare kan överenskomma om anställning för viss tid. Har medarbetaren ha allmän visstidsanställning längre än sammanlagt två år under en femårsperiod övergår anställningen till en tillsvidareanställning.
+
+#### Mom 2:2 Vikariat
+
+Avtal om anställning för viss tid får träffas om anställningen avser vikariat vid frånvaro av anställd medarbetare. Har medarbetaren ha vikariatsanställning längre än sammanlagt tre år under en femårsperiod övergår anställningen till en tillsvidareanställning.
+
+Med vikariat avses att en medarbetare ersätter en annan medarbetare under dennes frånvaro. Med vikariat avses också när en medarbetare under högst sex månader, alternativt under den längre tid som fastställts i överenskommelse mellan arbetsgivaren och den lokala arbetstagarparten, uppehåller en befattning i avvaktan på att den återbesätts.
+
+Parterna är överens om att vikarie i normalfallet ska anställas för hela den period ordinarie befattningshavare är frånvarande.
+
+##### Anmärkning 1
+
+Om en medarbetare har varit anställd mer än fyra år på vikariat och allmän visstidsanställning under en femårsperiod övergår anställningen till en tillsvidareanställning.
+
+##### Anmärkning 2
+
+Medarbetare kan eer det att tidpunkten för omvandling till tillsvidareanställning inträtt träffa skrilig överenskommelse med arbetsgivaren om att avstå den aktualiserade omvandlingen. Sådan överenskommelse gäller i sex månader. Medarbetare kan häreer på nytt avstå från tillsvidareanställning enligt denna regel. För den som uppnått den ordinarie pensionsåldern enligt ITP-planen (f.n. 65 år) övergår inte en allmän visstidsanställning eller ett vikariat till en tillsvidareanställning.
+
+##### Anmärkning 3
+
+Vid omvandling av en allmän visstids- och/eller vikariatsanställning till en tillsvidareanställning gäller samma anställningsvillkor som vid senaste visstidsanställningen, om inte annan överenskommelse träffats mellan medarbetaren och arbetsgivare. Enas inte parterna om medarbetarens sysselsättningsgrad ska denna fastställas till att omfatta den genomsnittliga sysselsättningsgraden som medarbetaren ha under de senaste tolv anställningsmånaderna proportionellt.
+
+#### Mom 2:3 Programanställning
+
 Avtal om programanställning får träffas:
+
 - under sammanlagt 48 månader, under en period om 60 månader,
+
 Närmare bestämmelser om programanställning finns i Bilaga A.
 
-Har medarbetaren varit frånvarande under den mellan företaget och medarbetaren avtalade perioden för
-programanställning får arbetsgivaren och medarbetaren, innan tiden för programanställning löper ut,
-träffa avtal om att förlänga anställningen i motsvarande mån.
-Har programanställningar träffats mellan arbetsgivaren och medarbetaren och som sammanlagt omfattar
-48 månader får arbetsgivaren och medarbetaren träffa avtal om ytterligare programanställning såvida
-sådan anställning träffats inom ramen av 60 månader från första anställningstillfället. Sådan anställning får
-träffas eer att arbetsgivaren underrättat lokal arbetstagarpart härom.
-Om den begränsade tiden för programanställning överskridits får den senast ingångna anställningen, så
-länge anställningsförhållande föreligger, på arbetstagarpartens begäran, omvandlas till
-tillsvidareanställning.
-Företrädesrätt till återanställning gäller inte, vare sig till anställning eller som utökning av
-sysselsättningsgrad, medarbetare med programanställning. Inte heller åtnjuter en medarbetare med
-programanställning företrädesrätt till sådan anställning eller annan befattning i verksamheten.
-Ett avtal om programanställning får inte upphöra i nära anslutning före julhelgen, för att däreer
-förlängas/förnyas i nära anslutning eer trettonhelgen, i en ny programanställning. I fall en
-programanställning har avslutats och förlängts på ovan angivet sätt anses programanställningen i sådant
-fall bestå under nämnda period.
-## Anmärkning 1
-Parterna i detta avtal kan säga upp § 2 och mom 2.3 med en uppsägningstid om tre månader. Sådan
-uppsägning kan begränsas till att avse visst företag. Om arbetsgivarparten önskar att momentet skall ha
-fortsatt giltighet skall förhandlingar skyndsamt begäras och föras under uppsägningstiden. Parterna kan
-härvid enas om att förlänga uppsägningstiden för att möjliggöra att förhandlingar enligt
-förhandlingsordningen hinner slutföras innan uppsägningstiden löper ut.
-Mom 2:4 Arbetsplatsförlagd praktik och feriearbete
-Skolungdom, studerande får genomföra arbetsplatsförlagd utbildning/praktik på företaget för att fullgöra i
-utbildningen ingående obligatorisk praktik. Sådan praktik som är studiemedelsberättigad är oavlönad.
-Handledare skall alltid utses vid praktikarbete.
-Skolungdom och studerande får i övrigt anställas för viss tid, viss säsong eller visst arbete när de har ferier
-eller annars gör uppehåll i studierna.
-## Mom 2:5 Pensionär
-Medarbetare som står kvar i tjänst vid företaget eer 67 år ålder eller för denne gällande ordinarie
-pensionsåldern enligt ITP-planen får anställas för viss tid. Samma gäller om en medarbetare anställs eer
-det att denne har uppnått den pensionsålder som tillämpas vid företaget.
-## Mom 2:6 Provanställning
-Avtal om anställning för viss tid i form av provanställning kan träffas mellan arbetsgivaren och
-medarbetare om medarbetarens kvalifikationer inom befattningsområdet är oprövade eller det annars
-föreligger särskilda skäl att pröva medarbetarens kvalifikationer och arbetsförutsättningar mot bakgrund av
-arbetsuppgiernas speciella krav.
-Avtal om provanställning kan omfatta högst 6 månader.
-Om medarbetaren varit frånvarande under provperioden kan anställningen eer över enskommelse
-förlängas med motsvarande tid.
+Har medarbetaren varit frånvarande under den mellan företaget och medarbetaren avtalade perioden för programanställning får arbetsgivaren och medarbetaren, innan tiden för programanställning löper ut, träffa avtal om att förlänga anställningen i motsvarande mån.
 
-Om provanställningen inte övergår till en tillsvidareanställning, ska arbetsgivaren motivera sitt
-ställningstagande, om medarbetaren begär det.
-## Mom 2:7 Företrädesrätt
+Har programanställningar träffats mellan arbetsgivaren och medarbetaren och som sammanlagt omfattar 48 månader får arbetsgivaren och medarbetaren träffa avtal om ytterligare programanställning såvida sådan anställning träffats inom ramen av 60 månader från första anställningstillfället. Sådan anställning får träffas eer att arbetsgivaren underrättat lokal arbetstagarpart härom.
+
+Om den begränsade tiden för programanställning överskridits får den senast ingångna anställningen, så länge anställningsförhållande föreligger, på arbetstagarpartens begäran, omvandlas till tillsvidareanställning.
+
+Företrädesrätt till återanställning gäller inte, vare sig till anställning eller som utökning av sysselsättningsgrad, medarbetare med programanställning. Inte heller åtnjuter en medarbetare med programanställning företrädesrätt till sådan anställning eller annan befattning i verksamheten.
+
+Ett avtal om programanställning får inte upphöra i nära anslutning före julhelgen, för att däreer förlängas/förnyas i nära anslutning eer trettonhelgen, i en ny programanställning. I fall en programanställning har avslutats och förlängts på ovan angivet sätt anses programanställningen i sådant
+fall bestå under nämnda period.
+
+##### Anmärkning 1
+
+Parterna i detta avtal kan säga upp § 2 och mom 2.3 med en uppsägningstid om tre månader. Sådan uppsägning kan begränsas till att avse visst företag. Om arbetsgivarparten önskar att momentet skall ha fortsatt giltighet skall förhandlingar skyndsamt begäras och föras under uppsägningstiden. Parterna kan härvid enas om att förlänga uppsägningstiden för att möjliggöra att förhandlingar enligt förhandlingsordningen hinner slutföras innan uppsägningstiden löper ut.
+
+#### Mom 2:4 Arbetsplatsförlagd praktik och feriearbete
+
+Skolungdom, studerande får genomföra arbetsplatsförlagd utbildning/praktik på företaget för att fullgöra i utbildningen ingående obligatorisk praktik. Sådan praktik som är studiemedelsberättigad är oavlönad. Handledare skall alltid utses vid praktikarbete.
+
+Skolungdom och studerande får i övrigt anställas för viss tid, viss säsong eller visst arbete när de har ferier eller annars gör uppehåll i studierna.
+
+#### Mom 2:5 Pensionär
+
+Medarbetare som står kvar i tjänst vid företaget eer 67 år ålder eller för denne gällande ordinarie pensionsåldern enligt ITP-planen får anställas för viss tid. Samma gäller om en medarbetare anställs eer det att denne har uppnått den pensionsålder som tillämpas vid företaget.
+
+#### Mom 2:6 Provanställning
+
+Avtal om anställning för viss tid i form av provanställning kan träffas mellan arbetsgivaren och medarbetare om medarbetarens kvalifikationer inom befattningsområdet är oprövade eller det annars föreligger särskilda skäl att pröva medarbetarens kvalifikationer och arbetsförutsättningar mot bakgrund av arbetsuppgiernas speciella krav.
+
+Avtal om provanställning kan omfatta högst 6 månader.
+
+Om medarbetaren varit frånvarande under provperioden kan anställningen eer över enskommelse förlängas med motsvarande tid.
+
+Om provanställningen inte övergår till en tillsvidareanställning, ska arbetsgivaren motivera sitt ställningstagande, om medarbetaren begär det.
+
+#### Mom 2:7 Företrädesrätt
+
 Lagen om anställningsskydd gäller med följande tillägg.
+
 Arbetsplatsförlagd utbildning/praktik är inte företrädesrättsgrundande enligt 25 och 25a §§ i LAS.
-Medarbetare som uppnått pensionsålder, 67 år, eller avgått med pension enligt ITP-planen vid lägre ålder,
-har inte företrädesrätt till återanställning enligt 25 och 25a §§ LAS.
-Medarbetare som under pågående vikariatsanställning blir föräldraledig med föräldrapenning och som vid
-denna anställnings upphörande uppfyller förutsättningarna för företrädesrätt till återanställning har rätt att
-med åberopande av sin föräldraledighet under pågående företrädesrättsperiod tacka nej till
-anställningserbjudanden utan att därför förverka sin företrädesrätt.
+
+Medarbetare som uppnått pensionsålder, 67 år, eller avgått med pension enligt ITP-planen vid lägre ålder, har inte företrädesrätt till återanställning enligt 25 och 25a §§ LAS.
+
+Medarbetare som under pågående vikariatsanställning blir föräldraledig med föräldrapenning och som vid denna anställnings upphörande uppfyller förutsättningarna för företrädesrätt till återanställning har rätt att med åberopande av sin föräldraledighet under pågående företrädesrättsperiod tacka nej till anställningserbjudanden utan att därför förverka sin företrädesrätt.
+
 Nedanstående regel gäller för medarbetare som har gjort gällande sin företrädesrätt eer den 1 april 2017.
-Företrädesrätt till återanställning gäller inte till ny anställning som bedöms få en varaktighet av högst en
-månad.
-Utöver vad som anges i 25 § anställningsskyddslagen gäller att medarbetare med återanställningsrätt endast
-kan göra gällande denna till den verksamhet/avdelning som den anställde senast varit sysselsatt i.
+
+Företrädesrätt till återanställning gäller inte till ny anställning som bedöms få en varaktighet av högst en månad.
+
+Utöver vad som anges i 25 § anställningsskyddslagen gäller att medarbetare med återanställningsrätt endast kan göra gällande denna till den verksamhet/avdelning som den anställde senast varit sysselsatt i.
+
 Med verksamhet/avdelning likställs redaktion, produktionsenhet eller administrativ avdelning.
-En anställd, eller f.d. anställd, med återanställningsrätt, som på grund av omorganisation mister den enhet
-som återanställningsrätten ska göras gällande emot, ska istället erhålla återanställningsrätt inom den större
-kvarvarande enhet inom drisenheten som den anställdes tidigare avdelning ingick i.
-Mom 2:8 Information till lokal arbetstagarorganisation
-Arbetsgivaren skall informera den berörda lokala fackliga organisationen om omfattningen av och
-formerna för visstidsanställningar inom företaget. Närmare former för informationen bör överenskommas
-lokalt.
-Har inte sådan överenskommelse träffats ska arbetsgivaren lämna en samlad information till lokal
-arbetstagarpart härom, dock senast i samband med kalendermånadens slut.
-Mom 2:9 Anställningsbevis/Anställningsavtal
-För anställningar, som avses ha en varaktighet längre än en månad, ska medarbetaren erhålla ett
-anställningsbevis med sådant innehåll som framgår av anställningsskyddslagens 6 c § i samband med att
-anställningen tillträds.
-Undantag från ovan anförda får tillåtas om arbetsgivaren, på grund av omständigheter som denne inte
-kunnat förutse, överlämnat anställningsbeviset senast 14 dagar eer att anställningen tillträtts.
+
+En anställd, eller f.d. anställd, med återanställningsrätt, som på grund av omorganisation mister den enhet som återanställningsrätten ska göras gällande emot, ska istället erhålla återanställningsrätt inom den större kvarvarande enhet inom drisenheten som den anställdes tidigare avdelning ingick i.
+
+#### Mom 2:8 Information till lokal arbetstagarorganisation
+
+Arbetsgivaren skall informera den berörda lokala fackliga organisationen om omfattningen av och formerna för visstidsanställningar inom företaget. Närmare former för informationen bör överenskommas lokalt.
+
+Har inte sådan överenskommelse träffats ska arbetsgivaren lämna en samlad information till lokal arbetstagarpart härom, dock senast i samband med kalendermånadens slut.
+
+#### Mom 2:9 Anställningsbevis/Anställningsavtal
+
+För anställningar, som avses ha en varaktighet längre än en månad, ska medarbetaren erhålla ett anställningsbevis med sådant innehåll som framgår av anställningsskyddslagens 6 c § i samband med att anställningen tillträds.
+
+Undantag från ovan anförda får tillåtas om arbetsgivaren, på grund av omständigheter som denne inte kunnat förutse, överlämnat anställningsbeviset senast 14 dagar eer att anställningen tillträtts.
+
 För andra anställningar bör anställningsbevis upprättas.
-Mom 3 Visstidsanställning i annat företag
-Medarbetare med tillsvidareanställning i Public Serviceföretag, som anställs för viss tid i annat Public
-Serviceföretag, erhåller inte företrädesrätt till ny anställning i det sistnämnda företaget under förutsättning
-att tillsvidareanställningen består vid visstidsanställningens upphörande.
+
+#### Mom 3 Visstidsanställning i annat företag
+
+Medarbetare med tillsvidareanställning i Public Serviceföretag, som anställs för viss tid i annat Public Serviceföretag, erhåller inte företrädesrätt till ny anställning i det sistnämnda företaget under förutsättning att tillsvidareanställningen består vid visstidsanställningens upphörande.
 
 § 3 Allmänna förhållningsregler
 ## Mom 1 Arbetsskyldighet
