@@ -94,7 +94,7 @@ Arbetsgivaren och sådan medarbetare som avses i detta moment kan komma överens
 
 Ett lokalt avtal är ogiltigt i den utsträckning det innebär att mindre förmånliga villkor skall tillämpas för medarbetarna än vad som följer av minimireglerna i Europaparlamentets och rådets direktiv (2003/88/EG) enligt arbetstidslagen 3 § 4 st.
 
-### § 2 Anställning
+## § 2 Anställning
 
 ### Mom 1 Anställning tills vidare
 
@@ -543,7 +543,7 @@ Vid påkallad inställelse på arbetsstället utges övertidsersättning för ar
 
 De år nationaldagen infaller på en lördag eller söndag skall medarbetare som den dagen har arbetstidsform normalarbetstid, erhålla en dags kompensationsledighet att uttas efter överenskommelse mellan den enskilde medarbetaren och arbetsgivaren.
 
-## 5 Resor i tjänsten
+## § 5 Resor i tjänsten
 
 ### Mom 1 Arbetstid vid tjänsteresa
 
@@ -914,7 +914,7 @@ Om summan av utbetalda semestertillägg/utlagda semesterdagar enligt mom 10.1 oc
 
 Om summan av utbetalda semestertillägg/utlagda semesterdagar enligt mom 10.1 och antalet utlagda semesterdagar enligt mom 10.2 vid semesterårets utgång understiger vad medarbetaren är berättigad till, så hanteras sådan semesterfordran, både vad avser semestertillägg och semesterdagar, enligt tillämpliga regler i denna paragraf.
 
-### § 8 Sjukdom m.m.
+## § 8 Sjukdom m.m.
 
 #### Mom 1 Rätten till sjuklön
 
