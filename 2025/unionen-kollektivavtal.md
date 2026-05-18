@@ -1672,5 +1672,3 @@ Detta avtal gäller från och med den 1 april 2025 till och med den 31 mars 2027
 ### Mom 2 Uppsägning
 
 Uppsägning skall ske skriftligt för att vara gällande.
-
-
