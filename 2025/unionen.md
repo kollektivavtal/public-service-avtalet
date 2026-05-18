@@ -594,262 +594,304 @@ Tjänsteresa ska anses påbörjad och avslutad i enlighet med de bestämmelser s
 
 För deltidsanställd medarbetare utgår utrikesersättning enligt ovan för arbete utöver deltidsanställningens
 ordinarie dagliga arbetstid.
-Mom 1.3.1 Ledighet under utrikes tjänsteresa
-Medarbetare har rätt till en sammanhängande ledighet under tjänsteresa om 36 timmar för varje
-sjudagarsperiod. Medarbetare som inte kan få ut ledigheten under tjänsteresan har rätt att få ut ledighet i
-anslutning till hemkomsten.
-Mom 1:4 Tillfällig produktionsplats
-Den genomsnittliga arbetstiden skall vara 39 timmar och 10 minuter per helgfri sju-dagarsperiod för
-samtliga anställda, oberoende av den enskilde medarbetarens normala arbetstidsförläggning, som deltar i
-programproduktion på produktionsplatser utanför företagets ordinarie produktionslokaler, s k tillfälliga
-produktionsplatser, och vilka produktioner sträcker sig över minst 5 dygn.
-Medarbetare som normalt arbetar enligt annan arbetstidsform, skall underrättas om att förändrad
-arbetstidsförläggning kommer att ske enligt reglerna om varseltider. Medarbetaren äger rätt till
-kompensationsledighet timme för timme för den ordinarie arbetstid medarbetaren utför på tillfälliga
-produktionsplatser utöver sitt normala arbetstidsmått. Ledigheten förläggs efter överenskommelse mellan
-arbetsgivaren och medarbetaren, normalt i anslutning till hemkomsten.
-Mom 2 Social trygghet
-Under utlandsvistelsen skall medarbetare tillförsäkras social trygghet motsvarande de avtals- och lagfästa
-försäkrings- och pensionsförmåner som gäller för medarbetaren vid dennes ordinarie arbete i Sverige.
-Med avtalsfästa försäkrings- och pensionsförmåner avses ITP, TGL, TFA och förmåner enligt
-trygghetsavtalet. Med lagfästa försäkrings- och pensionsförmåner avses förmåner enligt
-## Socialförsäkringsbalken.
-Mom 3 Restid inom Sverige
-Med restid avses den tid under en tjänsteresa som går åt för resan till och från bestämmelseorten inom
-Sverige. Restid räknas som arbetstid dock högst till en total tid för arbete + resa av 13 timmar per
-kalenderdygn. För medarbetare som kör bil räknas hela tidsåtgången som arbetstid. Utnyttjar
-medarbetaren sovplats på tåg eller båt, räknas inte tiden 20.00–08.00 som arbetstid.
-Resan skall anses påbörjad och avslutad i enlighet med de bestämmelser som gäller för
-traktamentsberäkning eller motsvarande vid respektive företag.
-Sådan restid, som för medarbetaren sker på övertid, skall inte räknas in i de övertidskvoter som anges i § 4
-mom 3:2 och 3:6. Medarbetare skall inte beordras till tjänsteresa med avräkning enligt denna
-undantagsregel på för medarbetaren schemalagd ledig dag. Om medarbetaren beordras till resa på ledig
-dag kompenseras detta som om övertidsarbete skulle ha utförts under 4 timmar.
-Mom 4 Restid vid utrikes tjänsteresa
+
+--
+
+#### Mom 1.3.1 Ledighet under utrikes tjänsteresa
+
+Medarbetare har rätt till en sammanhängande ledighet under tjänsteresa om 36 timmar för varje sjudagarsperiod. Medarbetare som inte kan få ut ledigheten under tjänsteresan har rätt att få ut ledighet i anslutning till hemkomsten.
+
+#### Mom 1:4 Tillfällig produktionsplats
+
+Den genomsnittliga arbetstiden skall vara 39 timmar och 10 minuter per helgfri sju-dagarsperiod för samtliga anställda, oberoende av den enskilde medarbetarens normala arbetstidsförläggning, som deltar i programproduktion på produktionsplatser utanför företagets ordinarie produktionslokaler, s k tillfälliga produktionsplatser, och vilka produktioner sträcker sig över minst 5 dygn.
+
+Medarbetare som normalt arbetar enligt annan arbetstidsform, skall underrättas om att förändrad arbetstidsförläggning kommer att ske enligt reglerna om varseltider. Medarbetaren äger rätt till kompensationsledighet timme för timme för den ordinarie arbetstid medarbetaren utför på tillfälliga produktionsplatser utöver sitt normala arbetstidsmått. Ledigheten förläggs efter överenskommelse mellan arbetsgivaren och medarbetaren, normalt i anslutning till hemkomsten.
+
+### Mom 2 Social trygghet
+
+Under utlandsvistelsen skall medarbetare tillförsäkras social trygghet motsvarande de avtals- och lagfästa försäkrings- och pensionsförmåner som gäller för medarbetaren vid dennes ordinarie arbete i Sverige.
+
+Med avtalsfästa försäkrings- och pensionsförmåner avses ITP, TGL, TFA och förmåner enligt trygghetsavtalet. Med lagfästa försäkrings- och pensionsförmåner avses förmåner enligt Socialförsäkringsbalken.
+
+### Mom 3 Restid inom Sverige
+
+Med restid avses den tid under en tjänsteresa som går åt för resan till och från bestämmelseorten inom Sverige. Restid räknas som arbetstid dock högst till en total tid för arbete + resa av 13 timmar per kalenderdygn. För medarbetare som kör bil räknas hela tidsåtgången som arbetstid. Utnyttjar medarbetaren sovplats på tåg eller båt, räknas inte tiden 20.00–08.00 som arbetstid.
+
+Resan skall anses påbörjad och avslutad i enlighet med de bestämmelser som gäller för traktamentsberäkning eller motsvarande vid respektive företag.
+
+Sådan restid, som för medarbetaren sker på övertid, skall inte räknas in i de övertidskvoter som anges i § 4 mom 3:2 och 3:6. Medarbetare skall inte beordras till tjänsteresa med avräkning enligt denna undantagsregel på för medarbetaren schemalagd ledig dag. Om medarbetaren beordras till resa på ledig dag kompenseras detta som om övertidsarbete skulle ha utförts under 4 timmar.
+
+### Mom 4 Restid vid utrikes tjänsteresa
+
 Vid utrikes tjänsteresa utanför ordinarie arbetstid ersätts medarbetare för varje timme med:
-## NYTT
+
+```
+månadslönen / 190
+```
 
 Vid beräkning av restid ska endast fulla halvtimmar medtas.
-För varje resa ersätts högst fem timmar.
-Om företaget bekostat sovplats på tåg eller båt under resan, eller del av denna, ska tiden klockan 22-08 inte
-medräknas.
 
-månadslönen
-## 190
+För varje resa ersätts högst fem timmar.
+
+Om företaget bekostat sovplats på tåg eller båt under resan, eller del av denna, ska tiden klockan 22-08 inte medräknas.
+
 ## § 6 Lön
-## Mom 1 Månadslön
+
+### Mom 1 Månadslön
+
 Om inte arbetsgivaren och medarbetaren har kommit överens om annat, utgår lön i form av månadslön.
+
 I övrigt kan rörliga lönedelar förekomma enligt detta avtal.
-Mom 2 Lön för del av löneperiod
-Om en medarbetare börjar eller slutar sin anställning under löpande kalendermånad beräknas lönen på
-följande sätt: För varje kalenderdag, om fler än fem, som anställningen omfattar utges en daglön.
-Omfattar anställningen fem arbetsdagar eller mindre av en kalendermånad utgår lön med 1/21 del av
-månadslönen per dag.
+
+### Mom 2 Lön för del av löneperiod
+
+Om en medarbetare börjar eller slutar sin anställning under löpande kalendermånad beräknas lönen på följande sätt: För varje kalenderdag, om fler än fem, som anställningen omfattar utges en daglön.
+
+Omfattar anställningen fem arbetsdagar eller mindre av en kalendermånad utgår lön med 1/21 del av månadslönen per dag.
 
 ## § 7 Semester
-Mom 1 Allmänna bestämmelser
+
+### Mom 1 Allmänna bestämmelser
+
 Semester utgår enligt gällande lag med följande tillägg och undantag.
-Mom 2 Semesterår och intjänandeår
-Löpande kalenderår ska vara semesterår och intjänandeår. Har av speciella skäl semester delvis inte kunnat
-beredas medarbetare före kalenderårets utgång, har medarbetaren rätt att få ut resterande antal
-semesterdagar näst påföljande år, dock inte senare än under mars månad.
-Mom 3 Semesterns längd m.m.
-Mom 3.1 Semesterns längd
-Genom överenskommelse mellan arbetsgivare och enskild medarbetare enligt § 4 mom 1:3 samt 5:2 kan
-medarbetare i stället för 25 semesterdagar erhålla upp till ytterligare 5 semesterdagar.
-Med semesterdagar avses både betalda och obetalda semesterdagar. För medarbetare med flera
-semesterdagar än 25 fastställs antal dagar med semesterlön enligt principerna i 7 § semesterlagen.
-Regler för beräkning av antalet semesterdagar för medarbetare med intermittent arbetstidsförläggning eller
-intermittent deltidsarbete se § 7 mom 10.
-Medarbetare som varit anställd en del av kalenderåret ska få sin betalda semesterrätt minskad
-proportionellt så att den svarar mot det antal dagar som medarbetaren varit anställd.
-Medarbetare som varit frånvarande utan lön ska på motsvarande sätt få sin semester proportionellt
-minskad som om medarbetaren inte varit anställd under frånvaroperioden. Sådan frånvaro omfattar inte
-frånvaro som är semesterlönegrundande enligt §§ 17-17 b SemL.
-Visstidsanställningar som ej avses att vara längre tid än tre månader, berättigar inte till semesterledighet
-utan till semesterersättning.
-Avvikelse från denna regel kan överenskommas mellan medarbetaren och arbetsgivaren vid
-anställningstillfället.
-## Anmärkning
-Även om syftet inledningsvis, i samband med anställningen eller de sammanlagda anställningarna, inte varit
-att anställningsförhållandet skulle bestå längre tid än tre månader, men att detta blivit en konsekvens av hur
-anställningsförhållandet/ anställningsförhållandena utvecklats efter hand, ska en ny anställning som följer
-härefter, omfatta rätt till semesterledighet enligt kollektivavtalet, som om den första anställningen syftat att
-vara längre än tre månader
-## Mom 3.2 Garanti
-Medarbetare som i det individuella fallet på grund av kollektivavtal eller enskilt anställningsavtal har rätt
-till större antal dagar semester än detta avtal stadgar ska inte drabbas av försämring enligt detta avtal.
-Denna garantiregel gäller dock inte i de fall en medarbetare enligt § 4 mom 1:2 och 1:3 erhållit längre
-semester i stället för rätt till särskild övertidskompensation.
 
-Mom 3.3 Ytterligare semester p g a ålder
-Medarbetare som fyllt eller under semesteråret fyllt 40 år har varje semesterår rätt till ytterligare tre
-semesterdagar utöver de semesterdagar som följer av mom 3:1.
-Mom 3.4 Befordrad/nyanställd medarbetare
-För vid företaget befordrad eller nyanställd medarbetare ska i intjänandeåret enligt semesterlagen även
-riktas in tid under vilket medarbetararen i denna eller annan egenskap varit anställd i företaget eller, i fråga
-om koncern, i annat till koncernen hörande företag.
+### Mom 2 Semesterår och intjänandeår
 
-Mom 4 Semesterlön, semesterersättning m.m.
-## Mom 4.1 Semesterlön
-Semesterlön utgörs av den på semestertiden belöpande aktuella månadslönen och semestertillägg enligt
-mom 4:2.
+Löpande kalenderår ska vara semesterår och intjänandeår. Har av speciella skäl semester delvis inte kunnat beredas medarbetare före kalenderårets utgång, har medarbetaren rätt att få ut resterande antal semesterdagar näst påföljande år, dock inte senare än under mars månad.
+
+### Mom 3 Semesterns längd m.m.
+
+#### Mom 3.1 Semesterns längd
+
+Genom överenskommelse mellan arbetsgivare och enskild medarbetare enligt § 4 mom 1:3 samt 5:2 kan medarbetare i stället för 25 semesterdagar erhålla upp till ytterligare 5 semesterdagar.
+
+Med semesterdagar avses både betalda och obetalda semesterdagar. För medarbetare med flera semesterdagar än 25 fastställs antal dagar med semesterlön enligt principerna i 7 § semesterlagen.
+
+Regler för beräkning av antalet semesterdagar för medarbetare med intermittent arbetstidsförläggning eller intermittent deltidsarbete se § 7 mom 10.
+
+Medarbetare som varit anställd en del av kalenderåret ska få sin betalda semesterrätt minskad proportionellt så att den svarar mot det antal dagar som medarbetaren varit anställd.
+
+Medarbetare som varit frånvarande utan lön ska på motsvarande sätt få sin semester proportionellt minskad som om medarbetaren inte varit anställd under frånvaroperioden. Sådan frånvaro omfattar inte frånvaro som är semesterlönegrundande enligt §§ 17-17 b SemL.
+
+Visstidsanställningar som ej avses att vara längre tid än tre månader, berättigar inte till semesterledighet utan till semesterersättning.
+
+Avvikelse från denna regel kan överenskommas mellan medarbetaren och arbetsgivaren vid anställningstillfället.
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Även om syftet inledningsvis, i samband med anställningen eller de sammanlagda anställningarna, inte varit att anställningsförhållandet skulle bestå längre tid än tre månader, men att detta blivit en konsekvens av hur anställningsförhållandet/ anställningsförhållandena utvecklats efter hand, ska en ny anställning som följer härefter, omfatta rätt till semesterledighet enligt kollektivavtalet, som om den första anställningen syftat att vara längre än tre månader
+
+#### Mom 3.2 Garanti
+
+Medarbetare som i det individuella fallet på grund av kollektivavtal eller enskilt anställningsavtal har rätt till större antal dagar semester än detta avtal stadgar ska inte drabbas av försämring enligt detta avtal.
+
+Denna garantiregel gäller dock inte i de fall en medarbetare enligt § 4 mom 1:2 och 1:3 erhållit längre semester i stället för rätt till särskild övertidskompensation.
+
+#### Mom 3.3 Ytterligare semester p g a ålder
+
+Medarbetare som fyllt eller under semesteråret fyllt 40 år har varje semesterår rätt till ytterligare tre semesterdagar utöver de semesterdagar som följer av mom 3:1.
+
+#### Mom 3.4 Befordrad/nyanställd medarbetare
+
+För vid företaget befordrad eller nyanställd medarbetare ska i intjänandeåret enligt semesterlagen även riktas in tid under vilket medarbetararen i denna eller annan egenskap varit anställd i företaget eller, i fråga om koncern, i annat till koncernen hörande företag.
+
+### Mom 4 Semesterlön, semesterersättning m.m.
+
+#### Mom 4.1 Semesterlön
+
+Semesterlön utgörs av den på semestertiden belöpande aktuella månadslönen och semestertillägg enligt mom 4:2.
+
 Definitionen av begreppet månadslön – se § 6 mom 1
-## Mom 4.2 Semestertillägg
-Semestertillägget för varje betald semesterdag utgör
-Beträffande ändrad sysselsättningsgrad, se mom 4.5.
-Med rörlig lönedel avses i detta sammanhang:
-Till summan av den rörliga lönedelen som har betalats ut under intjänandeåret ska för varje kalenderdag
-(hel eller del av) med semesterlönegrundande frånvaro läggas en genomsnittlig dagsinkomst av rörliga
-delar. Denna genomsnittliga dagsinkomst beräknas genom att under intjänandeåret utbetald rörlig lönedel
-divideras med antalet anställningsdagar (definierat enligt § 7 semesterlagen) exklusive
-semesterledighetsdagar och hela kalenderdagar med semesterlönegrundande frånvaro under
-intjänandeåret.
-Beredskaps-, och ob-ersättning eller liknande rörlig lönedel ska inte tas med i ovanstående
-genomsnittsberäkning om medarbetaren under intjänandeåret uppburit sådan ersättning under högst 60
-dagar.
-## Anmärkning
-0,8 % av medarbetarens vid semestertillfället aktuella månadslön.
-0,5 % av summan av den rörliga lönedel som har betalats ut under intjänandeåret.
-Provision, tantiem, bonus eller liknande rörliga lönedelar som har direkt samband med medarbetarens
-personliga arbetsinsats
-## Premielön,
-Beredskaps- och ob-ersättning eller liknande rörlig lönedel i den mån den inte inräknas i
-månadslönen.
-- Semestertillägget 0,5 % förutsätter att medarbetaren har tjänat in full betald
-semester. Om så inte är fallet ska semestertillägget justeras upp genom att 0,5
-% multipliceras med antalet semesterdagar som medarbetaren är berättigad
-till enligt mom 3 och divideras med antalet betalda semesterdagar som
-medarbetaren har tjänat in.
-- Vad övertidsersättning beträffar har divisorerna i § 4 mom 4:1:3 justerats så
-att de inbegriper semesterlön.
 
-## Mom 4.3 Semesterersättning
-Semesterersättning beräknas som 4,6 % av den aktuella månadslönen per outtagen betald semesterdag
-jämte semestertillägg beräknat enligt mom 4:2. Semesterersättning för sparad semesterdag beräknas som
-om den sparade dagen tagits ut det semesterår anställningen upphörde. Beträffande ändrad
-sysselsättningsgrad – se mom 4:5.
+#### Mom 4.2 Semestertillägg
+
+Semestertillägget för varje betald semesterdag utgör
+
+- 0,8 % av medarbetarens vid semestertillfället aktuella månadslön.
+
+Beträffande ändrad sysselsättningsgrad, se mom 4.5.
+
+- 0,5 % av summan av den rörliga lönedel som har betalats ut under intjänandeåret.
+
+Med rörlig lönedel avses i detta sammanhang:
+
+- Provision, tantiem, bonus eller liknande rörliga lönedelar som har direkt samband med medarbetarens personliga arbetsinsats
+- Premielön,
+- Beredskaps- och ob-ersättning eller liknande rörlig lönedel i den mån den inte inräknas i månadslönen.
+
+Till summan av den rörliga lönedelen som har betalats ut under intjänandeåret ska för varje kalenderdag (hel eller del av) med semesterlönegrundande frånvaro läggas en genomsnittlig dagsinkomst av rörliga delar. Denna genomsnittliga dagsinkomst beräknas genom att under intjänandeåret utbetald rörlig lönedel divideras med antalet anställningsdagar (definierat enligt § 7 semesterlagen) exklusive semesterledighetsdagar och hela kalenderdagar med semesterlönegrundande frånvaro under intjänandeåret.
+
+Beredskaps-, och ob-ersättning eller liknande rörlig lönedel ska inte tas med i ovanstående genomsnittsberäkning om medarbetaren under intjänandeåret uppburit sådan ersättning under högst 60 dagar.
+
+> [!NOTE]
+> **Anmärkning**
+>
+> 1. Semestertillägget 0,5 % förutsätter att medarbetaren har tjänat in full betald semester. Om så inte är fallet ska semestertillägget justeras upp genom att 0,5 % multipliceras med antalet semesterdagar som medarbetaren är berättigad till enligt mom 3 och divideras med antalet betalda semesterdagar som medarbetaren har tjänat in.
+> 2. Vad övertidsersättning beträffar har divisorerna i § 4 mom 4:1:3 justerats så att de inbegriper semesterlön.
+
+#### Mom 4.3 Semesterersättning
+
+Semesterersättning beräknas som 4,6 % av den aktuella månadslönen per outtagen betald semesterdag jämte semestertillägg beräknat enligt mom 4:2. Semesterersättning för sparad semesterdag beräknas som om den sparade dagen tagits ut det semesterår anställningen upphörde. Beträffande ändrad sysselsättningsgrad – se mom 4:5.
+
 Semesterersättning får inte i någon form inkluderas i lönen.
-Vid tidsbegränsad anställning i högst en månad beräknas semesterersättning med 12 % på den uppburna
-ersättningen. Vid kortare anställningar inom programverksamheten kan beroende på anställningens
-särskilda karaktär, semesterersättning utgå med 12 % på den uppburna ersättningen utgå för en längre
-tidsperiod, dock högst omfattande 60 dagar, efter särskild överenskommelse med medarbetaren.
-Medarbetare och arbetsgivaren kan överenskomma om att även semesterledighet utan semesterlön kan
-förläggas under del av semestern. Obetald semesterledighet som förläggs tillsammans med betald
-semesterledighet, i syfte att få en sammanhängande semesterperiod, får högst uppgå till 25 dagar, om
-anställningen ingåtts före den 1 augusti. I annat fall får sådan ledighet högst uppgå till 8 dagar.
+
+Vid tidsbegränsad anställning i högst en månad beräknas semesterersättning med 12 % på den uppburna ersättningen. Vid kortare anställningar inom programverksamheten kan beroende på anställningens särskilda karaktär, semesterersättning utgå med 12 % på den uppburna ersättningen utgå för en längre tidsperiod, dock högst omfattande 60 dagar, efter särskild överenskommelse med medarbetaren.
+
+Medarbetare och arbetsgivaren kan överenskomma om att även semesterledighet utan semesterlön kan förläggas under del av semestern. Obetald semesterledighet som förläggs tillsammans med betald semesterledighet, i syfte att få en sammanhängande semesterperiod, får högst uppgå till 25 dagar, om anställningen ingåtts före den 1 augusti. I annat fall får sådan ledighet högst uppgå till 8 dagar.
+
 Vid beräkning av semesterns längd del av kalenderår ska ett brutet tal avrundas till närmast högre dagantal.
-## Mom 4.4 Löneavdrag
-För varje uttagen obetald semesterdag gör avdrag från medarbetarens aktuella månadslön med 4,6 % av
-månadslönen.
+
+#### Mom 4.4 Löneavdrag
+
+För varje uttagen obetald semesterdag gör avdrag från medarbetarens aktuella månadslön med 4,6 % av månadslönen.
+
 Definition av begreppet månadslön – se § 6 mom 1.
-Mom 4.5 Förändrad sysselsättningsgrad
+
+#### Mom 4.5 Förändrad sysselsättningsgrad
+
 Om medarbetaren tidigare under intjänande-/semesteråret haft en annan sysselsättningsgrad än vid
 semestertillfället ska den vid semestertillfället aktuella månadslönen proportioneras i förhållande till
 medarbetarens andel av full ordinarie arbetstid under redan passerad del av intjänandeåret.
-Definition av begreppet månadslön – se § 6 mom 1.
-Mom 4.6 Utbetalning av semesterlön
-Vid utbetalning av semesterlön gäller följande om inte lokal överenskommelse träffats om annat:
-Om medarbetarens lön till väsentlig del består av rörlig lön har denne rätt att vid det ordinarie
-löneutbetalningstillfället i samband med semestern få ett av arbetsgivaren uppskattat semestertillägg
-avseende den rörliga lönedelen utbetalat à conto.
-Arbetsgivaren ska senast vid semesterårets utgång betala ut det semestertillägg som kan återstå efter
-beräkning enligt mom 4:2.
-Semestertillägget om 0,8 % betalas ut vid det ordinarie löneutbetalningstillfället i samband med eller
-närmast efter semestern.
-Semestertillägget om 0,5 % betalas ut senast vid semesterårets slut.
 
-Mom 5 Sparande av semester
-Mom 5.1 Rätt att spara semesterdagar m.m.
-En medarbetare som har rätt till fler än 20 semesterdagar med semesterlön har rätt att spara det antalet
-semesterdagar som överstiger 20, förutsatt att medarbetaren inte samma år tar ut tidigare sparad semester.
-Arbetsgivaren och enskild medarbetare ska träffa överenskommelse om hur ovannämnda sparade
-semesterdagar ska läggas ut såväl beträffar semesteråret som förläggningen under detta.
-Medarbetare som vill spara semesterdagar ska underrätta arbetsgivaren om detta senast den 31 december
-under semesteråret. Om medarbetaren inte meddelar arbetsgivaren sin avsikt att spara resterande dagar
-under året inte uttagna semesterdagar ska, under förutsättning att reglerna om sparande av semester år
-tillämpliga, återstående semesterdagar betraktas som sparade. Har medarbetaren under året varken tagit ut
-eller meddelat sin avsikt att ta ut sparade semesterdagar, som enligt reglerna för semestersparande måste
-läggas ut, arbetsgivaren rätt att vid semesterårets slut avlösa sådana semesterdagar i pengar.
-Mom 5.2 Uttagande av sparad semester
+Definition av begreppet månadslön – se § 6 mom 1.
+
+#### Mom 4.6 Utbetalning av semesterlön
+
+Vid utbetalning av semesterlön gäller följande om inte lokal överenskommelse träffats om annat:
+
+- Semestertillägget om 0,8 % betalas ut vid det ordinarie löneutbetalningstillfället i samband med eller närmast efter semestern.
+- Semestertillägget om 0,5 % betalas ut senast vid semesterårets slut.
+
+Om medarbetarens lön till väsentlig del består av rörlig lön har denne rätt att vid det ordinarie löneutbetalningstillfället i samband med semestern få ett av arbetsgivaren uppskattat semestertillägg avseende den rörliga lönedelen utbetalat à conto.
+
+Arbetsgivaren ska senast vid semesterårets utgång betala ut det semestertillägg som kan återstå efter beräkning enligt mom 4:2.
+
+### Mom 5 Sparande av semester
+
+#### Mom 5.1 Rätt att spara semesterdagar m.m.
+
+En medarbetare som har rätt till fler än 20 semesterdagar med semesterlön har rätt att spara det antalet semesterdagar som överstiger 20, förutsatt att medarbetaren inte samma år tar ut tidigare sparad semester.
+
+Arbetsgivaren och enskild medarbetare ska träffa överenskommelse om hur ovannämnda sparade semesterdagar ska läggas ut såväl beträffar semesteråret som förläggningen under detta.
+
+Medarbetare som vill spara semesterdagar ska underrätta arbetsgivaren om detta senast den 31 december under semesteråret. Om medarbetaren inte meddelar arbetsgivaren sin avsikt att spara resterande dagar under året inte uttagna semesterdagar ska, under förutsättning att reglerna om sparande av semester år tillämpliga, återstående semesterdagar betraktas som sparade. Har medarbetaren under året varken tagit ut eller meddelat sin avsikt att ta ut sparade semesterdagar, som enligt reglerna för semestersparande måste läggas ut, arbetsgivaren rätt att vid semesterårets slut avlösa sådana semesterdagar i pengar.
+
+#### Mom 5.2 Uttagande av sparad semester
+
 Sparade semesterdagar ska tas ut i den ordning de sparats.
-Semesterdagar som sparats enligt lag ska tas ut före semesterdagar som sparats enligt mom 5.1 under
-samma år.
-Mom 5.3 Semesterlön och semestertillägg för sparade semesterdagar
-Semesterlön för sparad semesterdag beräknas enligt mom 4.1 och 4.2 (exklusive anmärkning 1). Vid
-beräkning av semestertillägget om 0,5 % ska dock gälla att all frånvaro under intjänandeåret ska behandlas
-på samma sätt som semesterlönegrundande frånvaro.
-Semesterlönen för sparad semesterdag ska vidare anpassas till medarbetarens andel av full ordinarie
-arbetstid under det semesterår då dagen sparades.
+
+Semesterdagar som sparats enligt lag ska tas ut före semesterdagar som sparats enligt mom 5.1 under samma år.
+
+#### Mom 5.3 Semesterlön och semestertillägg för sparade semesterdagar
+
+Semesterlön för sparad semesterdag beräknas enligt mom 4.1 och 4.2 (exklusive anmärkning 1). Vid beräkning av semestertillägget om 0,5 % ska dock gälla att all frånvaro under intjänandeåret ska behandlas på samma sätt som semesterlönegrundande frånvaro.
+
+Semesterlönen för sparad semesterdag ska vidare anpassas till medarbetarens andel av full ordinarie arbetstid under det semesterår då dagen sparades.
+
 Beträffande beräkning av andel av full ordinarie arbetstid - se mom 4.5.
-Mom 6 Avräkning av semesterlön
-Om medarbetaren som efter egen uppsägning slutar sin anställning under löpande kalenderår
-dessförinnan har fått ut för mycket semesterlön, görs avdrag på lönen eller semesterersättningen under
-uppsägningstiden.
+
+### Mom 6 Avräkning av semesterlön
+
+Om medarbetaren som efter egen uppsägning slutar sin anställning under löpande kalenderår dessförinnan har fått ut för mycket semesterlön, görs avdrag på lönen eller semesterersättningen under uppsägningstiden.
+
 Avdrag ska inte heller göras om anställningen upphör på grund av:
-- Medarbetarens sjukdom, eller
-- Förhållande som avses i 4 § tredje stycket lagen om anställningsskydd
-(1982:80) eller,
-- Uppsägning från arbetsgivarens sida, som beror på förhållanden som inte
-hänför sig till medarbetaren personligen.
-Mom 7 Intyg om uttagen semester
+1. Medarbetarens sjukdom, eller
+2. Förhållande som avses i 4 § tredje stycket lagen om anställningsskydd (1982:80) eller,
+3. Uppsägning från arbetsgivarens sida, som beror på förhållanden som inte hänför sig till medarbetaren personligen.
+
+### Mom 7 Intyg om uttagen semester
+
 Intyg om uttagen semester vid anställningens upphörande, se § 12 mom 3:8.
 
-Mom 8 Föräldraledighet i anslutning till semester
-Ansökan om föräldraledighet som avses infalla någon gång i perioden 1 juni till 31 augusti respektive år
-bör inges till arbetsgivaren i samband med semesteransökan, det vill säga normalt senast den 1 mars.
-Mom 9 Omvandling av semesterlönetillägg
-Medarbetaren kan efter skriftlig överenskommelse med arbetsgivaren omvandla värdet av det
-sammanlagda semesterlönetillägget om 0,8 % för ett år till att förläggas som ledig tid. För sådan utlagd
-ledig tid görs inte löneavdrag.
-Överenskommelse av detta slag kan träffas med utgångspunkt att gälla för ett helt kalenderår i taget. Part
-som vill att överenskommelsen ska upphöra nästkommande år ska underrätta part om detta senast den 1
-december.
-Har sådan överenskommelse träffats utgår inte semestertillägg för avtalade semesterdagar som den
-anställde i annat fall har rätt till enligt gällande kollektiv- och anställningsavtal.
-Semestertillägg som omvandlats till ledig tid får tas ut efter att semesterdagar har förbrukats. I fall sådana
-dagar inte tagits ut ett semesterår får sådana dagar endast sparas till året efter. Därefter förfaller sådan dag
-till betalning, dock senast i samband med januari månads löneutbetalning.
-## Anmärkning
-Av semesterlönen utgår 4,6 % lön och 0,8 % semestertillägg per dag. En omvandling av semestertillägget till
-ledig dag följer uträkningen:
-4,6 / 0,8 = 5,75, som också utgör de antal semestertillägg som ger en hel ledig dag
-Beräkning för omvandling av semestertillägg till lediga dagar följer modellen:
-Semesterrätt / 5,75 = omvandlade lediga dagar, samt återstående semestertillägg
-Exempelvis kan följande tillämpas:
-Antal semester dagar helt år      Antal semesterdagar att omvandla.
-25 dagar                                   4 dagar + 0,35 % av en månadslön
-26 dagar                                   4 dagar + 0,52 % av en månadslön
-27 dagar                                   4 dagar + 0,69 % av en månadslön
-28 dagar                                   4 dagar + 0,87 % av en månadslön
-29 dagar                                   5 dagar + 0,04 % av en månadslön
-30 dagar                                   5 dagar + 0,22 % av en månadslön
-31 dagar                                   5 dagar + 0,39 % av en månadslön
-32 dagar                                   5 dagar + 0,57 % av en månadslön
-33 dagar                                   5,5 dagar + 0,74 % av en månadslön
+### Mom 8 Föräldraledighet i anslutning till semester
 
-Mom 10 Semester för medarbetare med intermittent arbetstidsförläggning
-Med medarbetare med intermittent arbetstidsförläggning avses medarbetare som har sin arbetstid (hel-
-eller deltid) förlagd med oregelbundet antal arbetstimmar per arbetsdag. Med medarbetare med
-intermittent deltidsarbete avses medarbetare som enligt sitt arbetstidsschema inte arbetar varje dag i
-veckan.
-För beräkning av antalet semesterdagar för medarbetare med intermittent arbetstidsförläggning eller
-deltidsarbete gäller, med avvikelse från bestämmelserna i § 9 semesterlagen, följande.
-Mom 10.1 Semesterledighet som beräknas vara högst 18 dagar
-Vid semesterledighet som beräknas vara högst 18 dagar (mindre än tre veckor) ska det sammanlagda
-antalet arbetstimmar, som enligt tjänstgöringsschemat skulle ha utförts under semesterledigheten,
-divideras med det tal som motsvarar medarbetarens genomsnittliga arbetstid per dag.
-Det aktuella talet för i detta avtal angivna arbetstidsformer och de vanligaste förekommande
-sysselsättningsgraderna framgår av tabellen (100-delar)
+Ansökan om föräldraledighet som avses infalla någon gång i perioden 1 juni till 31 augusti respektive år bör inges till arbetsgivaren i samband med semesteransökan, det vill säga normalt senast den 1 mars.
+
+### Mom 9 Omvandling av semesterlönetillägg
+
+Medarbetaren kan efter skriftlig överenskommelse med arbetsgivaren omvandla värdet av det sammanlagda semesterlönetillägget om 0,8 % för ett år till att förläggas som ledig tid. För sådan utlagd ledig tid görs inte löneavdrag.
+
+Överenskommelse av detta slag kan träffas med utgångspunkt att gälla för ett helt kalenderår i taget. Part som vill att överenskommelsen ska upphöra nästkommande år ska underrätta part om detta senast den 1 december.
+
+Har sådan överenskommelse träffats utgår inte semestertillägg för avtalade semesterdagar som den anställde i annat fall har rätt till enligt gällande kollektiv- och anställningsavtal.
+
+Semestertillägg som omvandlats till ledig tid får tas ut efter att semesterdagar har förbrukats. I fall sådana dagar inte tagits ut ett semesterår får sådana dagar endast sparas till året efter. Därefter förfaller sådan dag till betalning, dock senast i samband med januari månads löneutbetalning.
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Av semesterlönen utgår 4,6 % lön och 0,8 % semestertillägg per dag. En omvandling av semestertillägget till
+ledig dag följer uträkningen:
+>
+> 4,6 / 0,8 = 5,75, som också utgör de antal semestertillägg som ger en hel ledig dag
+
+Beräkning för omvandling av semestertillägg till lediga dagar följer modellen:
+
+Semesterrätt / 5,75 = omvandlade lediga dagar, samt återstående semestertillägg
+
+Exempelvis kan följande tillämpas:
+
+| Antal semester dagar helt år | Antal semesterdagar att omvandla. |
+|-|-|
+| 25 dagar | 4 dagar + 0,35 % av en månadslön |
+| 26 dagar | 4 dagar + 0,52 % av en månadslön |
+| 27 dagar | 4 dagar + 0,69 % av en månadslön |
+| 28 dagar | 4 dagar + 0,87 % av en månadslön |
+| 29 dagar | 5 dagar + 0,04 % av en månadslön |
+| 30 dagar | 5 dagar + 0,22 % av en månadslön |
+| 31 dagar | 5 dagar + 0,39 % av en månadslön |
+| 32 dagar | 5 dagar + 0,57 % av en månadslön |
+| 33 dagar | 5,5 dagar + 0,74 % av en månadslön |
+
+### Mom 10 Semester för medarbetare med intermittent arbetstidsförläggning
+
+Med medarbetare med intermittent arbetstidsförläggning avses medarbetare som har sin arbetstid (hel- eller deltid) förlagd med oregelbundet antal arbetstimmar per arbetsdag. Med medarbetare med intermittent deltidsarbete avses medarbetare som enligt sitt arbetstidsschema inte arbetar varje dag i veckan.
+
+För beräkning av antalet semesterdagar för medarbetare med intermittent arbetstidsförläggning eller deltidsarbete gäller, med avvikelse från bestämmelserna i § 9 semesterlagen, följande.
+
+#### Mom 10.1 Semesterledighet som beräknas vara högst 18 dagar
+
+Vid semesterledighet som beräknas vara högst 18 dagar (mindre än tre veckor) ska det sammanlagda antalet arbetstimmar, som enligt tjänstgöringsschemat skulle ha utförts under semesterledigheten, divideras med det tal som motsvarar medarbetarens genomsnittliga arbetstid per dag.
+
+Det aktuella talet för i detta avtal angivna arbetstidsformer och de vanligaste förekommande sysselsättningsgraderna framgår av tabellen (100-delar)
+
 Genomsnittlig arbetstid per dag för
-Medarbetare med
-arbetstidsmått                        Heltid             ¾ - tid            ½-tid
-39,17  arbets-
-tidsmått/vecka                       7,83 tim          5,88 tim          3,92 tim
-36,5 arbetstids-
-mått/vecka                            7,30 tim          5,48 tim          3,65 tim
-32,5 arbetstids-
-mått/vecka                            6,50 tim          4,88 tim          3,25 tim
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Medarbetare med arbetstidsmått</th>
+      <th colspan="3">Genomsnittlig arbetstid per dag för</th>
+    </tr>
+    <tr>
+      <th>Heltid</th>
+      <th>¾-tid</th>
+      <th>½-tid</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>39,17 arbetstidsmått/vecka</td>
+      <td>7,83 tim</td>
+      <td>5,88 tim</td>
+      <td>3,92 tim</td>
+    </tr>
+    <tr>
+      <td>36,5 arbetstidsmått/vecka</td>
+      <td>7,30 tim</td>
+      <td>5,48 tim</td>
+      <td>3,65 tim</td>
+    </tr>
+    <tr>
+      <td>32,5 arbetstidsmått/vecka</td>
+      <td>6,50 tim</td>
+      <td>4,88 tim</td>
+      <td>3,25 tim</td>
+    </tr>
+  </tbody>
+</table>
+
 Den kvot som sålunda erhålls (beräknad med två decimaler) utgör såväl antalet semestertillägg som antalet
 förbrukade semesterdagar under semesterledigheten.
 Vid upprepad semesterledighet av detta slag under semesteråret summeras antalet utbetalda
