@@ -892,499 +892,607 @@ Genomsnittlig arbetstid per dag för
   </tbody>
 </table>
 
-Den kvot som sålunda erhålls (beräknad med två decimaler) utgör såväl antalet semestertillägg som antalet
-förbrukade semesterdagar under semesterledigheten.
-Vid upprepad semesterledighet av detta slag under semesteråret summeras antalet utbetalda
-semestertillägg respektive utlagda semesterdagar.
-Mom 10.2 Semesterledighet som beräknas vara minst 19 dagar
-Vid semesterledighet som beräknas vara minst 19 dagar förläggs semesterdagarna till måndag–till fredag
-med medarbetarens genomsnittliga arbetstidsmått för varje semesterdag. Eventuellt arbetsskyldiga
-veckoslut omedelbart före och omedelbart efter semesterledigheten ska vara lediga utan att semesterdagar
-konsumeras
+Den kvot som sålunda erhålls (beräknad med två decimaler) utgör såväl antalet semestertillägg som antalet förbrukade semesterdagar under semesterledigheten.
 
-Lördagar och söndagar om infaller under aktuell semesterledighet räknas inte som semesterdagar. Med
-söndag jämställs helgdag, påsk-, pingst-, midsommar-, jul- och nyårsafton. Semester enligt denna punkt
-ska i regel börja på en måndag.
-## Avstämningsregler
-Målsättningen med reglerna i mom 10:1 och 10:2 är att i möjligaste mån uppnå samma semesterförmåner
-som gäller för heltidsarbetande medarbetare med regelbunden arbetstid.
-## Semesterskuld
-Om summan av utbetalda semestertillägg/utlagda semesterdagar enligt mom 10.1 och antalet utlagda
-semesterdagar enligt mom 10.2 vid semesterårets utgång överstiger vad medarbetaren är berättigad till
-under aktuellt år, regleras semesterskulden antingen mot påföljande års semesterrätt eller genom kvittning
-mot tidigare sparad semesterrätt.
-## Semesterfordran
-Om summan av utbetalda semestertillägg/utlagda semesterdagar enligt mom 10.1 och antalet utlagda
-semesterdagar enligt mom 10.2 vid semesterårets utgång understiger vad medarbetaren är berättigad till, så
-hanteras sådan semesterfordran, både vad avser semestertillägg och semesterdagar, enligt tillämpliga regler
-i denna paragraf.
+Vid upprepad semesterledighet av detta slag under semesteråret summeras antalet utbetalda semestertillägg respektive utlagda semesterdagar.
 
-§ 8 Sjukdom m.m.
-Mom 1 Rätten till sjuklön
-Sjuklön från arbetsgivaren under de första 14 kalenderdagarna i sjukperioden utges enligt lagen om sjuklön
-(SjLL) med tillägg i mom 2:3 andra stycket. Den närmare beräkningen av sjuklönens storlek är angiven i
-mom 3-5.
+#### Mom 10.2 Semesterledighet som beräknas vara minst 19 dagar
+
+Vid semesterledighet som beräknas vara minst 19 dagar förläggs semesterdagarna till måndag–till fredag med medarbetarens genomsnittliga arbetstidsmått för varje semesterdag. Eventuellt arbetsskyldiga veckoslut omedelbart före och omedelbart efter semesterledigheten ska vara lediga utan att semesterdagar konsumeras
+
+Lördagar och söndagar om infaller under aktuell semesterledighet räknas inte som semesterdagar. Med söndag jämställs helgdag, påsk-, pingst-, midsommar-, jul- och nyårsafton. Semester enligt denna punkt ska i regel börja på en måndag.
+
+#### Avstämningsregler
+
+Målsättningen med reglerna i mom 10:1 och 10:2 är att i möjligaste mån uppnå samma semesterförmåner som gäller för heltidsarbetande medarbetare med regelbunden arbetstid.
+
+#### Semesterskuld
+
+Om summan av utbetalda semestertillägg/utlagda semesterdagar enligt mom 10.1 och antalet utlagda semesterdagar enligt mom 10.2 vid semesterårets utgång överstiger vad medarbetaren är berättigad till under aktuellt år, regleras semesterskulden antingen mot påföljande års semesterrätt eller genom kvittning mot tidigare sparad semesterrätt.
+
+#### Semesterfordran
+
+Om summan av utbetalda semestertillägg/utlagda semesterdagar enligt mom 10.1 och antalet utlagda semesterdagar enligt mom 10.2 vid semesterårets utgång understiger vad medarbetaren är berättigad till, så hanteras sådan semesterfordran, både vad avser semestertillägg och semesterdagar, enligt tillämpliga regler i denna paragraf.
+
+### § 8 Sjukdom m.m.
+
+#### Mom 1 Rätten till sjuklön
+
+Sjuklön från arbetsgivaren under de första 14 kalenderdagarna i sjukperioden utges enligt lagen om sjuklön (SjLL) med tillägg i mom 2:3 andra stycket. Den närmare beräkningen av sjuklönens storlek är angiven i mom 3-5.
+
 Sjuklön från arbetsgivaren fr.o.m. 15:e kalenderdagen i sjukperioden utges enligt detta avtal.
-Ny sjukperiod som börjar inom fem kalenderdagar från det att en tidigare sjukperiod upphörde skall
-betraktas som fortsättning på den tidigare sjukperioden.
-I de fall den avtalade anställningstiden är kortare än en månad är rätten till sjuklön begränsad enligt 3 §
-lagen om sjuklön.
-Bestämmelserna i denna paragraf som avser sjuklön under de första 14 kalenderdagarna gäller även
-medarbetare som innehar en anställning som utgör bisyssla.
-## Mom 1:1 Pensionärer
-Medarbetare som står kvar i tjänst eller anställs vid företaget efter 67 års ålder eller efter gällande ordinarie
-pensionsålder enligt ITP-planen har inte rätt till sjuklön från och med den 15:e kalenderdagen om inte
-särskild överenskommelse träffats om detta vid anställningen och om uppsägningstiden är en månad från
-både arbetsgivaren och den anställdes sida.
-Mom 2 Sjukanmälan mm
-## Mom 2:1 Sjukanmälan
-När en medarbetare blir sjuk och därför inte kan tjänstgöra skall han snarast möjligt underrätta
-arbetsgivaren om detta. Vidare skall han så snart ske kan meddela arbetsgivaren när han beräknar kunna
-återgå i arbete.
-Samma sak gäller om medarbetaren blir arbetsoförmögen på grund av olycksfall eller arbetsskada eller
-måste avhålla sig från arbete på grund av risk för överförande av smitta och rätt föreligger till ersättning
-enligt Socialförsäkringsbalken.
-Sjuklön skall som huvudregel inte utges för tid innan arbetsgivaren fått anmälan om sjukdomsfallet (8 §
-första stycket SjLL).
-## Mom 2:2 Försäkran
-Medarbetaren skall lämna arbetsgivaren en skriftlig försäkran om att han har varit sjuk, uppgifter om i
-vilken omfattning hans arbetsförmåga varit nedsatt på grund av sjukdomen och under vilka dagar han
-skulle ha arbetat (9 § SjLL).
-## Mom 2:3 Läkarintyg
-Arbetsgivaren är skyldig att utge sjuklön fr.o.m. den sjunde kalenderdagen efter dagen för sjukanmälan
-endast om medarbetaren styrker nedsättningen av arbetsförmågan och sjukperiodens längd med läkarintyg
-(8 § andra stycket SjLL).
-Om arbetsgivaren begär det skall medarbetaren styrka nedsättningen av arbetsförmågan med läkarintyg
-från tidigare dag. Arbetsgivaren har rätt att anvisa läkare.
 
-Mom 3 Sjuklönens storlek mm
-Mom 3:1 Sjuklönens storlek
-Den sjuklön som arbetsgivaren skall utge till medarbetaren beräknas genom att avdrag görs från lönen
-enligt nedan. Arbetsgivaren skall därvid göra sjukavdrag från den aktuella månadslönen.
-Mom 3:2 Sjukdom t o m 14 kalenderdagar per sjukperiod
+Ny sjukperiod som börjar inom fem kalenderdagar från det att en tidigare sjukperiod upphörde skall betraktas som fortsättning på den tidigare sjukperioden.
+
+I de fall den avtalade anställningstiden är kortare än en månad är rätten till sjuklön begränsad enligt 3 § lagen om sjuklön.
+
+Bestämmelserna i denna paragraf som avser sjuklön under de första 14 kalenderdagarna gäller även medarbetare som innehar en anställning som utgör bisyssla.
+
+#### Mom 1:1 Pensionärer
+
+Medarbetare som står kvar i tjänst eller anställs vid företaget efter 67 års ålder eller efter gällande ordinarie pensionsålder enligt ITP-planen har inte rätt till sjuklön från och med den 15:e kalenderdagen om inte särskild överenskommelse träffats om detta vid anställningen och om uppsägningstiden är en månad från både arbetsgivaren och den anställdes sida.
+
+### Mom 2 Sjukanmälan mm
+
+#### Mom 2:1 Sjukanmälan
+
+När en medarbetare blir sjuk och därför inte kan tjänstgöra skall han snarast möjligt underrätta arbetsgivaren om detta. Vidare skall han så snart ske kan meddela arbetsgivaren när han beräknar kunna återgå i arbete.
+
+Samma sak gäller om medarbetaren blir arbetsoförmögen på grund av olycksfall eller arbetsskada eller måste avhålla sig från arbete på grund av risk för överförande av smitta och rätt föreligger till ersättning enligt Socialförsäkringsbalken.
+
+Sjuklön skall som huvudregel inte utges för tid innan arbetsgivaren fått anmälan om sjukdomsfallet (8 § första stycket SjLL).
+
+#### Mom 2:2 Försäkran
+
+Medarbetaren skall lämna arbetsgivaren en skriftlig försäkran om att han har varit sjuk, uppgifter om i vilken omfattning hans arbetsförmåga varit nedsatt på grund av sjukdomen och under vilka dagar han skulle ha arbetat (9 § SjLL).
+
+#### Mom 2:3 Läkarintyg
+
+Arbetsgivaren är skyldig att utge sjuklön fr.o.m. den sjunde kalenderdagen efter dagen för sjukanmälan endast om medarbetaren styrker nedsättningen av arbetsförmågan och sjukperiodens längd med läkarintyg (8 § andra stycket SjLL).
+
+Om arbetsgivaren begär det skall medarbetaren styrka nedsättningen av arbetsförmågan med läkarintyg från tidigare dag. Arbetsgivaren har rätt att anvisa läkare.
+
+### Mom 3 Sjuklönens storlek mm
+
+#### Mom 3:1 Sjuklönens storlek
+
+Den sjuklön som arbetsgivaren skall utge till medarbetaren beräknas genom att avdrag görs från lönen enligt nedan. Arbetsgivaren skall därvid göra sjukavdrag från den aktuella månadslönen.
+
+#### Mom 3:2 Sjukdom t o m 14 kalenderdagar per sjukperiod
+
 För varje timme en medarbetare är frånvarande på grund av sjukdom görs sjukavdrag per timme med
 
-Om medarbetaren skulle ha utfört arbete på schemalagd förskjuten arbetstid utges dessutom sjuklön efter
-karenstid med 80 % av den skift- eller ob-ersättning som denne gått miste om.
-## Anmärkning 1
-Av § 8 Mom 1 framgår att sjukperiod som börjar inom 5 kalenderdagar från att en tidigare sjukperiod
-upphört ska betraktas som en fortsättning på tidigare sjukperiod. Det innebär att fortsatt karensavdrag kan
-behöva göras intill 20 procent av genomsnittlig veckoarbetstid i den fortsatta sjukperioden.
-## Anmärkning 2
-För medarbetare som enligt Försäkringskassans beslut är berättigad till sjuklön utan beaktande av karens, görs
-sjukavdrag enligt vad som gäller för sjukfrånvaro överstigande 20 procent av genomsnittlig veckoarbetstid till
-och med dag 14 i sjukperioden.
-## Anmärkning 3
-Antalet karensavdrag får enligt lagen inte överstiga tio under en tolvmånadersperiod. Om det vid en ny
-sjuklöneperiod visar sig att medarbetaren fått avdrag för tio tillfällen med karensavdrag inom tolv månader
-bakåt från den nya sjuklöneperiodens början, skall avdraget för de första 20 procenten av sjukfrånvaron
-beräknas enligt vad som gäller för sjukfrånvaro överstigande 20 procent av genomsnittlig veckoarbetstid till
-och med dag 14 i sjukperioden.
-Alla karensavdrag som görs enligt § 8 Mom 3:2 med sammanlagt högst 20 procent av genomsnittlig
-veckoarbetstid inom samma sjukperiod betraktas som ett tillfälle även om avdragen sker på olika dagar. Av § 8
-Mom 1 framgår att sjukperiod som börjar inom 5 kalenderdagar från att en tidigare sjukperiod upphört ska
-betraktas som en fortsättning på tidigare sjukperiod.
-## Anmärkning 4
-Med tjänstemannens genomsnittliga veckoarbetstid avses veckoarbetstiden i timmar för en normalvecka utan
-helgdag. För tjänstemän med intermittent eller oregelbunden tjänstgöring beräknas ett snitt över en
-representativ period.
-## Protokollsanteckning
-Om ändring av lön eller veckoarbetstid sker gäller följande:
-För sjukfrånvaro upp till 20 % av genomsnittlig
-veckoarbetstid (karens) i sjukperioden
-månadslönen × 12
-52 × veckoarbetstiden
-För sjukfrånvaro överstigande 20 % av genomsnittlig
-veckoarbetstid till och med dag 14 i
-sjukperioden
-## 20%×månadslönen×12
-## 52×veckoarbetstiden
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">
+        För sjukfrånvaro upp till 20 % av genomsnittlig veckoarbetstid (karens) i sjukperioden
+      </th>
+      <td><code>(månadslönen × 12) / (52 × veckoarbetstiden)</code></td>
+    </tr>
+    <tr>
+      <th scope="row">
+        För sjukfrånvaro överstigande 20 % av genomsnittlig veckoarbetstid till och med dag 14 i sjukperioden
+      </th>
+      <td><code>(20% × månadslönen × 12) / (52 × veckoarbetstiden)</code></td>
+    </tr>
+  </tbody>
+</table>
 
-Arbetsgivaren skall göra sjukavdrag med utgångspunkt från den gamla lönen respektive arbetstiden under
-längst den månad medarbetaren fått besked om sin nya lön respektive ändrad arbetstid.
-Mom 3:3 Sjukdom fr.o.m. 15:e kalenderdagen
-För varje sjukdag (även arbetsfria vardagar samt sön- och helgdagar) görs sjukavdrag per dag enligt
-följande.
+Om medarbetaren skulle ha utfört arbete på schemalagd förskjuten arbetstid utges dessutom sjuklön efter karenstid med 80 % av den skift- eller ob-ersättning som denne gått miste om.
+
+> [!NOTE]
+> **Anmärkning 1**
+> 
+> Av § 8 Mom 1 framgår att sjukperiod som börjar inom 5 kalenderdagar från att en tidigare sjukperiod upphört ska betraktas som en fortsättning på tidigare sjukperiod. Det innebär att fortsatt karensavdrag kan behöva göras intill 20 procent av genomsnittlig veckoarbetstid i den fortsatta sjukperioden.
+
+> [!NOTE]
+> **Anmärkning 2**
+>
+> För medarbetare som enligt Försäkringskassans beslut är berättigad till sjuklön utan beaktande av karens, görs sjukavdrag enligt vad som gäller för sjukfrånvaro överstigande 20 procent av genomsnittlig veckoarbetstid till och med dag 14 i sjukperioden.
+
+> [!NOTE]
+> **Anmärkning 3**
+>
+> Antalet karensavdrag får enligt lagen inte överstiga tio under en tolvmånadersperiod. Om det vid en ny sjuklöneperiod visar sig att medarbetaren fått avdrag för tio tillfällen med karensavdrag inom tolv månader bakåt från den nya sjuklöneperiodens början, skall avdraget för de första 20 procenten av sjukfrånvaron beräknas enligt vad som gäller för sjukfrånvaro överstigande 20 procent av genomsnittlig veckoarbetstid till och med dag 14 i sjukperioden.
+>
+> Alla karensavdrag som görs enligt § 8 Mom 3:2 med sammanlagt högst 20 procent av genomsnittlig veckoarbetstid inom samma sjukperiod betraktas som ett tillfälle även om avdragen sker på olika dagar. Av § 8 Mom 1 framgår att sjukperiod som börjar inom 5 kalenderdagar från att en tidigare sjukperiod upphört ska betraktas som en fortsättning på tidigare sjukperiod.
+
+> [!NOTE]
+> **Anmärkning 3**
+>
+> Med tjänstemannens genomsnittliga veckoarbetstid avses veckoarbetstiden i timmar för en normalvecka utan helgdag. För tjänstemän med intermittent eller oregelbunden tjänstgöring beräknas ett snitt över en representativ period.
+
+> [!NOTE]
+> **Protokollsanteckning**
+>
+> Om ändring av lön eller veckoarbetstid sker gäller följande:
+>
+> Arbetsgivaren skall göra sjukavdrag med utgångspunkt från den gamla lönen respektive arbetstiden under längst den månad medarbetaren fått besked om sin nya lön respektive ändrad arbetstid.
+
+### Mom 3:3 Sjukdom fr.o.m. 15:e kalenderdagen
+
+För varje sjukdag (även arbetsfria vardagar samt sön- och helgdagar) görs sjukavdrag per dag enligt följande.
+
 För medarbetare med månadslön om högst 10 x prisbasbelopp (pbb)/12:
-## Anmärkning:
-Lönegränsen 10 prisbasbelopp gäller från och med den 1 januari 2022.
+
+```
+90% * ((månadslönen×12) / 365)
+```
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Lönegränsen 10 prisbasbelopp gäller från och med den 1 januari 2022.
 
 För medarbetare med högre månadslön än ovan:
-prisbasbeloppet
-- prisbasbeloppet
-## Protokollsanteckning
-Om ändring av lön eller veckoarbetstid sker gäller följande.
-Arbetsgivaren skall göra sjukavdrag med utgångspunkt från den gamla lönen respektive arbetstiden under
-längst den månad medarbetaren fått besked om sin nya lön respektive ändrad arbetstid.
-## Anmärkningar
-## 90%×
-månadslönen×12
-## 365
-## 90%×+10%×
-## 10×pbb
-## 365
-## (månadslönen×12−10×pbb*)
-## 365
-- Sjukavdraget per dag får inte överstiga daglönen
-Mom 3:3:1 Sjuklönetidens längd
-## Huvudregel
-Om medarbetaren enligt bestämmelserna i detta avtal har rätt till sjuklön fr.o.m. 15:e kalenderdagen i
-sjukperioden skall arbetsgivaren utge sådan
-I sjukperioden ingår dels samtliga dagar med sjukavdrag (även karensdagar), dels arbetsfria dagar som
-infaller under en sjukperiod.
+
+```
+90% * ((10*prisbasbeloppet)/365) + 10% * ((månadslönen*12-10*prisbasbeloppet)/365)
+```
+
+> [!NOTE]
+> **Protokollsanteckning**
+>
+> Om ändring av lön eller veckoarbetstid sker gäller följande.
+>
+> Arbetsgivaren skall göra sjukavdrag med utgångspunkt från den gamla lönen respektive arbetstiden under längst den månad medarbetaren fått besked om sin nya lön respektive ändrad arbetstid.
+
+> [!NOTE]
+> **Anmärkningar**
+>
+> 1. Sjukavdraget per dag får inte överstiga daglönen
+
+#### Mom 3:3:1 Sjuklönetidens längd
+
+##### Huvudregel
+
+Om medarbetaren enligt bestämmelserna i detta avtal har rätt till sjuklön fr.o.m. 15:e kalenderdagen i sjukperioden skall arbetsgivaren utge sådan
+
+- till medarbetare i grupp 1: t o m 90:e kalenderdagen i sjukperioden
+- till medarbetare i grupp 2: t o m 45:e kalenderdagen i sjukperioden
+
+I sjukperioden ingår dels samtliga dagar med sjukavdrag (även karensdagar), dels arbetsfria dagar som infaller under en sjukperiod.
+
 Medarbetare tillhör grupp 1
+
+- om medarbetaren har varit anställd hos arbetsgivaren under minst ett år i följd
+
 eller
-till medarbetare i grupp 1: t o m 90:e kalenderdagen i sjukperioden
-till medarbetare i grupp 2: t o m 45:e kalenderdagen i sjukperioden
-om medarbetaren har varit anställd hos arbetsgivaren under minst ett år i följd
-om medarbetaren övergått direkt från en anställning i vilken han har haft rätt till sjuklön under minst
-90 dagar.
+
+- om medarbetaren övergått direkt från en anställning i vilken han har haft rätt till sjuklön under minst 90 dagar.
 
 Medarbetare tillhör grupp 2 i övriga fall.
-## Undantag 1
-Om medarbetaren under en tolvmånadersperiod är sjuk vid två eller flera tillfällen är rätten till sjuklön
-begränsad till totalt 105 dagar för grupp 1 och 45 dagar för grupp 2. Om medarbetaren under de senaste 12
-månaderna, räknat från den aktuella sjukperiodens början, har fått sjuklön från arbetsgivaren, skall antalet
-sjuklönedagar dras från 105 respektive 45. Resten utgör det maximala antalet sjuklönedagar för det aktuella
-sjukdomsfallet.
-Med sjuklönedagar avses dels samtliga dagar med sjukavdrag (även karensdagar), dels arbetsfria dagar som
-infaller i en sjukperiod.
-Rätten till sjuklön under de första 14 kalenderdagarna i sjukperioden påverkas inte av ovanstående
-begränsningsregel.
-## Undantag 2
+
+##### Undantag 1
+
+Om medarbetaren under en tolvmånadersperiod är sjuk vid två eller flera tillfällen är rätten till sjuklön begränsad till totalt 105 dagar för grupp 1 och 45 dagar för grupp 2. Om medarbetaren under de senaste 12 månaderna, räknat från den aktuella sjukperiodens början, har fått sjuklön från arbetsgivaren, skall antalet sjuklönedagar dras från 105 respektive 45. Resten utgör det maximala antalet sjuklönedagar för det aktuella sjukdomsfallet.
+
+Med sjuklönedagar avses dels samtliga dagar med sjukavdrag (även karensdagar), dels arbetsfria dagar som infaller i en sjukperiod.
+
+Rätten till sjuklön under de första 14 kalenderdagarna i sjukperioden påverkas inte av ovanstående begränsningsregel.
+
+##### Undantag 2
+
 Om sjukersättning eller aktivitetsersättning börjar utges till medarbetaren upphör rätten till sjuklön.
-Mom 4 Vissa samordningsregler
-Mom 4:1 Arbetsskada och rehabilitering
-Om en medarbetare på grund av arbetsskada uppbär livränta i stället för sjukpenning och detta sker under
-tid då han har rätt till sjuklön, skall sjuklönen från arbetsgivaren inte beräknas enligt mom 3 utan i stället
-utgöra skillnaden mellan 90 procent av månadslönen och livräntan.
-Om en medarbetare är frånvarande med rehabiliteringspenning under eljest sjuklöneberättigad tid enligt
-mom 3:3:1 görs löneavdrag som vid sjukdom fr.o.m. 15:e kalenderdagen enligt mom 3:3.
-Mom 4:2 Ersättning från annan försäkring
-Om en medarbetare får ersättning från annan försäkring än ITP eller trygghetsförsäkring vid arbetsskada
-(TFA) och arbetsgivaren har betalat premien för denna försäkring skall sjuklönen minskas med
-ersättningen.
-Mom 4:3 Annan ersättning från staten
-Sjuklön ska inte minskas om tjänstemannen får ersättning från staten som smittbärare, för arbetsskada eller
-personskadeskydd enligt Socialförsäkringsbalken, men om tjänstemannen får annan ersättning från staten
-ska sjuklönen minskas med sådan ersättning.
 
-Mom 5 Inskränkningar i rätten till sjuklön
-Mom 5:1 Ej informerat om viss sjukdom
-Om en medarbetare vid anställningen har förtigit att han lider av viss sjukdom, har han inte rätt till sjuklön
-fr.o.m. 15:e kalenderdagen i sjukperioden vid arbetsoförmåga som beror på sjukdomen i fråga.
-Mom 5:2 Friskintyg kan ej presenteras
-Om arbetsgivaren vid anställningen har begärt friskintyg av en medarbetare men denne på grund av
-sjukdom inte har kunnat lämna sådan, har medarbetaren inte rätt till sjuklön fr.o.m. 15:e kalenderdagen i
-sjukperioden vid arbetsoförmåga som beror på sjukdomen ifråga.
-Mom 5:3 Nedsatta sjukförmåner
-Om en medarbetares sjukförmåner har nedsatts enligt Socialförsäkringsbalken skall arbetsgivaren reducera
-sjuklönen i motsvarande mån.
-Mom 5:4 Ersättning från trygghetsförsäkring (TFA)
-Om en medarbetare har skadats vid olycksfall som vållats av tredje man och ersättning inte utges enligt
-trygghetsförsäkring vid arbetsskada (TFA), skall arbetsgivaren utge sjuklön endast om - respektive i den
-utsträckning - medarbetaren inte kan få skadestånd för förlorad arbetsförtjänst från den för skadan
-ansvarige.
-Mom 5:5 Skada hos annan arbetsgivare
-Om en medarbetare har skadats vid olycksfall under förvärvsarbete för annan arbetsgivare eller i samband
-med egen rörelse skall arbetsgivaren utge sjuklön fr.o.m. 15:e kalenderdagen i sjukperioden endast om han
-särskilt har åtagit sig detta.
-Mom 5:6 Vissa andra inskränkningar
+### Mom 4 Vissa samordningsregler
+
+#### Mom 4:1 Arbetsskada och rehabilitering
+
+Om en medarbetare på grund av arbetsskada uppbär livränta i stället för sjukpenning och detta sker under tid då han har rätt till sjuklön, skall sjuklönen från arbetsgivaren inte beräknas enligt mom 3 utan i stället utgöra skillnaden mellan 90 procent av månadslönen och livräntan.
+
+Om en medarbetare är frånvarande med rehabiliteringspenning under eljest sjuklöneberättigad tid enligt mom 3:3:1 görs löneavdrag som vid sjukdom fr.o.m. 15:e kalenderdagen enligt mom 3:3.
+
+#### Mom 4:2 Ersättning från annan försäkring
+
+Om en medarbetare får ersättning från annan försäkring än ITP eller trygghetsförsäkring vid arbetsskada (TFA) och arbetsgivaren har betalat premien för denna försäkring skall sjuklönen minskas med ersättningen.
+
+#### Mom 4:3 Annan ersättning från staten
+
+Sjuklön ska inte minskas om tjänstemannen får ersättning från staten som smittbärare, för arbetsskada eller personskadeskydd enligt Socialförsäkringsbalken, men om tjänstemannen får annan ersättning från staten ska sjuklönen minskas med sådan ersättning.
+
+### Mom 5 Inskränkningar i rätten till sjuklön
+
+#### Mom 5:1 Ej informerat om viss sjukdom
+
+Om en medarbetare vid anställningen har förtigit att han lider av viss sjukdom, har han inte rätt till sjuklön fr.o.m. 15:e kalenderdagen i sjukperioden vid arbetsoförmåga som beror på sjukdomen i fråga.
+
+#### Mom 5:2 Friskintyg kan ej presenteras
+
+Om arbetsgivaren vid anställningen har begärt friskintyg av en medarbetare men denne på grund av sjukdom inte har kunnat lämna sådan, har medarbetaren inte rätt till sjuklön fr.o.m. 15:e kalenderdagen i sjukperioden vid arbetsoförmåga som beror på sjukdomen ifråga.
+
+#### Mom 5:3 Nedsatta sjukförmåner
+
+Om en medarbetares sjukförmåner har nedsatts enligt Socialförsäkringsbalken skall arbetsgivaren reducera sjuklönen i motsvarande mån.
+
+#### Mom 5:4 Ersättning från trygghetsförsäkring (TFA)
+
+Om en medarbetare har skadats vid olycksfall som vållats av tredje man och ersättning inte utges enligt trygghetsförsäkring vid arbetsskada (TFA), skall arbetsgivaren utge sjuklön endast om - respektive i den utsträckning - medarbetaren inte kan få skadestånd för förlorad arbetsförtjänst från den för skadan ansvarige.
+
+#### Mom 5:5 Skada hos annan arbetsgivare
+
+Om en medarbetare har skadats vid olycksfall under förvärvsarbete för annan arbetsgivare eller i samband med egen rörelse skall arbetsgivaren utge sjuklön fr.o.m. 15:e kalenderdagen i sjukperioden endast om han särskilt har åtagit sig detta.
+
+#### Mom 5:6 Vissa andra inskränkningar
+
 Arbetsgivaren är inte skyldig att utge sjuklön fr.o.m. 15:e kalenderdagen i sjukperioden
-## Anmärkningar
-om medarbetaren har undantagits från sjukförsäkringsförmåner enligt Socialförsäkringsbalken, eller
-om medarbetarens arbetsoförmåga är självförvållad, eller
-om medarbetare kvarstår i tjänst eller anställs efter 67 års ålder, eller efter ordinarie pensionsålder
-enligt ITP-planen, om inte särskild överenskommelse om detta träffats mellan arbetsgivaren och
-medarbetaren förutsatt att uppsägningstiden från båda parter är en månad
-om medarbetaren har skadats till följd av krigsåtgärder, om inte överenskommelse om annat träffas.
-- Beträffande inskränkning i rätten till sjuklön på grund av sjukpension - se
-mom 3:3:1 undantag 2.
-- Beträffande inskränkning i rätten till sjuklön på grund av vissa
-samordningsregler
-- se mom 4.
 
-## Mom 6 Föräldratillägg
-## Mom 6:1 Föräldratillägg
-Medarbetare som är tjänstledig på grund av graviditet, i samband med barns födelse eller adoption har rätt
-till föräldratillägg från arbetsgivaren om medarbetaren varit anställd hos arbetsgivaren minst i ett år i följd
-vid barnets födelse eller vid mottagandet av adoptivbarn.
-Tjänstledighet som berättigar till föräldratillägg ska äga rum inom 24 månader från barnets födelse eller
-från när barnets omhändertagits vid adoption.
-Kvalifikation för föräldratillägg tillkommer också visstidsanställd om senast ingångna anställningen varat
-minst sex månader. Den anställde kan då lägga samman tidigare anställningstid i företaget för att uppnå
-kvalifikationstiden om ett år, dock begränsat till anställningstid som denne haft i företaget de senaste 24
-månaderna, före föräldraledigheten påbörjas.
-Medarbetare som är tjänstledig på grund av graviditet, i samband med barns födelse eller adoption har rätt
-till föräldratillägg från arbetsgivaren om medarbetaren varit anställd hos arbetsgivaren minst i ett år i följd
-vid barnets födelse eller vid mottagandet av adoptivbarn.
-Tjänstledighet som berättigar till föräldratillägg ska äga rum inom 24 månader från barnets födelse eller
-från när barnets omhändertagits vid adoption.
-Kvalifikation för föräldratillägg tillkommer också visstidsanställd om senast ingångna anställningen varat
-minst sex månader. Den anställde kan då lägga samman tidigare anställningstid i företaget för att uppnå
-kvalifikationstiden om ett år, dock begränsat till anställningstid som denne haft i företaget de senaste 24
-månaderna, före föräldraledigheten påbörjas.
-Mom 6:2 Föräldratilläggets storlek
-Föräldratillägget beräknas olika beroende på om medarbetarens månadslön över- eller understiger en viss
-brytpunkt.
+- om medarbetaren har undantagits från sjukförsäkringsförmåner enligt Socialförsäkringsbalken, eller
+- om medarbetarens arbetsoförmåga är självförvållad, eller
+- om medarbetare kvarstår i tjänst eller anställs efter 67 års ålder, eller efter ordinarie pensionsålder enligt ITP-planen, om inte särskild överenskommelse om detta träffats mellan arbetsgivaren och medarbetaren förutsatt att uppsägningstiden från båda parter är en månad
+- om medarbetaren har skadats till följd av krigsåtgärder, om inte överenskommelse om annat träffas.
+
+> [!NOTE]
+> **Anmärkningar**
+>
+> 1. Beträffande inskränkning i rätten till sjuklön på grund av sjukpension - se mom 3:3:1 undantag 2.
+> 2. Beträffande inskränkning i rätten till sjuklön på grund av vissa samordningsregler
+>   - se mom 4.
+
+### Mom 6 Föräldratillägg
+
+#### Mom 6:1 Föräldratillägg
+
+Medarbetare som är tjänstledig på grund av graviditet, i samband med barns födelse eller adoption har rätt till föräldratillägg från arbetsgivaren om medarbetaren varit anställd hos arbetsgivaren minst i ett år i följd vid barnets födelse eller vid mottagandet av adoptivbarn.
+
+Tjänstledighet som berättigar till föräldratillägg ska äga rum inom 24 månader från barnets födelse eller från när barnets omhändertagits vid adoption.
+
+Kvalifikation för föräldratillägg tillkommer också visstidsanställd om senast ingångna anställningen varat minst sex månader. Den anställde kan då lägga samman tidigare anställningstid i företaget för att uppnå kvalifikationstiden om ett år, dock begränsat till anställningstid som denne haft i företaget de senaste 24 månaderna, före föräldraledigheten påbörjas.
+
+Medarbetare som är tjänstledig på grund av graviditet, i samband med barns födelse eller adoption har rätt till föräldratillägg från arbetsgivaren om medarbetaren varit anställd hos arbetsgivaren minst i ett år i följd vid barnets födelse eller vid mottagandet av adoptivbarn.
+
+Tjänstledighet som berättigar till föräldratillägg ska äga rum inom 24 månader från barnets födelse eller från när barnets omhändertagits vid adoption.
+
+Kvalifikation för föräldratillägg tillkommer också visstidsanställd om senast ingångna anställningen varat minst sex månader. Den anställde kan då lägga samman tidigare anställningstid i företaget för att uppnå kvalifikationstiden om ett år, dock begränsat till anställningstid som denne haft i företaget de senaste 24 månaderna, före föräldraledigheten påbörjas.
+
+### Mom 6:2 Föräldratilläggets storlek
+
+Föräldratillägget beräknas olika beroende på om medarbetarens månadslön över- eller understiger en viss brytpunkt.
+
 Denna brytpunkt beräknas som:
-För medarbetare med månadslön som uppgår till högst brytpunkten beräknas föräldratillägg genom ett
-avdrag per dag med:
-För medarbetare med månadslön över brytpunkten beräknas föräldratillägg per dag med ett avdrag per
-dag:
-10 × prisbasbeloppet (pbb)
-## 12
-## Exempel 2025:
+
+```
+(10 * prisbasbeloppet) / 12
+```
+
+Exempel 2025:
+
 Pbb: år 2025 är 58 800 kronor.
+
 Lönegränsen blir därför:
-49 000 kr för 2025
-## =
-## 10×58800kr
-## 12
-## 90 % ×
-månadslönen×12
-## 365
-## NYTT
-## NYTT
-## NYTT
 
-## Prisbasbelopp
+```
+(10 * 58800) / 12 = 49000kr för 2025
+```
 
-Om medarbetaren har varit anställd i ett men inte två år i följd utgörs föräldratillägget av en månadslön
-minskat med 30 dagsavdrag enligt denna paragraf.
-Om medarbetaren har varit anställd i två år men inte tre år i följd utgörs föräldratillägget av tre
-månadslöner minskat med 90 dagsavdrag enligt denna paragraf.
-Om medarbetaren har varit anställd i tre år eller mer i följd utgörs föräldratillägget av sex månadslöner
-minskat med 180 dagsavdrag enligt denna paragraf.
-Föräldratillägget utges endast för sammanhängande ledighetsperiod om minst en månad om inte annat
-överenskommes mellan lokala parter eller enskild medarbetare och närmaste chef.
-Om medarbetare, för en föräldraledighetsperiod, inte sökt hel ledighet, utan delvis regelbundet arbetar
-under ledigheten, eller om medarbetaren har en deltidsanställning, får föräldratillägg utges proportionellt
-för sådan tid. Antal dagar som föräldratillägg kan utges ska dock minskas som om hel ledighet förlagts.
+För medarbetare med månadslön som uppgår till högst brytpunkten beräknas föräldratillägg genom ett avdrag per dag med:
+
+```
+90% * ((månadslönen * 12) / 365)
+```
+
+För medarbetare med månadslön över brytpunkten beräknas föräldratillägg per dag med ett avdrag per dag:
+
+```
+90% * ((10*pbb)/365) + 10% * ((månadslönen * 12 - 10 pbb)/365)
+```
+
+Om medarbetaren har varit anställd i ett men inte två år i följd utgörs föräldratillägget av en månadslön minskat med 30 dagsavdrag enligt denna paragraf.
+
+Om medarbetaren har varit anställd i två år men inte tre år i följd utgörs föräldratillägget av tre månadslöner minskat med 90 dagsavdrag enligt denna paragraf.
+
+Om medarbetaren har varit anställd i tre år eller mer i följd utgörs föräldratillägget av sex månadslöner minskat med 180 dagsavdrag enligt denna paragraf.
+
+Föräldratillägget utges endast för sammanhängande ledighetsperiod om minst en månad om inte annat överenskommes mellan lokala parter eller enskild medarbetare och närmaste chef.
+
+Om medarbetare, för en föräldraledighetsperiod, inte sökt hel ledighet, utan delvis regelbundet arbetar under ledigheten, eller om medarbetaren har en deltidsanställning, får föräldratillägg utges proportionellt för sådan tid. Antal dagar som föräldratillägg kan utges ska dock minskas som om hel ledighet förlagts.
+
 Vid del av ledighet proportioneras beloppen.
-## 90%×+10%×
-## 10×pbb
-## 365
-## (månadslönen× 12 − 10pbb)
-## 365
-## Mom 6:3 Utbetalning
-Föräldratillägget utbetalas ordinarie löneutbetalningstillfälle under den tid som medarbetaren erhåller
-föräldrapenning enligt Socialförsäkringsbalken.
-Mom 6:4 Samordning föräldrapenning
-Föräldratillägg utges inte om medarbetaren undantas från föräldrapenning enligt Socialförsäkringsbalken.
-Om denna förmån har nedsatts skall föräldratillägget reduceras i motsvarande grad.
-Mom 6:5 Avdrag vid graviditet
-Under tjänstledigheten för graviditet görs avdrag enligt § 9 mom 2:2. Detta gäller både när medarbetaren
-har rätt till föräldratillägg enligt ovan och när medarbetaren saknar sådan rätt.
-Mom 7 Ledighet med tillfällig föräldrapenning
-Vid ledighet med tillfällig föräldrapenning under högst 15 arbetsdagar per med arbetare, barn och år görs
-avdrag per timme beräknat enligt följande.
-Vid ledighet med tillfällig föräldrapenning under högst 15 arbetsdagar per med arbetare, barn och år görs
-avdrag per timme beräknat enligt följande.
-För medarbetare med månadslön om högst 7,5 x prisbasbeloppet/12 (36 750 kronor 2025):
-## 90 % ×
-månadslönen × 12
-## 52 ×veckoarbetstiden
-För medarbetare med månadslön över 7,5 x prisbasbeloppet/12 (36 750 2025):
-## NYTT
-## NYTT
+
+#### Mom 6:3 Utbetalning
+
+Föräldratillägget utbetalas ordinarie löneutbetalningstillfälle under den tid som medarbetaren erhåller föräldrapenning enligt Socialförsäkringsbalken.
+
+#### Mom 6:4 Samordning föräldrapenning
+
+Föräldratillägg utges inte om medarbetaren undantas från föräldrapenning enligt Socialförsäkringsbalken. Om denna förmån har nedsatts skall föräldratillägget reduceras i motsvarande grad.
+
+#### Mom 6:5 Avdrag vid graviditet
+
+Under tjänstledigheten för graviditet görs avdrag enligt § 9 mom 2:2. Detta gäller både när medarbetaren har rätt till föräldratillägg enligt ovan och när medarbetaren saknar sådan rätt.
+
+### Mom 7 Ledighet med tillfällig föräldrapenning
+
+Vid ledighet med tillfällig föräldrapenning under högst 15 arbetsdagar per med arbetare, barn och år görs avdrag per timme beräknat enligt följande.
+
+För medarbetare med månadslön om högst 7,5 x prisbasbeloppet/12 (36750 kronor 2025):
+
+```
+90% * ((månadslönen * 12)/(52 * veckoarbetstiden))
+```
+
+Vid ledighet med tillfällig föräldrapenning under högst 15 arbetsdagar per med arbetare, barn och år görs avdrag per timme beräknat enligt följande.
+
+För medarbetare med månadslön över 7,5 x prisbasbeloppet/12 (36750 2025):
+
+```
+90% * ((7.55 * pbb)/(52 * veckoarbetstiden)) + 10% * ((månadslönen * 12 - 7.5pbb)/(52 * veckoarbetstiden))
+```
 
 För varje arbetsdag en medarbetare är helt eller delvis ledig tas en av de 15 dagarna i anspråk.
-Vid ledighet med tillfällig föräldrapenning utöver 15 arbetsdagar gäller följande eftersom tillfällig
-föräldrapenning beräknas per timme oavsett ledighetens längd.
-Om en medarbetare är frånvarande utöver ovan nämnda 15 dagar, görs löneavdrag per frånvarotimme
-med:
-Om ledighetsperiod med tillfällig föräldrapenning omfattar en eller flera hela kalendermånader skall
-medarbetarens hela månadslön dras av för var och en av kalendermånaderna. Om de avräkningsperioder
-som företaget använder vid löneutbetalningen inte sammanfaller med kalendermånaderna har
-arbetsgivaren rätt att vid tillämpning av denna bestämmelse byta begreppet ”kalendermånad” mot
-## ”avräkningsperiod”.
-## 90 %
-## × +
-## 10 %
-## ×
-7,5 × pbb
-52 × veckoarbetstiden
 
-(månadslönen ×12 − 7,5 pbb)
-52 × veckoarbetstiden
-månadslönen × 12
-52 × veckoarbetstiden
-## Mom 8 Smittbärare
-Om en medarbetare måste avhålla sig från arbete på grund av risk för överförande av smitta och rätt
-föreligger till smittbärarpenning gäller följande:
-För varje timme en medarbetare är frånvarande görs för frånvaro t o m den 14:e kalenderdagen avdrag per
-timme med
+Vid ledighet med tillfällig föräldrapenning utöver 15 arbetsdagar gäller följande eftersom tillfällig föräldrapenning beräknas per timme oavsett ledighetens längd.
+
+Om en medarbetare är frånvarande utöver ovan nämnda 15 dagar, görs löneavdrag per frånvarotimme med:
+
+```
+((månadslönen * 12)/(52 * veckoarbetstiden))
+```
+
+Om ledighetsperiod med tillfällig föräldrapenning omfattar en eller flera hela kalendermånader skall medarbetarens hela månadslön dras av för var och en av kalendermånaderna. Om de avräkningsperioder som företaget använder vid löneutbetalningen inte sammanfaller med kalendermånaderna har arbetsgivaren rätt att vid tillämpning av denna bestämmelse byta begreppet ”kalendermånad” mot ”avräkningsperiod”.
+
+### Mom 8 Smittbärare
+
+Om en medarbetare måste avhålla sig från arbete på grund av risk för överförande av smitta och rätt föreligger till smittbärarpenning gäller följande:
+
+För varje timme en medarbetare är frånvarande görs för frånvaro t o m den 14:e kalenderdagen avdrag per timme med
+
+```
+((månadslönen * 12)/(52 * veckoarbetstiden))
+```
+
 Fr.o.m. den 15:e kalenderdagen görs avdrag enligt mom 3:3.
-månadslönen × 12
-52 × veckoarbetstiden
 
-§ 9 Permission och tjänstledighet
-## Mom 1 Permission
-Med permission avses en kort ledighet med bibehållen lön. Permission beviljas i regel endast för del av
-arbetsdag. I särskilda fall (t ex vid hastigt påkommande sjukdomsfall inom medarbetares familj eller nära
-anhörigs frånfälle) kan dock permission beviljas även för en eller flera dagar. När påsk-, midsommar- och
-julafton inte är sedvanliga fridagar bör permission beviljas under dessa dagar i den mån så kan ske utan
-olägenhet för verksamheten vid företaget.
-## Mom 2 Tjänstledighet
-Mom 2:1 Allmänna bestämmelser
-Med tjänstledighet avses ledighet utan lön. Tjänstledighet beviljas enligt lag eller i övrigt om arbetsgivaren
-finner att så kan ske utan olägenhet för verksamheten vid företaget.
-När arbetsgivaren beviljar tjänstledighet skall han för medarbetaren ange vilken tidsperiod denna omfattar.
-Tjänstledighet får inte förläggas så att den inleds och/eller avslutas på söndag och/eller helgdag som är
-arbetsfri för den enskilde medarbetaren. För medarbetare som har veckovila förlagd till annan dag än
-söndag skall motsvarande regel tillämpas.
-## Mom 2:2 Löneavdrag
+## § 9 Permission och tjänstledighet
+
+### Mom 1 Permission
+
+Med permission avses en kort ledighet med bibehållen lön. Permission beviljas i regel endast för del av arbetsdag. I särskilda fall (t ex vid hastigt påkommande sjukdomsfall inom medarbetares familj eller nära anhörigs frånfälle) kan dock permission beviljas även för en eller flera dagar. När påsk-, midsommar- och julafton inte är sedvanliga fridagar bör permission beviljas under dessa dagar i den mån så kan ske utan olägenhet för verksamheten vid företaget.
+
+### Mom 2 Tjänstledighet
+
+#### Mom 2:1 Allmänna bestämmelser
+
+Med tjänstledighet avses ledighet utan lön. Tjänstledighet beviljas enligt lag eller i övrigt om arbetsgivaren finner att så kan ske utan olägenhet för verksamheten vid företaget.
+
+När arbetsgivaren beviljar tjänstledighet skall han för medarbetaren ange vilken tidsperiod denna omfattar. Tjänstledighet får inte förläggas så att den inleds och/eller avslutas på söndag och/eller helgdag som är arbetsfri för den enskilde medarbetaren. För medarbetare som har veckovila förlagd till annan dag än söndag skall motsvarande regel tillämpas.
+
+#### Mom 2:2 Löneavdrag
+
 När en medarbetare är frånvarande på grund av tjänstledighet görs avdrag enligt följande:
+
 Om medarbetaren är tjänstledig
+
+- under en period om högst 5 arbetsdagar skall för varje dag som medarbetaren är tjänstledig avdrag från månadslönen göras med 1/21.
+- under en period längre än 5 arbetsdagar skall för varje tjänstledighetsdag (även för den enskilde medarbetaren arbetsfri vardag samt sön- eller helgdagar) avdrag göras med daglönen,
+
 För del av dag görs avdrag per timme med månadslönen delad med 175
-Om medarbetaren är deltidsanställd och arbetar full ordinarie arbetstid endast under vissa av veckans
-arbetsdagar (s k intermittent deltidsarbete) skall tjänstledighetsavdrag göras genom att månadslönen
-divideras med faktorn:
-## Anmärkning
-Med ”antal arbetsdagar/vecka” avses antalet arbetsdagar per helgfri vecka beräknat i genomsnitt per månad.
-Avdrag enligt ovan skall göras för varje dag under vilken medarbetaren är tjänstledig och som annars skulle
-ha utgjort arbetsdag för denne.
-Om en tjänstledighetsperiod omfattar en eller flera hela kalendermånader skall medarbetarens hela
-månadslön avdras för var och en av kalendermånaderna. Om de avräkningsperioder som företaget
-använder vid löneutbetalningen inte sammanfaller med kalendermånaderna har arbetsgivaren rätt att vid
-tillämpning av denna bestämmelse byta ut begreppet ”kalendermånad” mot ”avräkningsperiod”.
-under en period om högst 5 arbetsdagar skall för varje dag som medarbetaren är tjänstledig avdrag
-från månadslönen göras med 1/21.
-under en period längre än 5 arbetsdagar skall för varje tjänstledighetsdag (även för den enskilde
-medarbetaren arbetsfri vardag samt sön- eller helgdagar) avdrag göras med daglönen,
-## 21 ×
-antalet arbetsdagar per vecka
-## 5
 
-Mom 3 Rätt till ledig dag
-Mom 3.1 Rätten till ledighet
-Medarbetare har rätt till förkortning av arbetstiden. För heltidsarbetande medarbetare utgör
-arbetstidsförkortningen en (1) betald ledig dag under ett kalenderår. Medarbetare som arbetar deltid har
-rätt till förkortad arbetstid i proportion till sysselsättningsgraden vid ledigheten.
-Mom 3.2 Förläggning av ledighet
+Om medarbetaren är deltidsanställd och arbetar full ordinarie arbetstid endast under vissa av veckans arbetsdagar (s k intermittent deltidsarbete) skall tjänstledighetsavdrag göras genom att månadslönen divideras med faktorn:
 
-Arbetsgivaren beslutar om förläggning av en ledig dag. Alternativt kan arbetstidsförkortningen förläggas
-till två lediga halvdagar i anslutning till veckoslut eller helgdagar.
+```
+21 * (antalet arbetsdagar per vecka / 5)
+```
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Med ”antal arbetsdagar/vecka” avses antalet arbetsdagar per helgfri vecka beräknat i genomsnitt per månad.
+
+Avdrag enligt ovan skall göras för varje dag under vilken medarbetaren är tjänstledig och som annars skulle ha utgjort arbetsdag för denne.
+
+Om en tjänstledighetsperiod omfattar en eller flera hela kalendermånader skall medarbetarens hela månadslön avdras för var och en av kalendermånaderna. Om de avräkningsperioder som företaget använder vid löneutbetalningen inte sammanfaller med kalendermånaderna har arbetsgivaren rätt att vid tillämpning av denna bestämmelse byta ut begreppet ”kalendermånad” mot ”avräkningsperiod”.
+
+### Mom 3 Rätt till ledig dag
+
+#### Mom 3.1 Rätten till ledighet
+
+Medarbetare har rätt till förkortning av arbetstiden. För heltidsarbetande medarbetare utgör arbetstidsförkortningen en (1) betald ledig dag under ett kalenderår. Medarbetare som arbetar deltid har rätt till förkortad arbetstid i proportion till sysselsättningsgraden vid ledigheten.
+
+#### Mom 3.2 Förläggning av ledighet
+
+Arbetsgivaren beslutar om förläggning av en ledig dag. Alternativt kan arbetstidsförkortningen förläggas till två lediga halvdagar i anslutning till veckoslut eller helgdagar.
+
 Förläggningen ska gälla för samtliga medarbetare inom berörd arbetsgrupp.
-Arbetsgivaren ska senast före årsskiftet underrätta medarbetarna inom berörd arbetsgrupp om
-förläggningen för det kommande kalenderåret. Vid förläggning av ledighet i januari ska arbetsgivaren
-underrätta medarbetarna senast en månad före ledigheten.
-Om arbetsgivaren inte har underrättat medarbetarna om förläggning enligt föregående stycke, får
-medarbetarna arbetstidsförkortning genom att fredagen efter Kristi himmelfärdsdag är ledig.
-Lokala parter kan träffa annan överenskommelse om förläggning av ledigheten. Sådan överenskommelse
-kan t ex innebära förläggning av ledig tid som del av dag eller per timme.
-Om en medarbetare måste arbeta under den dag som ledighet har förlagts till, får arbetsgivaren förlägga
-ledigheten till en annan dag i anslutning till helgdag eller veckoslut.
-Rätt till ledighet förutsätter att medarbetaren är kvar i anställningen vid ledighetstidpunkten. Medarbetare
-vars anställning upphört under kalenderåret utan att ha fått arbetstidsförkortning får inte någon
-kompensation för detta. Detsamma gäller medarbetare som vid tidpunkten för ledigheten är frånvarande
-exempelvis på grund av sjukdom eller tjänstledighet. Den medarbetare som varit ledig men som slutar
-senare under kalenderåret blir inte återbetalningsskyldig.
-## Anmärkning
-Ledighet enligt mom. 3.2 får inte förläggas på midsommarafton, julafton eller nyårsafton.
-## NYTT
-## NYTT
+
+Arbetsgivaren ska senast före årsskiftet underrätta medarbetarna inom berörd arbetsgrupp om förläggningen för det kommande kalenderåret. Vid förläggning av ledighet i januari ska arbetsgivaren underrätta medarbetarna senast en månad före ledigheten.
+
+Om arbetsgivaren inte har underrättat medarbetarna om förläggning enligt föregående stycke, får medarbetarna arbetstidsförkortning genom att fredagen efter Kristi himmelfärdsdag är ledig.
+
+Lokala parter kan träffa annan överenskommelse om förläggning av ledigheten. Sådan överenskommelse kan t ex innebära förläggning av ledig tid som del av dag eller per timme.
+
+Om en medarbetare måste arbeta under den dag som ledighet har förlagts till, får arbetsgivaren förlägga ledigheten till en annan dag i anslutning till helgdag eller veckoslut.
+
+Rätt till ledighet förutsätter att medarbetaren är kvar i anställningen vid ledighetstidpunkten. Medarbetare vars anställning upphört under kalenderåret utan att ha fått arbetstidsförkortning får inte någon kompensation för detta. Detsamma gäller medarbetare som vid tidpunkten för ledigheten är frånvarande exempelvis på grund av sjukdom eller tjänstledighet. Den medarbetare som varit ledig men som slutar senare under kalenderåret blir inte återbetalningsskyldig.
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Ledighet enligt mom. 3.2 får inte förläggas på midsommarafton, julafton eller nyårsafton.
 
 ## § 10 Kompetensutveckling
-## Mom 1 Allmänt
-Arbetsgivaren ansvarar för all kompetensutveckling av medarbetarna i tjänsten. Kompetensutvecklingen
-styrs av företagets långsiktiga utveckling samt medarbetarnas behov av utveckling i arbetet. Medarbetaren
-har, vid sidan av arbetsgivaren, ett eget ansvar för att hans/hennes kompetens utvecklas i takt med
-företaget. Den årliga verksamhetsplaneringen skall omsättas i aktiva kompetensutvecklingsåtgärder för
-enskilda medarbetare.
-I det årliga medarbetarsamtalet, mellan chef och medarbetare skall alltid kompetensutvecklingsbehovet för
-varje medarbetare diskuteras och beslutade kompetensutvecklingsinsatser för individen dokumenteras och
-följas upp.
-Mom 2 Lokalt inflytande
-I anslutning till att arbetsgivarens årliga verksamhetsplan fastställs skall arbetsgivaren samverka med de
-fackliga organisationerna om planerade kompetensutvecklingsinsatser. Arbetsgivaren skall dessutom minst
-en gång per år till de fackliga organisationerna redovisa en sammanfattning av genomförda
-kompetensutvecklingsinsatser inom företaget och företagets bedömningar om framtida kompetensbehov.
+
+### Mom 1 Allmänt
+
+Arbetsgivaren ansvarar för all kompetensutveckling av medarbetarna i tjänsten. Kompetensutvecklingen styrs av företagets långsiktiga utveckling samt medarbetarnas behov av utveckling i arbetet. Medarbetaren har, vid sidan av arbetsgivaren, ett eget ansvar för att hans/hennes kompetens utvecklas i takt med företaget. Den årliga verksamhetsplaneringen skall omsättas i aktiva kompetensutvecklingsåtgärder för enskilda medarbetare.
+
+I det årliga medarbetarsamtalet, mellan chef och medarbetare skall alltid kompetensutvecklingsbehovet för varje medarbetare diskuteras och beslutade kompetensutvecklingsinsatser för individen dokumenteras och följas upp.
+
+### Mom 2 Lokalt inflytande
+
+I anslutning till att arbetsgivarens årliga verksamhetsplan fastställs skall arbetsgivaren samverka med de fackliga organisationerna om planerade kompetensutvecklingsinsatser. Arbetsgivaren skall dessutom minst en gång per år till de fackliga organisationerna redovisa en sammanfattning av genomförda kompetensutvecklingsinsatser inom företaget och företagets bedömningar om framtida kompetensbehov.
 
 ## § 11 Upphovsrätt
-Mom 1 Rätten till upphovsrättsligt skyddade verk och prestationer
-För vissa medarbetare råder ett upphovsrättsligt anställningsförhållande. Med detta avses att dessa i
-tjänsten framställer litterära och konstnärliga verk eller utför andra prestationer som skyddas av
-upphovsrättslagen.
-Rätten till sådana verk och prestationer tillkommer företaget för nyttjande i dess verksamhet såväl under
-anställningstiden som därefter. Vid utnyttjandet skall företaget iaktta medarbetarens ideella rätt enligt 3 §
-upphovsrättslagen.
-De närmare förutsättningarna för företagets utnyttjande regleras i överenskommelse mellan de lokala
-parterna.
-Mom 2 Ersättning för visst utnyttjande
-För utnyttjande utöver vad som kan anses ligga inom ramen för anställningsavtalet betalar företaget årligen
-ett belopp att fördelas bland berörda medarbetare. Beloppet fastställs årligen av de centrala parterna i
-förhandling.
-Fördelningen av ersättningen sker enligt regler och i former som de lokala parterna kommer överens om.
-## § 12 Uppsägning
-Uppsägningsreglerna anpassas till de för övriga tjänstemän och övergångsbestämmelser införs.
-## Mom 1 Uppsägningstid
-Mom 1:1 Uppsägning från medarbetarens sida
-Uppsägningstiden från medarbetarens sida är följande om inte annat följer av 3:1-5 nedan:
-Medarbetarens uppsägningstid i månaderUppsägningstid
-## Upplysning
-Hur anställningstidens längd enligt ovan skall beräknas anges i 3 § lagen om anställningsskydd.
-## Anmärkning
-Om medarbetarens nuvarande anställning ingåtts före den 1 april 2013 är uppsägningstiden dock minst det
-antal månader som gällde för medarbetaren den 31 mars 2013. Denna uppsägningstid beräknas enligt
-tabellerna nedan.
-mindre än 2 år1 månad
-fr.o.m. 2 år2 månader
-Mom 1:2 Uppsägning från arbetsgivarens sida *)
-Uppsägningstiden från arbetsgivarens sida är följande om inte annat följer av 3:1-5:
-Anställningstid vid företagetUppsägningstid
-Mindre än 2 år1 månad
-fr.o.m. 2 år till 4 år2 månad
 
-Anställningstid vid företagetUppsägningstid
-Övergångsbestämmelse. Uppsägningstider för tjänstemän anställda före den 1 april 2013.
-Om medarbetarens nuvarande anställning ingåtts före den 1 april 2013 är uppsägningstiden dock minst det
-antal månader som gällde för medarbetaren den 31 mars 2013. Denna uppsägningstid beräknas enligt
-tabellerna nedan.
-Uppsägning från medarbetarens sida
-Anställningstid vid
-företaget
-Medarbetarens uppsägningstid i månader
-Uppsägning från arbetsgivarens sida
-Anställningstid vid
-företaget **)
-Medarbetarens uppsägningstid
+### Mom 1 Rätten till upphovsrättsligt skyddade verk och prestationer
+
+För vissa medarbetare råder ett upphovsrättsligt anställningsförhållande. Med detta avses att dessa i tjänsten framställer litterära och konstnärliga verk eller utför andra prestationer som skyddas av upphovsrättslagen.
+
+Rätten till sådana verk och prestationer tillkommer företaget för nyttjande i dess verksamhet såväl under anställningstiden som därefter. Vid utnyttjandet skall företaget iaktta medarbetarens ideella rätt enligt 3 § upphovsrättslagen.
+
+De närmare förutsättningarna för företagets utnyttjande regleras i överenskommelse mellan de lokala parterna.
+
+### Mom 2 Ersättning för visst utnyttjande
+
+För utnyttjande utöver vad som kan anses ligga inom ramen för anställningsavtalet betalar företaget årligen ett belopp att fördelas bland berörda medarbetare. Beloppet fastställs årligen av de centrala parterna i förhandling.
+
+Fördelningen av ersättningen sker enligt regler och i former som de lokala parterna kommer överens om.
+
+## § 12 Uppsägning
+
+Uppsägningsreglerna anpassas till de för övriga tjänstemän och övergångsbestämmelser införs.
+
+### Mom 1 Uppsägningstid
+
+#### Mom 1:1 Uppsägning från medarbetarens sida
+
+Uppsägningstiden från medarbetarens sida är följande om inte annat följer av 3:1-5 nedan:
+
+| Medarbetarens uppsägningstid i månader | Uppsägningstid |
+|-|-|
+| mindre än 2 år | 1 månad |
+| fr.o.m. 2 år | 2 månader |
+
+> [!NOTE]
+> **Upplysning**
+>
+> Hur anställningstidens längd enligt ovan skall beräknas anges i 3 § lagen om anställningsskydd.
+
+> [!NOTE]
+> **Anmärkning**
+>
+> Om medarbetarens nuvarande anställning ingåtts före den 1 april 2013 är uppsägningstiden dock minst det antal månader som gällde för medarbetaren den 31 mars 2013. Denna uppsägningstid beräknas enligt tabellerna nedan.
+
+#### Mom 1:2 Uppsägning från arbetsgivarens sida *)
+
+Uppsägningstiden från arbetsgivarens sida är följande om inte annat följer av 3:1-5:
+
+| Anställningstid vid företaget | Uppsägningstid |
+|-|-|
+| Mindre än 2 år | 1 månad |
+| fr.o.m. 2 år till 4 år | 2 månad |
+| fr.o.m. 4 år till 6 år | 3 månad |
+| fr.o.m. 6 år till 8 år | 4 månad |
+| fr.o.m. 8 år till 10 år | 5 månad |
+| fr.o.m. 10 år | 6 månad |
+
+**Övergångsbestämmelse. Uppsägningstider för tjänstemän anställda före den 1 april 2013.**
+
+Om medarbetarens nuvarande anställning ingåtts före den 1 april 2013 är uppsägningstiden dock minst det antal månader som gällde för medarbetaren den 31 mars 2013. Denna uppsägningstid beräknas enligt tabellerna nedan.
+
+_Uppsägning från medarbetarens sida_
+
+<table>
+  <thead>
+    <tr>
+      <th>Anställningstid vid företaget</th>
+      <th colspan="4">Medarbetarens uppsägningstid i månader</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th colspan="4">Medarbetaren har</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>inte fyllt 23 år</th>
+      <th>fyllt 23 år</th>
+      <th>fyllt 30 år</th>
+      <th>fyllt 35 år</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Mindre 6 månader</th>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th scope="row">fr.o.m. 6 månader till 2 år</th>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th scope="row">fr.o.m. 2 år</th>
+      <td>1</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+
+_Uppsägning från arbetsgivarens sida_
+
+<table>
+  <thead>
+    <tr>
+      <th>Anställningstid vid företaget **)</th>
+      <th colspan="3">Medarbetarens uppsägningstid</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th colspan="3">Medarbetaren har</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>inte fyllt 23 år</th>
+      <th>fyllt 23 år</th>
+      <th>fyllt 35 år</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th colspan="3">Uppsägningstid i månader</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Mindre än 6 månader</th>
+      <td>1</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th scope="row">fr.o.m. 6 månader till 2 år</th>
+      <td>1</td>
+      <td>3</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th scope="row">fr.o.m. 2 år till 6 år</th>
+      <td>1</td>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th scope="row">fr.o.m. 6 år</th>
+      <td>2</td>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table>
+
+
 *)Om uppsägning sker på grund av arbetsbrist måste observeras att det i omställningsavtalet finns
 bestämmelser som skall beaktas av arbetsgivaren.
+
 **)Om beräkningen av anställningstidens längd stadgas i lagen om anställningsskydd.
-fr.o.m. 4 år till 6 år3 månad
-fr.o.m. 6 år till 8 år4 månad
-fr.o.m. 8 år till 10 år5 månad
-fr.o.m. 10 år6 månad
 Medarbetaren har
 
-inte fyllt
-23 år
-fyllt 23
-år
-fyllt 30
-år
-fyllt 35 år
-Mindre 6 månader1111
-fr.o.m. 6 månader till 2
-år
-## 1123
-fr.o.m. 2 år1333
-Medarbetaren har
-inte fyllt 23 årfyllt 23 årfyllt 35 år
-Uppsägningstid i månader
-Mindre än 6 månader133
-fr.o.m. 6 månader till 2 år134
-fr.o.m. 2 år till 6 år166
-fr.o.m. 6 år266
-Mom 1:3 Förlängd uppsägningstid
-Om en medarbetare som har sagts upp på grund av arbetsbrist, vid uppsägningsdagen har uppnått 55 års
-ålder och en sammanhängande anställningstid om 10 år, skall den enligt detta avtal gällande
-uppsägningstiden förlängas med sex månader.
+#### Mom 1:3 Förlängd uppsägningstid
 
-## * Upplysning
-Hur anställningstidens längd enligt ovan beräknas anges i 3 § i lagen om anställningsskydd.
+Om en medarbetare som har sagts upp på grund av arbetsbrist, vid uppsägningsdagen har uppnått 55 års ålder och en sammanhängande anställningstid om 10 år, skall den enligt detta avtal gällande uppsägningstiden förlängas med sex månader.
+
+> [!NOTE]
+> **Upplysning**
+>
+> Hur anställningstidens längd enligt ovan beräknas anges i 3 § i lagen om anställningsskydd.
+
 Mom 2 Formen för uppsägning m.m.
 ## Mom 2:1 Uppsägning
 För att det inte skall uppstå tvist om huruvida uppsägning har skett eller inte, bör medarbetaren göra sin
