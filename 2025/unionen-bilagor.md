@@ -461,7 +461,6 @@ Förhandlingsordningen gäller tills vidare med en uppsägningstid av sex månad
       <th scope="row">Ärende</th>
       <td>Lokalt arbetstidsavtal inom SVT</td>
     </tr>
-
     <tr>
       <th scope="row">Parter</th>
       <td>
@@ -473,7 +472,6 @@ Förhandlingsordningen gäller tills vidare med en uppsägningstid av sex månad
         </ul>
       </td>
     </tr>
-
     <tr>
       <th scope="row">Tid</th>
       <td>
